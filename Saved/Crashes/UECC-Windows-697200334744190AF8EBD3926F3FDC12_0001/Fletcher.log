@@ -1,0 +1,1261 @@
+﻿Log file open, 05/05/23 23:09:14
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=1596)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Fletcher
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "C:\Users\Pontus\OneDrive\Dokument\Unreal Projects\Fletcher\Fletcher.uproject"""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (22H2) [10.0.19045.2846] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="1f35a9a346c4b8c8e6a440a0d813990c"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.442241
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-697200334744190AF8EBD3926F3FDC12
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Unix ini files took 0.04 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.04 seconds
+LogConfig: Display: Loading Android ini files took 0.05 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogConfig: Display: Loading IOS ini files took 0.06 seconds
+LogConfig: Display: Loading TVOS ini files took 0.06 seconds
+LogConfig: Display: Loading Windows ini files took 0.03 seconds
+LogConfig: Display: Loading Linux ini files took 0.09 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.09 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogConfig: Display: Loading Mac ini files took 0.11 seconds
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (22H2) [10.0.19045.2846] (), CPU: Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz, GPU: NVIDIA GeForce RTX 2070
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: E:/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.05.05-21.09.17:662][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.05.05-21.09.17:662][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.05.05-21.09.17:662][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.05.05-21.09.17:662][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.05.05-21.09.17:662][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.05.05-21.09.17:662][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.05.05-21.09.17:662][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.05.05-21.09.17:662][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.05.05-21.09.17:662][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.05.05-21.09.17:662][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.05.05-21.09.17:662][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.05.05-21.09.17:662][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.05.05-21.09.17:662][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.05.05-21.09.17:662][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.05.05-21.09.17:662][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.05.05-21.09.17:662][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.05.05-21.09.17:662][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.05.05-21.09.17:662][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.05.05-21.09.17:662][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.05.05-21.09.17:662][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.05.05-21.09.17:662][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.05.05-21.09.17:662][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.05.05-21.09.17:662][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.05.05-21.09.17:662][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.05.05-21.09.17:662][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.05.05-21.09.17:662][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.05.05-21.09.17:662][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.05.05-21.09.17:662][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.05.05-21.09.17:662][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.05.05-21.09.17:662][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.05.05-21.09.17:662][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.05.05-21.09.17:663][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.05.05-21.09.17:663][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.05.05-21.09.17:663][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.05.05-21.09.17:663][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.05.05-21.09.17:663][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.05.05-21.09.17:663][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.05.05-21.09.17:663][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.05.05-21.09.17:663][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.05.05-21.09.17:663][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.05.05-21.09.17:663][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.05.05-21.09.17:663][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.05.05-21.09.17:663][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.05.05-21.09.17:663][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.05.05-21.09.17:663][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.05.05-21.09.17:663][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.05.05-21.09.17:663][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.05.05-21.09.17:663][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.05.05-21.09.17:663][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.05.05-21.09.17:663][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.05.05-21.09.17:663][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.05.05-21.09.17:663][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.05.05-21.09.17:663][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.05.05-21.09.17:663][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.05.05-21.09.17:663][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.05.05-21.09.17:663][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.05.05-21.09.17:663][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.05.05-21.09.17:668][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.05.05-21.09.17:668][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.05.05-21.09.17:668][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.05.05-21.09.17:668][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.05.05-21.09.17:668][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.05.05-21.09.17:668][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.05.05-21.09.17:668][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.05.05-21.09.17:668][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.05.05-21.09.17:668][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.05.05-21.09.17:668][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.05.05-21.09.17:668][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.05.05-21.09.17:740][  0]LogD3D12RHI: Aftermath initialized
+[2023.05.05-21.09.17:740][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2023.05.05-21.09.17:993][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 2070 (Max supported Feature Level 12_1, shader model 6.6)
+[2023.05.05-21.09.17:993][  0]LogD3D12RHI: Adapter has 8019MB of dedicated video memory, 0MB of dedicated system memory, and 8150MB of shared system memory, 2 output[s]
+[2023.05.05-21.09.18:012][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2023.05.05-21.09.18:012][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8150MB of shared system memory, 0 output[s]
+[2023.05.05-21.09.18:012][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2023.05.05-21.09.18:012][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.05.05-21.09.18:012][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.05.05-21.09.18:012][  0]LogHAL: Display: Platform has ~ 16 GB [17092608000 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.05.05-21.09.18:012][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.05.05-21.09.18:012][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.05.05-21.09.18:012][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.05.05-21.09.18:012][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.05.05-21.09.18:012][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Saved/Config/WindowsEditor/Editor.ini]
+[2023.05.05-21.09.18:012][  0]LogInit: Computer: DESKTOP-F7OBPQ0
+[2023.05.05-21.09.18:012][  0]LogInit: User: Pontus
+[2023.05.05-21.09.18:012][  0]LogInit: CPU Page size=4096, Cores=6
+[2023.05.05-21.09.18:012][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.05.05-21.09.18:012][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2023.05.05-21.09.18:012][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.05.05-21.09.18:012][  0]LogMemory: Process Physical Memory: 274.71 MB used, 284.48 MB peak
+[2023.05.05-21.09.18:012][  0]LogMemory: Process Virtual Memory: 235.51 MB used, 235.51 MB peak
+[2023.05.05-21.09.18:012][  0]LogMemory: Physical Memory: 9020.44 MB used,  7280.34 MB free, 16300.78 MB total
+[2023.05.05-21.09.18:012][  0]LogMemory: Virtual Memory: 21069.20 MB used,  34143.58 MB free, 55212.78 MB total
+[2023.05.05-21.09.18:012][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.05.05-21.09.18:018][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.05.05-21.09.18:124][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.05.05-21.09.18:133][  0]LogInit: Using OS detected language (sv-SE).
+[2023.05.05-21.09.18:133][  0]LogInit: Using OS detected locale (sv-SE).
+[2023.05.05-21.09.18:174][  0]LogTextLocalizationManager: No localization for 'sv-SE' exists, so 'en' will be used for the language.
+[2023.05.05-21.09.18:599][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.05.05-21.09.18:599][  0]LogWindowsTextInputMethodSystem:   - Svenska (Sverige) - (Keyboard).
+[2023.05.05-21.09.18:599][  0]LogWindowsTextInputMethodSystem:   - Engelska (Storbritannien) - (Keyboard).
+[2023.05.05-21.09.18:599][  0]LogWindowsTextInputMethodSystem:   - Engelska (USA) - (Keyboard).
+[2023.05.05-21.09.18:599][  0]LogWindowsTextInputMethodSystem: Activated input method: Svenska (Sverige) - (Keyboard).
+[2023.05.05-21.09.18:713][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.05.05-21.09.18:713][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.05.05-21.09.21:858][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2023.05.05-21.09.21:862][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2023.05.05-21.09.21:862][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2023.05.05-21.09.21:953][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2023.05.05-21.09.21:953][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2023.05.05-21.09.21:953][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2023.05.05-21.09.21:953][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2023.05.05-21.09.21:953][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2023.05.05-21.09.21:953][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2023.05.05-21.09.21:953][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2023.05.05-21.09.21:953][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2023.05.05-21.09.21:953][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2023.05.05-21.09.21:953][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2023.05.05-21.09.21:953][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2023.05.05-21.09.21:953][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2023.05.05-21.09.21:953][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2023.05.05-21.09.21:953][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2023.05.05-21.09.21:953][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2023.05.05-21.09.21:953][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2023.05.05-21.09.21:994][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2023.05.05-21.09.22:002][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2023.05.05-21.09.22:016][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2023.05.05-21.09.22:031][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2023.05.05-21.09.22:031][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2023.05.05-21.09.22:101][  0]LogD3D12RHI:     GPU DeviceId: 0x1f02 (for the marketing name, search the web for "GPU Device Id")
+[2023.05.05-21.09.22:101][  0]LogWindows: Attached monitors:
+[2023.05.05-21.09.22:101][  0]LogWindows:     resolution: 2560x1440, work area: (0, 0) -> (2560, 1400), device: '\\.\DISPLAY1' [PRIMARY]
+[2023.05.05-21.09.22:101][  0]LogWindows:     resolution: 1920x1080, work area: (2560, 174) -> (4480, 1214), device: '\\.\DISPLAY2'
+[2023.05.05-21.09.22:101][  0]LogWindows: Found 2 attached monitors.
+[2023.05.05-21.09.22:101][  0]LogWindows: EnumDisplayDevices:
+[2023.05.05-21.09.22:101][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2070' (P:1 D:1), name: '\\.\DISPLAY1'
+[2023.05.05-21.09.22:101][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2070' (P:0 D:1), name: '\\.\DISPLAY2'
+[2023.05.05-21.09.22:101][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2070' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.05.05-21.09.22:101][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.05.05-21.09.22:102][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.05.05-21.09.22:102][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 2070
+[2023.05.05-21.09.22:102][  0]LogD3D12RHI:   Driver Version: 527.56 (internal:31.0.15.2756, unified:527.56)
+[2023.05.05-21.09.22:102][  0]LogD3D12RHI:      Driver Date: 12-5-2022
+[2023.05.05-21.09.22:102][  0]LogRHI: Texture pool is 4568 MB (70% of 6525 MB)
+[2023.05.05-21.09.22:102][  0]LogD3D12RHI: Async texture creation enabled
+[2023.05.05-21.09.22:102][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2023.05.05-21.09.22:169][  0]LogRHI: GeForceNow SDK initialized: 0
+[2023.05.05-21.09.22:213][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Fletcher.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Intermediate/TurnkeyReport_0.log" -log="C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Intermediate/TurnkeyLog_0.log" -project="C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Fletcher.uproject"  -platform=all'
+[2023.05.05-21.09.22:213][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""E:/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Fletcher.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Intermediate/TurnkeyReport_0.log" -log="C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Intermediate/TurnkeyLog_0.log" -project="C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Fletcher.uproject"  -platform=all" ]
+[2023.05.05-21.09.22:359][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.05.05-21.09.22:445][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = -2147450730
+[2023.05.05-21.09.22:445][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.05.05-21.09.22:445][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.05.05-21.09.22:471][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.05.05-21.09.22:471][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.05.05-21.09.22:471][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.05.05-21.09.22:471][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.05.05-21.09.22:471][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.05.05-21.09.22:471][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.05.05-21.09.22:471][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.05.05-21.09.22:471][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.05.05-21.09.22:471][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.05.05-21.09.22:471][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.05.05-21.09.22:525][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.05.05-21.09.22:525][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.05.05-21.09.22:544][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.05.05-21.09.22:544][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.05.05-21.09.22:558][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.05.05-21.09.22:558][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.05.05-21.09.22:558][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.05.05-21.09.22:558][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.05.05-21.09.22:568][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.05.05-21.09.22:568][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.05.05-21.09.22:568][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.05.05-21.09.22:585][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.05.05-21.09.22:585][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.05.05-21.09.22:619][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.05.05-21.09.22:619][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.05.05-21.09.22:619][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.05.05-21.09.22:619][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.05.05-21.09.22:619][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.05.05-21.09.22:692][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.05.05-21.09.22:700][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.05.05-21.09.22:700][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.05.05-21.09.22:700][  0]LogTargetPlatformManager:   ADPCM
+[2023.05.05-21.09.22:700][  0]LogTargetPlatformManager:   PCM
+[2023.05.05-21.09.22:715][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.05.05-21.09.22:715][  0]LogTargetPlatformManager:   BINKA
+[2023.05.05-21.09.22:715][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.05.05-21.09.22:715][  0]LogTargetPlatformManager:   OGG
+[2023.05.05-21.09.22:715][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.05.05-21.09.22:715][  0]LogTargetPlatformManager:   OPUS
+[2023.05.05-21.09.22:813][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.05.05-21.09.22:840][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.05.05-21.09.22:840][  0]LogTargetPlatformManager:   SF_METAL
+[2023.05.05-21.09.22:840][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.05.05-21.09.22:840][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.05.05-21.09.22:840][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.05.05-21.09.22:840][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.05.05-21.09.22:840][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.05.05-21.09.22:840][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.05.05-21.09.22:840][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.05.05-21.09.22:840][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.05.05-21.09.22:840][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.05.05-21.09.22:840][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.05.05-21.09.22:840][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.05.05-21.09.22:840][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.05.05-21.09.22:840][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.05.05-21.09.22:840][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.05.05-21.09.22:853][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.05.05-21.09.22:853][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.05.05-21.09.22:853][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.05.05-21.09.22:853][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.05.05-21.09.22:853][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.05.05-21.09.22:853][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.05.05-21.09.22:853][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.05.05-21.09.22:853][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.05.05-21.09.22:853][  0]LogShaderCompilers: Display: Compiling shader autogen file: C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.05.05-21.09.22:853][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.05.05-21.09.22:854][  0]LogShaderCompilers: Display: Compiling shader autogen file: C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.05.05-21.09.22:858][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.05.05-21.09.22:877][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.05.05-21.09.22:877][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.05.05-21.09.22:877][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.05.05-21.09.22:877][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.05.05-21.09.22:961][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.05.05-21.09.22:961][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.05.05-21.09.22:961][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.05.05-21.09.23:012][  0]LogDerivedDataCache: Speed tests for C:/Users/Pontus/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.05 seconds
+[2023.05.05-21.09.23:012][  0]LogDerivedDataCache: Display: Performance to C:/Users/Pontus/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.13ms. RandomReadSpeed=21.24MBs, RandomWriteSpeed=163.75MBs. Assigned SpeedClass 'Local'
+[2023.05.05-21.09.23:014][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Pontus/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.05.05-21.09.23:014][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.05.05-21.09.23:014][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.05.05-21.09.23:020][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.05.05-21.09.23:020][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.05.05-21.09.23:021][  0]LogShaderCompilers: Guid format shader working directory is -12 characters bigger than the processId version (C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Intermediate/Shaders/WorkingDirectory/43764/).
+[2023.05.05-21.09.23:021][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Pontus/AppData/Local/Temp/UnrealShaderWorkingDir/0FCF5CC04193056F3B7BC087F5033E9E/'.
+[2023.05.05-21.09.23:021][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.05.05-21.09.23:021][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 9 workers.
+[2023.05.05-21.09.30:615][  0]LogSlate: Using FreeType 2.10.0
+[2023.05.05-21.09.30:656][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.05.05-21.09.31:563][  0]LogAssetRegistry: FAssetRegistry took 0.0112 seconds to start up
+[2023.05.05-21.09.31:568][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.05.05-21.09.31:963][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.05.05-21.09.31:963][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.05.05-21.09.32:240][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.05.05-21.09.32:240][  0]LogDeviceProfileManager: Active device profile: [0000081ECD2F6040][0000081EC4742800 50] WindowsEditor
+[2023.05.05-21.09.32:240][  0]LogDeviceProfileManager: Profiles: [0000081ECD2F5B00][0000081EB0725000 50] Windows, [0000081ECD2F6040][0000081EC4742800 50] WindowsEditor, [0000081ECD2F6200][0000081EC46EA000 50] WindowsServer, [0000081ECD2F5780][0000081ECD530000 50] WindowsClient, [0000081ECD2F2840][0000081ECD535000 50] IOS, [0000081ECD2F55C0][0000081ECD537800 50] iPadAir2, [0000081ECD2F1A40][0000081ECD53C800 50] IPadPro, [0000081ECD2F2140][0000081ECD53A000 50] iPadAir3, [0000081ECD2F5080][0000081EC3CE2800 50] iPadAir4, [0000081ECD2F2680][0000081ECD540000 50] iPadMini4, [0000081ECD2F4EC0][0000081ECD545000 50] iPadMini5, [0000081ECD2F24C0][0000081ECD547800 50] iPadMini6, [0000081ECD2F9300][0000081ECD532800 50] iPhone6S, [0000081ECD2F9680][0000081ECD54C800 50] iPhone7, [0000081ECD2F9A00][0000081ECD54A000 50] iPodTouch7, [0000081ECD2F2A00][0000081ECD570000 50] iPhone6SPlus, [0000081ECD2F8C00][0000081ECD575000 50] iPhone7Plus, [0000081ECD2F5240][0000081ECD577800 50] iPhoneSE, [0000081ECD2F6900][0000081ECD57A000 50] iPhone8, [0000081ECD2F8DC0][0000081ECD57C800 50] iPhone8Plus, [0000081ECD2F3800][0000081ECD542800 50] iPhoneX, [0000081ECD2F32C0][0000081ECD590000 50] iPhoneXS, [0000081ECD2F8500][0000081ECD595000 50] iPhoneXSMax, [0000081ECD2F4280][0000081ECD597800 50] iPhoneXR, [0000081ECD2F1C00][0000081ECD59A000 50] iPhone11, [0000081ECD2F7380][0000081ECD59C800 50] iPhone11Pro, [0000081ECD2F3100][0000081ECD572800 50] iPhone11ProMax, [0000081ECD2F71C0][0000081ECD5A0000 50] iPhoneSE2, [0000081ECD2F4B40][0000081ECD5A5000 50] iPhone12Mini, [0000081ECD2F7000][0000081ECD5A7800 50] iPhone12, [0000081ECD2F3F00][0000081ECD5AA000 50] iPhone12Pro, [0000081ECD2F9840][0000081ECD5AC800 50] iPhone12ProMax, [0000081ECD2F5E80][0000081ECD592800 50] iPhone13Mini, [0000081ECD2F7A80][0000081ECD5B0000 50] iPhone13, [0000081ECD2F6740][0000081ECD5B5000 50] iPhone13Pro, [0000081ECD2F9140][0000081ECD5B7800 50] iPhone13ProMax, [0000081ECD2F6AC0][0000081ECD5BA000 50] iPadPro105, [0000081ECD2F3480][0000081ECD5BC800 50] iPadPro129, [0000081ECD2F39C0][0000081ECD5A2800 50] iPadPro97, [0000081ECD2F1DC0][0000081ECD5C0000 50] iPadPro2_129, [0000081ECD2F0FC0][0000081ECD5C5000 50] iPad5, [0000081ECD2F5400][0000081ECD5C7800 50] iPad6, [0000081ECD2F1880][0000081ECD5CA000 50] iPad7, [0000081ECD2F47C0][0000081ECD5CC800 50] iPad8, [0000081ECD2F2300][0000081ECD5B2800 50] iPad9, [0000081ECD2F40C0][0000081ECD5D0000 50] iPadPro11, [0000081ECD2F94C0][0000081ECD5D5000 50] iPadPro2_11, [0000081ECD2F2D80][0000081ECD5D7800 50] iPadPro3_11, [0000081ECD2F6580][0000081ECD5DA000 50] iPadPro3_129, [0000081ECD2F8F80][0000081ECD5DC800 50] iPadPro4_129, [0000081ECD2F7C40][0000081ECD5C2800 50] iPadPro5_129, [0000081ECD2F8340][0000081ECD5E0000 50] AppleTV, [0000081ECD2F0A80][0000081ECD5E5000 50] AppleTV4K, [0000081ECD2F2BC0][0000081ECD5E7800 50] TVOS, [0000081ECD2FB600][0000081ECD5EC800 50] Mac, [0000081ECD2FB980][0000081ECD5EA000 50] MacEditor, [0000081ECD2F3D40][0000081ECD5D2800 50] MacClient, [0000081ECD2F4440][0000081ECD5F0000 50] MacServer, [0000081ECD2FBD00][0000081ECD5F7800 50] Linux, [0000081ECD2FC080][0000081ECD5F5000 50] LinuxEditor, [0000081ECD2FAB80][0000081ECD5FA000 50] LinuxArm64Editor, [0000081ECD2F4980][0000081ECD5FC800 50] LinuxArm64, [0000081ECD2F6C80][0000081ECD5E2800 50] LinuxClient, [0000081ECD2FC240][0000081ECD600000 50] LinuxArm64Client, [0000081ECD2F2F40][0000081ECD605000 50] LinuxServer, [0000081ECD2F78C0][0000081ECD607800 50] LinuxArm64Server, [0000081ECD2F1180][0000081ECD60A000 50] Android, [0000081ECD2FB280][0000081ECD60C800 50] Android_Preview_OpenGL, [0000081ECD2F9F40][0000081ECD5F2800 50] Android_Preview_Vulkan, [0000081ECD2F63C0][0000081ECD610000 50] Android_Low, [0000081ECD2F4600][0000081ECD615000 50] Android_Mid, [0000081ECD2FC5C0][0000081ECD617800 50] Android_High, [0000081ECD2F8A40][0000081ECD61A000 50] Android_Default, [0000081ECD2F86C0][0000081ECD61C800 50] Android_Adreno4xx, [0000081ECD2F3B80][0000081ECD602800 50] Android_Adreno5xx_Low, [0000081ECD2F7FC0][0000081ECD620000 50] Android_Adreno5xx, [0000081ECD2FC780][0000081ECD625000 50] Android_Adreno6xx, [0000081ECD2F4D00][0000081ECD627800 50] Android_Adreno6xx_Vulkan, [0000081ECD2F9BC0][0000081ECD62A000 50] Android_Adreno7xx, [0000081ECD2FBEC0][0000081ECD62C800 50] Android_Adreno7xx_Vulkan, [0000081ECD2FA2C0][0000081ECD612800 50] Android_Mali_T6xx, [0000081ECD2F9D80][0000081ECD630000 50] Android_Mali_T7xx, [0000081ECD2FB0C0][0000081ECD635000 50] Android_Mali_T8xx, [0000081ECD2FB7C0][0000081ECD637800 50] Android_Mali_G71, [0000081ECD2FA640][0000081ECD63A000 50] Android_Mali_G72, [0000081ECD2F8180][0000081ECD63C800 50] Android_Mali_G72_Vulkan, [0000081ECD2F1F80][0000081ECD622800 50] Android_Mali_G76, [0000081ECD2F8880][0000081ECD640000 50] Android_Mali_G76_Vulkan, [0000081ECD2FA800][0000081ECD645000 50] Android_Mali_G77, [0000081ECD2F6E40][0000081ECD647800 50] Android_Mali_G77_Vulkan, [0000081ECD2F5940][0000081ECD64A000 50] Android_Mali_G78, [0000081ECD2F3640][0000081ECD64C800 50] Android_Mali_G78_Vulkan, [0000081ECD2FC400][0000081ECD632800 50] Android_Mali_G710, [0000081ECD2F7540][0000081ECD650000 50] Android_Mali_G710_Vulkan, [0000081ECD2FA100][0000081ECD655000 50] Android_Xclipse_920, [0000081ECD2FD740][0000081ECD657800 50] Android_Xclipse_920_Vulkan, [0000081ECD2FBB40][0000081ECD65A000 50] Android_Vulkan_SM5, [0000081ECD2FCCC0][0000081ECD65C800 50] Android_PowerVR_G6xxx, [0000081ECD2FD200][0000081ECD642800 50] Android_PowerVR_GT7xxx, [0000081ECD2FAD40][0000081ECD660000 50] Android_PowerVR_GE8xxx, [0000081ECD2FA9C0][0000081ECD665000 50] Android_PowerVR_GM9xxx, [0000081ECD2FC940][0000081ECD667800 50] Android_PowerVR_GM9xxx_Vulkan, [0000081ECD2FA480][0000081ECD66A000 50] Android_TegraK1, [0000081ECD2FDE40][0000081ECD66C800 50] Android_Unknown_Vulkan, [0000081ECD2FE380][0000081ECD652800 50] Oculus_Quest, [0000081ECD2FDC80][0000081ECD670000 50] Oculus_Quest2, [0000081ECD2FD580][0000081ECD675000 50] HoloLens, 
+[2023.05.05-21.09.32:240][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.05.05-21.09.32:715][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.05.05-21.09.34:516][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.05.05-21.09.34:516][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.05.05-21.09.34:516][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.05.05-21.09.34:516][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.05.05-21.09.34:516][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.05.05-21.09.34:735][  0]LogNetVersion: Fletcher 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 1340048131)
+[2023.05.05-21.09.36:995][  0]LogSlate: Border
+[2023.05.05-21.09.36:995][  0]LogSlate: BreadcrumbButton
+[2023.05.05-21.09.36:995][  0]LogSlate: Default
+[2023.05.05-21.09.36:995][  0]LogSlate: Icons.Save
+[2023.05.05-21.09.36:995][  0]LogSlate: Icons.Toolbar.Settings
+[2023.05.05-21.09.36:995][  0]LogSlate: ListView
+[2023.05.05-21.09.36:995][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.05.05-21.09.36:995][  0]LogSlate: SoftwareCursor_Grab
+[2023.05.05-21.09.36:995][  0]LogSlate: TableView.DarkRow
+[2023.05.05-21.09.36:995][  0]LogSlate: TableView.Row
+[2023.05.05-21.09.36:995][  0]LogSlate: TreeView
+[2023.05.05-21.09.42:374][  0]SourceControl: Source control is disabled
+[2023.05.05-21.09.42:850][  0]SourceControl: Source control is disabled
+[2023.05.05-21.09.42:850][  0]SourceControl: Source control is disabled
+[2023.05.05-21.09.43:764][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2023.05.05-21.09.43:764][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2023.05.05-21.09.43:764][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.05.05-21.09.48:182][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 00630B5A44ED3869FFC6ACBCFF84FCD8 | Instance: A48A6C8C46EC90970D3EFB9E137A9DCE (DESKTOP-F7OBPQ0-43764).
+[2023.05.05-21.09.48:479][  0]LogPython: Using Python 3.9.7
+[2023.05.05-21.09.50:199][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.05.05-21.09.50:218][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.05.05-21.09.50:504][  0]SourceControl: Source control is disabled
+[2023.05.05-21.09.50:521][  0]SourceControl: Source control is disabled
+[2023.05.05-21.09.50:539][  0]SourceControl: Source control is disabled
+[2023.05.05-21.09.50:777][  0]LogUProjectInfo: Found projects:
+[2023.05.05-21.09.52:574][  0]LogOpenImageDenoise: OIDN starting up
+[2023.05.05-21.09.52:742][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.05.05-21.09.52:871][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.05.05-21.09.52:872][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.05.05-21.09.53:188][  0]LogCollectionManager: Loaded 0 collections in 0.000950 seconds
+[2023.05.05-21.09.53:552][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Saved/Collections/' took 0.00s
+[2023.05.05-21.09.53:552][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Content/Developers/Pontus/Collections/' took 0.00s
+[2023.05.05-21.09.53:552][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Content/Collections/' took 0.00s
+[2023.05.05-21.09.54:196][  0]LogEngine: Initializing Engine...
+[2023.05.05-21.09.54:241][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.05.05-21.09.54:243][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.05.05-21.09.56:725][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.05.05-21.09.56:725][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.05-21.09.56:780][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.05-21.09.56:952][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.05.05-21.09.56:953][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.05.05-21.09.57:035][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.05.05-21.09.57:054][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.05.05-21.09.57:054][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.05.05-21.09.57:054][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.05.05-21.09.57:054][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.05.05-21.09.57:054][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.05-21.09.57:054][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.05-21.09.57:054][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.05-21.09.57:054][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.05-21.09.57:054][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.05-21.09.57:054][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.05-21.09.57:054][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.05-21.09.57:054][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.05-21.09.57:054][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.05-21.09.57:054][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.05-21.09.57:054][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.05-21.09.57:074][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.05-21.09.57:136][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (THX Spatial - Synapse)
+[2023.05.05-21.09.57:137][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.05-21.09.57:172][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.05-21.09.57:172][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.05-21.09.57:172][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.05.05-21.09.57:172][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=1
+[2023.05.05-21.09.57:173][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.05.05-21.09.57:173][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.05.05-21.09.57:173][  0]LogInit: FAudioDevice initialized.
+[2023.05.05-21.09.57:174][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.05.05-21.09.57:174][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.05.05-21.09.57:174][  0]LogInit: Texture streaming: Enabled
+[2023.05.05-21.09.57:260][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.05.05-21.09.57:273][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.05.05-21.09.57:336][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.05.05-21.09.57:356][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.05.05-21.09.57:357][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: FletcherEditor Win64 Development
+[2023.05.05-21.10.12:065][  0]LogLiveCoding: Display: First instance in process group "UE_Fletcher_0x236f5f17", spawning console
+[2023.05.05-21.10.12:065][  0]LogLiveCoding: Display: Waiting for server
+[2023.05.05-21.10.12:065][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.05.05-21.10.12:096][  0]LogInit: Transaction tracking system initialized
+[2023.05.05-21.10.12:810][  0]BlueprintLog: New page: Editor Load
+[2023.05.05-21.10.13:368][  0]LocalizationService: Localization service is disabled
+[2023.05.05-21.10.13:469][  0]TimingProfiler: Initialize
+[2023.05.05-21.10.13:469][  0]TimingProfiler: OnSessionChanged
+[2023.05.05-21.10.13:469][  0]LoadingProfiler: Initialize
+[2023.05.05-21.10.13:469][  0]LoadingProfiler: OnSessionChanged
+[2023.05.05-21.10.13:469][  0]NetworkingProfiler: Initialize
+[2023.05.05-21.10.13:469][  0]NetworkingProfiler: OnSessionChanged
+[2023.05.05-21.10.13:469][  0]MemoryProfiler: Initialize
+[2023.05.05-21.10.13:469][  0]MemoryProfiler: OnSessionChanged
+[2023.05.05-21.10.18:099][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Content/' took 0.04s
+[2023.05.05-21.10.18:099][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.05.05-21.10.18:347][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.05.05-21.10.18:349][  0]SourceControl: Source control is disabled
+[2023.05.05-21.10.18:349][  0]LogUnrealEdMisc: Loading editor; pre map load, took 84.805
+[2023.05.05-21.10.18:349][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/OpenWorld.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.05.05-21.10.18:361][  0]LightingResults: New page: Lighting Build
+[2023.05.05-21.10.18:380][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.05.05-21.10.18:380][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.05-21.10.18:380][  0]MapCheck: New page: Map Check
+[2023.05.05-21.10.18:380][  0]LightingResults: New page: Lighting Build
+[2023.05.05-21.10.18:386][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.05-21.10.18:388][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.05.05-21.10.18:500][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2023.05.05-21.10.18:522][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.05-21.10.18:523][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2023.05.05-21.10.18:523][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.05.05-21.10.18:523][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2023.05.05-21.10.24:030][  0]LogWorldPartition: Display: WorldPartition initialize took 5.50 sec
+[2023.05.05-21.10.25:860][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.05-21.10.25:868][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.05.05-21.10.25:868][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.05-21.10.25:878][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 10,085ms to complete.
+[2023.05.05-21.10.25:878][  0]LogFileHelpers: Loading map 'OpenWorld' took 7.529
+[2023.05.05-21.10.25:948][  0]LogUnrealEdMisc: Total Editor Startup Time, took 92.404
+[2023.05.05-21.10.25:948][  0]LogShaderCompilers: Display: ================================================
+[2023.05.05-21.10.25:948][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.05-21.10.25:948][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.05.05-21.10.25:948][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.05.05-21.10.25:948][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.05.05-21.10.25:948][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.05-21.10.25:948][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.05.05-21.10.25:948][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.05.05-21.10.25:948][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.05.05-21.10.25:948][  0]LogShaderCompilers: Display: ================================================
+[2023.05.05-21.10.26:091][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.05-21.10.26:097][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.05-21.10.26:101][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.05-21.10.26:106][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.05-21.10.26:375][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.05.05-21.10.26:375][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.05-21.10.26:399][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.05.05-21.10.26:399][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.05-21.10.26:417][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.05.05-21.10.26:417][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.05-21.10.26:435][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.05.05-21.10.26:435][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.05-21.10.26:532][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.05.05-21.10.26:532][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.05-21.10.26:547][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.05.05-21.10.26:548][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.05-21.10.26:563][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.05.05-21.10.26:563][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.05-21.10.26:644][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.05.05-21.10.26:644][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.05-21.10.26:659][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.05.05-21.10.26:660][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.05-21.10.26:673][  0]LogPakFile: Display: Mounted Pak file 'E:/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.05.05-21.10.26:673][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.05.05-21.10.26:673][  0]LogFeaturePack: Error: Error in Feature pack E:/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2023.05.05-21.10.27:872][  0]LogSlate: Took 0.014622 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.05.05-21.10.27:891][  0]LogSlate: Took 0.016174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.05.05-21.10.27:908][  0]LogSlate: Took 0.016382 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.05.05-21.10.27:936][  0]LogViewport: Scene viewport resized to 1902x1262, mode Windowed.
+[2023.05.05-21.10.28:841][  0]LogStall: Startup...
+[2023.05.05-21.10.28:842][  0]LogStall: Startup complete.
+[2023.05.05-21.10.28:895][  0]LogLoad: (Engine Initialization) Total time: 95.35 seconds
+[2023.05.05-21.10.28:895][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.05.05-21.10.28:917][  0]LogAssetRegistry: Asset discovery search completed in 57.3563 seconds
+[2023.05.05-21.10.29:074][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2023.05.05-21.10.29:076][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.05.05-21.10.29:187][  0]LogSlate: Took 0.012610 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.05.05-21.10.38:793][ 68]LogSlate: Took 0.127662 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.05.05-21.10.38:826][ 68]LogSlate: Took 0.024957 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.05.05-21.10.42:273][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.05.05-21.10.42:353][319]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FloatingIsles.FloatingIsles
+[2023.05.05-21.10.42:353][319]Cmd: MAP LOAD FILE="C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Content/FloatingIsles.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.05.05-21.10.42:353][319]LightingResults: New page: Lighting Build
+[2023.05.05-21.10.42:353][319]LoadErrors: New page: Loading map: FloatingIsles.umap
+[2023.05.05-21.10.42:404][319]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2023.05.05-21.10.42:404][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.05-21.10.42:404][319]MapCheck: New page: Map Check
+[2023.05.05-21.10.42:404][319]LightingResults: New page: Lighting Build
+[2023.05.05-21.10.42:409][319]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.05-21.10.42:422][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.05.05-21.10.42:426][319]LogWorld: UWorld::CleanupWorld for FloatingIsles, bSessionEnded=true, bCleanupResources=true
+[2023.05.05-21.10.42:426][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.05-21.10.42:433][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.05.05-21.10.42:439][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.05.05-21.10.42:444][319]LogAudio: Display: Audio Device (ID: 1) registered with world 'FloatingIsles'.
+[2023.05.05-21.10.42:444][319]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.05-21.10.42:444][319]LogAIModule: Creating AISystem for world FloatingIsles
+[2023.05.05-21.10.42:445][319]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.05.05-21.10.42:445][319]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2023.05.05-21.10.56:333][319]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2023.05.05-21.10.56:333][319]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [8272ms] waiting for h/w. InstanceID=1
+[2023.05.05-21.10.56:333][319]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.049972s
+[2023.05.05-21.10.57:585][319]LogWorldPartition: Display: WorldPartition initialize took 15.1 sec
+[2023.05.05-21.10.57:588][319]MapCheck: LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_1_0 Layer 'Flat Middle' ('{0x3DE5FCA3,0x4926,0xDC65,{0xB3,0x2F,0x89,0x8A,0x71,0x4E,0x24,0x26}}') was removed from LandscapeProxy because it doesn't match any of the LandscapeActor Layers. Please resave '/Game/__ExternalActors__/FloatingIsles/0/13/6UB5IYE0HVDCELTQR0MP93'. 
+[2023.05.05-21.10.57:591][319]MapCheck: LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_0_0 Layer 'Flat Middle' ('{0x3DE5FCA3,0x4926,0xDC65,{0xB3,0x2F,0x89,0x8A,0x71,0x4E,0x24,0x26}}') was removed from LandscapeProxy because it doesn't match any of the LandscapeActor Layers. Please resave '/Game/__ExternalActors__/FloatingIsles/9/FN/A3G7H1A438SLWMZSPOLSA3'. 
+[2023.05.05-21.10.57:594][319]MapCheck: LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_1_0 Layer 'Flat Middle' ('{0x3DE5FCA3,0x4926,0xDC65,{0xB3,0x2F,0x89,0x8A,0x71,0x4E,0x24,0x26}}') was removed from LandscapeProxy because it doesn't match any of the LandscapeActor Layers. Please resave '/Game/__ExternalActors__/FloatingIsles/A/5J/3CPMVZYXUMT1ZRH65GR85V'. 
+[2023.05.05-21.10.57:598][319]MapCheck: LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_0_0 Layer 'Flat Middle' ('{0x3DE5FCA3,0x4926,0xDC65,{0xB3,0x2F,0x89,0x8A,0x71,0x4E,0x24,0x26}}') was removed from LandscapeProxy because it doesn't match any of the LandscapeActor Layers. Please resave '/Game/__ExternalActors__/FloatingIsles/E/24/HXWU8W306L70S6D4V3AZRJ'. 
+[2023.05.05-21.10.57:602][319]MapCheck: LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_0_0 Layer 'Flat Middle' ('{0x3DE5FCA3,0x4926,0xDC65,{0xB3,0x2F,0x89,0x8A,0x71,0x4E,0x24,0x26}}') was removed from LandscapeProxy because it doesn't match any of the LandscapeActor Layers. Please resave '/Game/__ExternalActors__/FloatingIsles/8/PR/0EAP7N1Z1NAB0KG0ER9GR0'. 
+[2023.05.05-21.10.57:606][319]MapCheck: LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_1_0 Layer 'Flat Middle' ('{0x3DE5FCA3,0x4926,0xDC65,{0xB3,0x2F,0x89,0x8A,0x71,0x4E,0x24,0x26}}') was removed from LandscapeProxy because it doesn't match any of the LandscapeActor Layers. Please resave '/Game/__ExternalActors__/FloatingIsles/E/25/N3YCBAG3N5D2N80XM3IXNR'. 
+[2023.05.05-21.10.57:611][319]MapCheck: LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_2_0 Layer 'Flat Middle' ('{0x3DE5FCA3,0x4926,0xDC65,{0xB3,0x2F,0x89,0x8A,0x71,0x4E,0x24,0x26}}') was removed from LandscapeProxy because it doesn't match any of the LandscapeActor Layers. Please resave '/Game/__ExternalActors__/FloatingIsles/0/KF/H3OBXDXBNG17Z80EM16MMG'. 
+[2023.05.05-21.10.57:616][319]MapCheck: LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_2_0 Layer 'Flat Middle' ('{0x3DE5FCA3,0x4926,0xDC65,{0xB3,0x2F,0x89,0x8A,0x71,0x4E,0x24,0x26}}') was removed from LandscapeProxy because it doesn't match any of the LandscapeActor Layers. Please resave '/Game/__ExternalActors__/FloatingIsles/1/AM/1DTO2E7EL7HJDQ37KZYPMV'. 
+[2023.05.05-21.10.57:620][319]MapCheck: LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_2_0 Layer 'Flat Middle' ('{0x3DE5FCA3,0x4926,0xDC65,{0xB3,0x2F,0x89,0x8A,0x71,0x4E,0x24,0x26}}') was removed from LandscapeProxy because it doesn't match any of the LandscapeActor Layers. Please resave '/Game/__ExternalActors__/FloatingIsles/4/TK/61JTMXI1SV1OEAEQ7RKL3O'. 
+[2023.05.05-21.10.57:625][319]MapCheck: LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_4_0 Layer 'Flat Middle' ('{0x3DE5FCA3,0x4926,0xDC65,{0xB3,0x2F,0x89,0x8A,0x71,0x4E,0x24,0x26}}') was removed from LandscapeProxy because it doesn't match any of the LandscapeActor Layers. Please resave '/Game/__ExternalActors__/FloatingIsles/0/WT/DEOFQCBCBPT9Y3LCA0VPHZ'. 
+[2023.05.05-21.10.57:630][319]MapCheck: LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_4_0 Layer 'Flat Middle' ('{0x3DE5FCA3,0x4926,0xDC65,{0xB3,0x2F,0x89,0x8A,0x71,0x4E,0x24,0x26}}') was removed from LandscapeProxy because it doesn't match any of the LandscapeActor Layers. Please resave '/Game/__ExternalActors__/FloatingIsles/2/UP/DYA620WV75MAXCT9O5EGLA'. 
+[2023.05.05-21.10.57:634][319]MapCheck: LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_3_0 Layer 'Flat Middle' ('{0x3DE5FCA3,0x4926,0xDC65,{0xB3,0x2F,0x89,0x8A,0x71,0x4E,0x24,0x26}}') was removed from LandscapeProxy because it doesn't match any of the LandscapeActor Layers. Please resave '/Game/__ExternalActors__/FloatingIsles/D/M0/P7D6ZIC9KKR1GUP0H03FTY'. 
+[2023.05.05-21.10.57:637][319]MapCheck: LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_3_0 Layer 'Flat Middle' ('{0x3DE5FCA3,0x4926,0xDC65,{0xB3,0x2F,0x89,0x8A,0x71,0x4E,0x24,0x26}}') was removed from LandscapeProxy because it doesn't match any of the LandscapeActor Layers. Please resave '/Game/__ExternalActors__/FloatingIsles/E/KC/RKJOWY85AK53N8D8PLFC32'. 
+[2023.05.05-21.10.57:641][319]MapCheck: LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_2_0 Layer 'Flat Middle' ('{0x3DE5FCA3,0x4926,0xDC65,{0xB3,0x2F,0x89,0x8A,0x71,0x4E,0x24,0x26}}') was removed from LandscapeProxy because it doesn't match any of the LandscapeActor Layers. Please resave '/Game/__ExternalActors__/FloatingIsles/1/IP/NMOYY4EMHPCE86P8CMW5TW'. 
+[2023.05.05-21.10.57:654][319]MapCheck: LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_3_0 Layer 'Flat Middle' ('{0x3DE5FCA3,0x4926,0xDC65,{0xB3,0x2F,0x89,0x8A,0x71,0x4E,0x24,0x26}}') was removed from LandscapeProxy because it doesn't match any of the LandscapeActor Layers. Please resave '/Game/__ExternalActors__/FloatingIsles/5/JD/NKJGVSRMP4IM44BJ16XFO2'. 
+[2023.05.05-21.10.57:659][319]MapCheck: LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_3_0 Layer 'Flat Middle' ('{0x3DE5FCA3,0x4926,0xDC65,{0xB3,0x2F,0x89,0x8A,0x71,0x4E,0x24,0x26}}') was removed from LandscapeProxy because it doesn't match any of the LandscapeActor Layers. Please resave '/Game/__ExternalActors__/FloatingIsles/3/MI/3OLD23ATDT36IGZ1XET6D7'. 
+[2023.05.05-21.10.57:662][319]MapCheck: LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_4_0 Layer 'Flat Middle' ('{0x3DE5FCA3,0x4926,0xDC65,{0xB3,0x2F,0x89,0x8A,0x71,0x4E,0x24,0x26}}') was removed from LandscapeProxy because it doesn't match any of the LandscapeActor Layers. Please resave '/Game/__ExternalActors__/FloatingIsles/0/PQ/6YH9WIKPLZ3R9LNN09H41N'. 
+[2023.05.05-21.10.57:665][319]MapCheck: LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_4_0 Layer 'Flat Middle' ('{0x3DE5FCA3,0x4926,0xDC65,{0xB3,0x2F,0x89,0x8A,0x71,0x4E,0x24,0x26}}') was removed from LandscapeProxy because it doesn't match any of the LandscapeActor Layers. Please resave '/Game/__ExternalActors__/FloatingIsles/3/NJ/LRHDYDB0PA74R6KZFJETK1'. 
+[2023.05.05-21.10.57:668][319]MapCheck: LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_3_0 Layer 'Flat Middle' ('{0x3DE5FCA3,0x4926,0xDC65,{0xB3,0x2F,0x89,0x8A,0x71,0x4E,0x24,0x26}}') was removed from LandscapeProxy because it doesn't match any of the LandscapeActor Layers. Please resave '/Game/__ExternalActors__/FloatingIsles/6/HL/9J1E2GENVXC225BJ6H6VPH'. 
+[2023.05.05-21.10.57:673][319]MapCheck: LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_3_0 Layer 'Flat Middle' ('{0x3DE5FCA3,0x4926,0xDC65,{0xB3,0x2F,0x89,0x8A,0x71,0x4E,0x24,0x26}}') was removed from LandscapeProxy because it doesn't match any of the LandscapeActor Layers. Please resave '/Game/__ExternalActors__/FloatingIsles/6/YG/6QF73SN6BKWO06VPORMOLU'. 
+[2023.05.05-21.10.57:676][319]MapCheck: LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_5_0 Layer 'Flat Middle' ('{0x3DE5FCA3,0x4926,0xDC65,{0xB3,0x2F,0x89,0x8A,0x71,0x4E,0x24,0x26}}') was removed from LandscapeProxy because it doesn't match any of the LandscapeActor Layers. Please resave '/Game/__ExternalActors__/FloatingIsles/0/TV/H2YRAXDS73QS84PS5GE6FC'. 
+[2023.05.05-21.10.57:679][319]MapCheck: LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_5_0 Layer 'Flat Middle' ('{0x3DE5FCA3,0x4926,0xDC65,{0xB3,0x2F,0x89,0x8A,0x71,0x4E,0x24,0x26}}') was removed from LandscapeProxy because it doesn't match any of the LandscapeActor Layers. Please resave '/Game/__ExternalActors__/FloatingIsles/9/PN/4PUE2YQLJURIQ8RJFHCAV1'. 
+[2023.05.05-21.10.57:683][319]MapCheck: LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_5_0 Layer 'Flat Middle' ('{0x3DE5FCA3,0x4926,0xDC65,{0xB3,0x2F,0x89,0x8A,0x71,0x4E,0x24,0x26}}') was removed from LandscapeProxy because it doesn't match any of the LandscapeActor Layers. Please resave '/Game/__ExternalActors__/FloatingIsles/0/QZ/L20U1EID3OVWFEJKUVJLWX'. 
+[2023.05.05-21.10.57:687][319]MapCheck: LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_5_0 Layer 'Flat Middle' ('{0x3DE5FCA3,0x4926,0xDC65,{0xB3,0x2F,0x89,0x8A,0x71,0x4E,0x24,0x26}}') was removed from LandscapeProxy because it doesn't match any of the LandscapeActor Layers. Please resave '/Game/__ExternalActors__/FloatingIsles/9/4F/XCEYD88P8K30AQTKLY4HDU'. 
+[2023.05.05-21.10.57:690][319]MapCheck: LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0 Layer 'Flat Middle' ('{0x3DE5FCA3,0x4926,0xDC65,{0xB3,0x2F,0x89,0x8A,0x71,0x4E,0x24,0x26}}') was removed from LandscapeProxy because it doesn't match any of the LandscapeActor Layers. Please resave '/Game/__ExternalActors__/FloatingIsles/7/CK/3T9ICY7JDI1IRIR63RB7T9'. 
+[2023.05.05-21.10.57:693][319]MapCheck: LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_5_0 Layer 'Flat Middle' ('{0x3DE5FCA3,0x4926,0xDC65,{0xB3,0x2F,0x89,0x8A,0x71,0x4E,0x24,0x26}}') was removed from LandscapeProxy because it doesn't match any of the LandscapeActor Layers. Please resave '/Game/__ExternalActors__/FloatingIsles/D/OJ/3JTI5P7LOEUKNZ3KBXYIF0'. 
+[2023.05.05-21.10.57:697][319]MapCheck: LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_6_0 Layer 'Flat Middle' ('{0x3DE5FCA3,0x4926,0xDC65,{0xB3,0x2F,0x89,0x8A,0x71,0x4E,0x24,0x26}}') was removed from LandscapeProxy because it doesn't match any of the LandscapeActor Layers. Please resave '/Game/__ExternalActors__/FloatingIsles/4/6J/7KE9VOD2DON898K2FJ9DTK'. 
+[2023.05.05-21.10.57:700][319]MapCheck: LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_6_0 Layer 'Flat Middle' ('{0x3DE5FCA3,0x4926,0xDC65,{0xB3,0x2F,0x89,0x8A,0x71,0x4E,0x24,0x26}}') was removed from LandscapeProxy because it doesn't match any of the LandscapeActor Layers. Please resave '/Game/__ExternalActors__/FloatingIsles/D/X7/UQ2UM5O6D5C0T5ZGX43C1I'. 
+[2023.05.05-21.10.57:703][319]MapCheck: LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_6_0 Layer 'Flat Middle' ('{0x3DE5FCA3,0x4926,0xDC65,{0xB3,0x2F,0x89,0x8A,0x71,0x4E,0x24,0x26}}') was removed from LandscapeProxy because it doesn't match any of the LandscapeActor Layers. Please resave '/Game/__ExternalActors__/FloatingIsles/2/25/91Y08M1J9XU9RUZ5IMMW2O'. 
+[2023.05.05-21.10.57:710][319]MapCheck: LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_6_0 Layer 'Flat Middle' ('{0x3DE5FCA3,0x4926,0xDC65,{0xB3,0x2F,0x89,0x8A,0x71,0x4E,0x24,0x26}}') was removed from LandscapeProxy because it doesn't match any of the LandscapeActor Layers. Please resave '/Game/__ExternalActors__/FloatingIsles/4/16/X12EAGB1CK9BJ3L9PT27X3'. 
+[2023.05.05-21.10.57:713][319]MapCheck: LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_6_0 Layer 'Flat Middle' ('{0x3DE5FCA3,0x4926,0xDC65,{0xB3,0x2F,0x89,0x8A,0x71,0x4E,0x24,0x26}}') was removed from LandscapeProxy because it doesn't match any of the LandscapeActor Layers. Please resave '/Game/__ExternalActors__/FloatingIsles/F/28/OYZMG16YTLR9L51792VB35'. 
+[2023.05.05-21.10.57:716][319]MapCheck: LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_4_0 Layer 'Flat Middle' ('{0x3DE5FCA3,0x4926,0xDC65,{0xB3,0x2F,0x89,0x8A,0x71,0x4E,0x24,0x26}}') was removed from LandscapeProxy because it doesn't match any of the LandscapeActor Layers. Please resave '/Game/__ExternalActors__/FloatingIsles/6/NJ/ZXJUD8C936VCEZVJO53Y4N'. 
+[2023.05.05-21.10.57:719][319]MapCheck: LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_3_0 Layer 'Flat Middle' ('{0x3DE5FCA3,0x4926,0xDC65,{0xB3,0x2F,0x89,0x8A,0x71,0x4E,0x24,0x26}}') was removed from LandscapeProxy because it doesn't match any of the LandscapeActor Layers. Please resave '/Game/__ExternalActors__/FloatingIsles/B/U0/N027ANEG6XLYI2D1F9W6DU'. 
+[2023.05.05-21.10.57:722][319]MapCheck: LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_5_0 Layer 'Flat Middle' ('{0x3DE5FCA3,0x4926,0xDC65,{0xB3,0x2F,0x89,0x8A,0x71,0x4E,0x24,0x26}}') was removed from LandscapeProxy because it doesn't match any of the LandscapeActor Layers. Please resave '/Game/__ExternalActors__/FloatingIsles/5/JI/UQIL1HSBI0JDE2ZECU3KYA'. 
+[2023.05.05-21.10.57:725][319]MapCheck: LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_1_0 Layer 'Flat Middle' ('{0x3DE5FCA3,0x4926,0xDC65,{0xB3,0x2F,0x89,0x8A,0x71,0x4E,0x24,0x26}}') was removed from LandscapeProxy because it doesn't match any of the LandscapeActor Layers. Please resave '/Game/__ExternalActors__/FloatingIsles/D/SU/AN22NZGWOWZ3DSOVDIL7N2'. 
+[2023.05.05-21.10.57:728][319]MapCheck: LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_1_0 Layer 'Flat Middle' ('{0x3DE5FCA3,0x4926,0xDC65,{0xB3,0x2F,0x89,0x8A,0x71,0x4E,0x24,0x26}}') was removed from LandscapeProxy because it doesn't match any of the LandscapeActor Layers. Please resave '/Game/__ExternalActors__/FloatingIsles/1/QA/QPKSQDZZSBGV0KFY2UYRGE'. 
+[2023.05.05-21.10.57:731][319]MapCheck: LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_2_0 Layer 'Flat Middle' ('{0x3DE5FCA3,0x4926,0xDC65,{0xB3,0x2F,0x89,0x8A,0x71,0x4E,0x24,0x26}}') was removed from LandscapeProxy because it doesn't match any of the LandscapeActor Layers. Please resave '/Game/__ExternalActors__/FloatingIsles/A/DA/2TDSQCAR6N3ROB0Y5MPQZ2'. 
+[2023.05.05-21.10.57:734][319]MapCheck: LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_7_0 Layer 'Flat Middle' ('{0x3DE5FCA3,0x4926,0xDC65,{0xB3,0x2F,0x89,0x8A,0x71,0x4E,0x24,0x26}}') was removed from LandscapeProxy because it doesn't match any of the LandscapeActor Layers. Please resave '/Game/__ExternalActors__/FloatingIsles/1/N1/VUDC3XN0HB79APA2IJ3JRK'. 
+[2023.05.05-21.10.57:736][319]MapCheck: LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_6_0 Layer 'Flat Middle' ('{0x3DE5FCA3,0x4926,0xDC65,{0xB3,0x2F,0x89,0x8A,0x71,0x4E,0x24,0x26}}') was removed from LandscapeProxy because it doesn't match any of the LandscapeActor Layers. Please resave '/Game/__ExternalActors__/FloatingIsles/3/WK/1PI04KUROEEL8MUDYAIUF3'. 
+[2023.05.05-21.10.57:739][319]MapCheck: LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_7_0 Layer 'Flat Middle' ('{0x3DE5FCA3,0x4926,0xDC65,{0xB3,0x2F,0x89,0x8A,0x71,0x4E,0x24,0x26}}') was removed from LandscapeProxy because it doesn't match any of the LandscapeActor Layers. Please resave '/Game/__ExternalActors__/FloatingIsles/4/9T/485VT4RYNYZGETNMHWNEUL'. 
+[2023.05.05-21.10.57:742][319]MapCheck: LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_6_0 Layer 'Flat Middle' ('{0x3DE5FCA3,0x4926,0xDC65,{0xB3,0x2F,0x89,0x8A,0x71,0x4E,0x24,0x26}}') was removed from LandscapeProxy because it doesn't match any of the LandscapeActor Layers. Please resave '/Game/__ExternalActors__/FloatingIsles/B/X7/8OSEXZADKV5S5DXXZD9HRD'. 
+[2023.05.05-21.10.57:745][319]MapCheck: LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_7_0 Layer 'Flat Middle' ('{0x3DE5FCA3,0x4926,0xDC65,{0xB3,0x2F,0x89,0x8A,0x71,0x4E,0x24,0x26}}') was removed from LandscapeProxy because it doesn't match any of the LandscapeActor Layers. Please resave '/Game/__ExternalActors__/FloatingIsles/9/SJ/G0YG1VTRE6U5ZHV1BRU884'. 
+[2023.05.05-21.10.57:748][319]MapCheck: LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_7_0 Layer 'Flat Middle' ('{0x3DE5FCA3,0x4926,0xDC65,{0xB3,0x2F,0x89,0x8A,0x71,0x4E,0x24,0x26}}') was removed from LandscapeProxy because it doesn't match any of the LandscapeActor Layers. Please resave '/Game/__ExternalActors__/FloatingIsles/1/PA/4J18QD37RP93YVKFJCTPEZ'. 
+[2023.05.05-21.10.57:752][319]MapCheck: LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_7_0 Layer 'Flat Middle' ('{0x3DE5FCA3,0x4926,0xDC65,{0xB3,0x2F,0x89,0x8A,0x71,0x4E,0x24,0x26}}') was removed from LandscapeProxy because it doesn't match any of the LandscapeActor Layers. Please resave '/Game/__ExternalActors__/FloatingIsles/9/RF/2R6FU0N5FV6G287JS04ETQ'. 
+[2023.05.05-21.10.57:755][319]MapCheck: LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_7_0 Layer 'Flat Middle' ('{0x3DE5FCA3,0x4926,0xDC65,{0xB3,0x2F,0x89,0x8A,0x71,0x4E,0x24,0x26}}') was removed from LandscapeProxy because it doesn't match any of the LandscapeActor Layers. Please resave '/Game/__ExternalActors__/FloatingIsles/8/1L/2T6G86E1RN1ULQ1AOAER57'. 
+[2023.05.05-21.10.57:758][319]MapCheck: LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_0_0 Layer 'Flat Middle' ('{0x3DE5FCA3,0x4926,0xDC65,{0xB3,0x2F,0x89,0x8A,0x71,0x4E,0x24,0x26}}') was removed from LandscapeProxy because it doesn't match any of the LandscapeActor Layers. Please resave '/Game/__ExternalActors__/FloatingIsles/2/EN/S5XL0LNQ9WV0D1MNNI4BF0'. 
+[2023.05.05-21.10.57:761][319]MapCheck: LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_0_0 Layer 'Flat Middle' ('{0x3DE5FCA3,0x4926,0xDC65,{0xB3,0x2F,0x89,0x8A,0x71,0x4E,0x24,0x26}}') was removed from LandscapeProxy because it doesn't match any of the LandscapeActor Layers. Please resave '/Game/__ExternalActors__/FloatingIsles/9/QH/OTZUJL3CV8NLT9NUAEYFKP'. 
+[2023.05.05-21.10.57:764][319]MapCheck: LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_1_0 Layer 'Flat Middle' ('{0x3DE5FCA3,0x4926,0xDC65,{0xB3,0x2F,0x89,0x8A,0x71,0x4E,0x24,0x26}}') was removed from LandscapeProxy because it doesn't match any of the LandscapeActor Layers. Please resave '/Game/__ExternalActors__/FloatingIsles/6/9M/YHV167P1EHIXHWI46UUJAN'. 
+[2023.05.05-21.10.57:768][319]MapCheck: LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_0_0 Layer 'Flat Middle' ('{0x3DE5FCA3,0x4926,0xDC65,{0xB3,0x2F,0x89,0x8A,0x71,0x4E,0x24,0x26}}') was removed from LandscapeProxy because it doesn't match any of the LandscapeActor Layers. Please resave '/Game/__ExternalActors__/FloatingIsles/8/52/57FU068FGWY7UI779NS5MK'. 
+[2023.05.05-21.10.57:771][319]MapCheck: LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_2_0 Layer 'Flat Middle' ('{0x3DE5FCA3,0x4926,0xDC65,{0xB3,0x2F,0x89,0x8A,0x71,0x4E,0x24,0x26}}') was removed from LandscapeProxy because it doesn't match any of the LandscapeActor Layers. Please resave '/Game/__ExternalActors__/FloatingIsles/5/1G/DSCY5GHBC3J77Y7IQ8UAD5'. 
+[2023.05.05-21.10.57:774][319]MapCheck: LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_7_0 Layer 'Flat Middle' ('{0x3DE5FCA3,0x4926,0xDC65,{0xB3,0x2F,0x89,0x8A,0x71,0x4E,0x24,0x26}}') was removed from LandscapeProxy because it doesn't match any of the LandscapeActor Layers. Please resave '/Game/__ExternalActors__/FloatingIsles/9/9Z/QY6TVIJZ5JGGR9NOMWPRD6'. 
+[2023.05.05-21.10.57:776][319]MapCheck: LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_5_0 Layer 'Flat Middle' ('{0x3DE5FCA3,0x4926,0xDC65,{0xB3,0x2F,0x89,0x8A,0x71,0x4E,0x24,0x26}}') was removed from LandscapeProxy because it doesn't match any of the LandscapeActor Layers. Please resave '/Game/__ExternalActors__/FloatingIsles/2/O1/6HJABWXU7C9E35518ZWRZU'. 
+[2023.05.05-21.10.57:780][319]MapCheck: LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_5_0 Layer 'Flat Middle' ('{0x3DE5FCA3,0x4926,0xDC65,{0xB3,0x2F,0x89,0x8A,0x71,0x4E,0x24,0x26}}') was removed from LandscapeProxy because it doesn't match any of the LandscapeActor Layers. Please resave '/Game/__ExternalActors__/FloatingIsles/4/4F/ET2WA1ZQGS3TLIAGZ3RJG2'. 
+[2023.05.05-21.10.57:783][319]MapCheck: LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_4_0 Layer 'Flat Middle' ('{0x3DE5FCA3,0x4926,0xDC65,{0xB3,0x2F,0x89,0x8A,0x71,0x4E,0x24,0x26}}') was removed from LandscapeProxy because it doesn't match any of the LandscapeActor Layers. Please resave '/Game/__ExternalActors__/FloatingIsles/8/MX/PNGHX3XAS4AZCA1IJO9KD7'. 
+[2023.05.05-21.10.57:786][319]MapCheck: LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_4_0 Layer 'Flat Middle' ('{0x3DE5FCA3,0x4926,0xDC65,{0xB3,0x2F,0x89,0x8A,0x71,0x4E,0x24,0x26}}') was removed from LandscapeProxy because it doesn't match any of the LandscapeActor Layers. Please resave '/Game/__ExternalActors__/FloatingIsles/D/0W/G7WJCXNSPV7I1E2YGOXAA8'. 
+[2023.05.05-21.10.57:789][319]MapCheck: LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_6_0 Layer 'Flat Middle' ('{0x3DE5FCA3,0x4926,0xDC65,{0xB3,0x2F,0x89,0x8A,0x71,0x4E,0x24,0x26}}') was removed from LandscapeProxy because it doesn't match any of the LandscapeActor Layers. Please resave '/Game/__ExternalActors__/FloatingIsles/7/5F/WX0L4QVLYHG912IYLT3YKL'. 
+[2023.05.05-21.10.57:792][319]MapCheck: LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_3_0 Layer 'Flat Middle' ('{0x3DE5FCA3,0x4926,0xDC65,{0xB3,0x2F,0x89,0x8A,0x71,0x4E,0x24,0x26}}') was removed from LandscapeProxy because it doesn't match any of the LandscapeActor Layers. Please resave '/Game/__ExternalActors__/FloatingIsles/5/IW/MW8XECV0LJEGO7YM2AF5Q4'. 
+[2023.05.05-21.10.57:795][319]MapCheck: LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_1_0 Layer 'Flat Middle' ('{0x3DE5FCA3,0x4926,0xDC65,{0xB3,0x2F,0x89,0x8A,0x71,0x4E,0x24,0x26}}') was removed from LandscapeProxy because it doesn't match any of the LandscapeActor Layers. Please resave '/Game/__ExternalActors__/FloatingIsles/3/HP/5UEQNVFEK6OGH1375RMIAC'. 
+[2023.05.05-21.10.57:798][319]MapCheck: LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_1_0 Layer 'Flat Middle' ('{0x3DE5FCA3,0x4926,0xDC65,{0xB3,0x2F,0x89,0x8A,0x71,0x4E,0x24,0x26}}') was removed from LandscapeProxy because it doesn't match any of the LandscapeActor Layers. Please resave '/Game/__ExternalActors__/FloatingIsles/7/RE/XAHOINH0JB1I6PI3P8BCI4'. 
+[2023.05.05-21.10.57:801][319]MapCheck: LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_0_0 Layer 'Flat Middle' ('{0x3DE5FCA3,0x4926,0xDC65,{0xB3,0x2F,0x89,0x8A,0x71,0x4E,0x24,0x26}}') was removed from LandscapeProxy because it doesn't match any of the LandscapeActor Layers. Please resave '/Game/__ExternalActors__/FloatingIsles/C/QN/HC150BO5L977OERBTTS63R'. 
+[2023.05.05-21.10.57:804][319]MapCheck: LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_0_0 Layer 'Flat Middle' ('{0x3DE5FCA3,0x4926,0xDC65,{0xB3,0x2F,0x89,0x8A,0x71,0x4E,0x24,0x26}}') was removed from LandscapeProxy because it doesn't match any of the LandscapeActor Layers. Please resave '/Game/__ExternalActors__/FloatingIsles/D/KB/IFS5VR9SQNS60W1ICICMP9'. 
+[2023.05.05-21.10.57:807][319]MapCheck: LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_2_0 Layer 'Flat Middle' ('{0x3DE5FCA3,0x4926,0xDC65,{0xB3,0x2F,0x89,0x8A,0x71,0x4E,0x24,0x26}}') was removed from LandscapeProxy because it doesn't match any of the LandscapeActor Layers. Please resave '/Game/__ExternalActors__/FloatingIsles/4/NQ/7IEZTLFWNZ61YPYXNZ761W'. 
+[2023.05.05-21.10.57:810][319]MapCheck: LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_2_0 Layer 'Flat Middle' ('{0x3DE5FCA3,0x4926,0xDC65,{0xB3,0x2F,0x89,0x8A,0x71,0x4E,0x24,0x26}}') was removed from LandscapeProxy because it doesn't match any of the LandscapeActor Layers. Please resave '/Game/__ExternalActors__/FloatingIsles/6/9B/Z1SNQUXLZD813MS9IH1469'. 
+[2023.05.05-21.10.57:813][319]MapCheck: LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_7_0 Layer 'Flat Middle' ('{0x3DE5FCA3,0x4926,0xDC65,{0xB3,0x2F,0x89,0x8A,0x71,0x4E,0x24,0x26}}') was removed from LandscapeProxy because it doesn't match any of the LandscapeActor Layers. Please resave '/Game/__ExternalActors__/FloatingIsles/D/VE/31Y1Z2T7MTYF1OPHT9UHWF'. 
+[2023.05.05-21.10.57:860][319]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.05-21.10.57:873][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.05.05-21.10.57:882][319]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.05-21.10.57:882][319]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,483ms to complete.
+[2023.05.05-21.10.57:882][319]LogFileHelpers: Loading map 'FloatingIsles' took 15.529
+[2023.05.05-21.10.57:890][319]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.001798s (1.632821s overbudget)
+[2023.05.05-21.10.58:095][320]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=47412
+[2023.05.05-21.10.58:132][320]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=8, SampleRate=48000, DeviceID={0.0.0.00000000}.{3fac1d41-ade7-4db4-a82d-8ecd0c2c6249}, Name=Speakers (THX Spatial - Synapse)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=34.13
+[2023.05.05-21.10.58:132][320]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=1
+[2023.05.05-21.10.58:146][320]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.05.05-21.11.24:562][639]LogDerivedDataCache: C:/Users/Pontus/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.547 and deleted 0 file(s) with total size 0 MiB.
+[2023.05.05-21.11.54:909][502]Cmd: DELETE
+[2023.05.05-21.11.54:910][502]Cmd: ACTOR DELETE
+[2023.05.05-21.11.54:924][502]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.05.05-21.11.54:940][502]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.05.05-21.11.54:954][502]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.05.05-21.11.54:966][502]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.05.05-21.11.54:979][502]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.05.05-21.11.54:993][502]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.05.05-21.11.55:009][502]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.05.05-21.11.55:020][502]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.05.05-21.11.55:031][502]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.05.05-21.11.55:041][502]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.05.05-21.11.55:051][502]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.05.05-21.11.55:061][502]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.05.05-21.11.55:070][502]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.05.05-21.11.55:079][502]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.05.05-21.11.55:089][502]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.05.05-21.11.55:097][502]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.05.05-21.11.55:106][502]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.05.05-21.11.55:113][502]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.05.05-21.11.55:122][502]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.05.05-21.11.55:129][502]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.05.05-21.11.55:137][502]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.05.05-21.11.55:144][502]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.05.05-21.11.55:151][502]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.05.05-21.11.55:158][502]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.05.05-21.11.55:166][502]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.05.05-21.11.55:172][502]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.05.05-21.11.55:178][502]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.05.05-21.11.55:184][502]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.05.05-21.11.55:190][502]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.05.05-21.11.55:197][502]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.05.05-21.11.55:203][502]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.05.05-21.11.55:208][502]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.05.05-21.11.55:213][502]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.05.05-21.11.55:218][502]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.05.05-21.11.55:222][502]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.05.05-21.11.55:226][502]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.05.05-21.11.55:230][502]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.05.05-21.11.55:234][502]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.05.05-21.11.55:238][502]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.05.05-21.11.55:242][502]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.05.05-21.11.55:246][502]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.05.05-21.11.55:249][502]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.05.05-21.11.55:253][502]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.05.05-21.11.55:257][502]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.05.05-21.11.55:261][502]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.05.05-21.11.55:264][502]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.05.05-21.11.55:267][502]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.05.05-21.11.55:270][502]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.05.05-21.11.55:272][502]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.05.05-21.11.55:275][502]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.05.05-21.11.55:277][502]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.05.05-21.11.55:280][502]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.05.05-21.11.55:282][502]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.05.05-21.11.55:284][502]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.05.05-21.11.55:286][502]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.05.05-21.11.55:289][502]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.05.05-21.11.55:290][502]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.05.05-21.11.55:292][502]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.05.05-21.11.55:294][502]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.05.05-21.11.55:296][502]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.05.05-21.11.55:298][502]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.05.05-21.11.55:299][502]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.05.05-21.11.55:301][502]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.05.05-21.11.55:302][502]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.05.05-21.11.55:303][502]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.11.55:311][502]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.05.05-21.11.55:312][502]LogEditorActor: Deleted 65 Actors (0.402 secs)
+[2023.05.05-21.12.04:507][280]Cmd: DELETE
+[2023.05.05-21.12.04:507][280]Cmd: ACTOR DELETE
+[2023.05.05-21.12.04:514][280]LogEditorActor: Deleted Actor: Landscape
+[2023.05.05-21.12.04:522][280]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2023.05.05-21.12.04:523][280]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2023.05.05-21.12.22:833][605]Cmd: DELETE
+[2023.05.05-21.12.22:833][605]Cmd: ACTOR DELETE
+[2023.05.05-21.12.22:837][605]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.12.22:851][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.05.05-21.12.22:851][605]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2023.05.05-21.12.23:468][643]Cmd: DELETE
+[2023.05.05-21.12.23:468][643]Cmd: ACTOR DELETE
+[2023.05.05-21.12.23:471][643]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.12.23:482][643]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.05.05-21.12.23:482][643]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2023.05.05-21.12.24:088][681]Cmd: DELETE
+[2023.05.05-21.12.24:088][681]Cmd: ACTOR DELETE
+[2023.05.05-21.12.24:092][681]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.12.24:101][681]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.05.05-21.12.24:102][681]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2023.05.05-21.12.24:609][712]Cmd: DELETE
+[2023.05.05-21.12.24:609][712]Cmd: ACTOR DELETE
+[2023.05.05-21.12.24:612][712]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.12.24:621][712]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.05.05-21.12.24:622][712]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2023.05.05-21.12.25:178][747]Cmd: DELETE
+[2023.05.05-21.12.25:178][747]Cmd: ACTOR DELETE
+[2023.05.05-21.12.25:182][747]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.12.25:190][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.05.05-21.12.25:191][747]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2023.05.05-21.12.25:649][772]Cmd: DELETE
+[2023.05.05-21.12.25:649][772]Cmd: ACTOR DELETE
+[2023.05.05-21.12.25:654][772]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.12.25:663][772]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.05.05-21.12.25:663][772]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2023.05.05-21.13.12:239][721]Cmd: TRANSACTION UNDO
+[2023.05.05-21.13.12:239][721]LogEditorTransaction: Undo Move Elements
+[2023.05.05-21.13.22:854][373]Cmd: TRANSACTION UNDO
+[2023.05.05-21.13.22:854][373]LogEditorTransaction: Undo Move Elements
+[2023.05.05-21.13.26:397][596]Cmd: DELETE
+[2023.05.05-21.13.26:397][596]Cmd: ACTOR DELETE
+[2023.05.05-21.13.26:438][596]LogEditorActor: Deleted Actor: MediumIsland_1_C
+[2023.05.05-21.13.26:536][596]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.05.05-21.13.26:537][596]LogEditorActor: Deleted 1 Actors (0.140 secs)
+[2023.05.05-21.13.27:891][698]Cmd: TRANSACTION UNDO
+[2023.05.05-21.13.27:892][698]LogEditorTransaction: Undo Delete Elements
+[2023.05.05-21.13.58:205][907]Cmd: DELETE
+[2023.05.05-21.13.58:205][907]Cmd: ACTOR DELETE
+[2023.05.05-21.13.58:221][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:221][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:222][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:222][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:222][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:223][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:223][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:223][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:224][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:224][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:224][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:225][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:225][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:225][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:225][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:226][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:226][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:226][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:226][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:227][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:227][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:227][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:227][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:228][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:228][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:228][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:228][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:229][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:229][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:229][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:229][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:230][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:230][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:230][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:230][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:231][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:231][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:231][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:231][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:232][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:232][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:232][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:232][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:233][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:233][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:233][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:233][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:234][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:234][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:234][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:234][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:235][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:235][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:235][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:235][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:236][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:236][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:236][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:236][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:237][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:237][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:237][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:237][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:238][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:238][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:238][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:238][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:239][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:239][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:239][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:239][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:239][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:240][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:240][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:240][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:240][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:241][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:241][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:241][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:241][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:242][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:242][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:242][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:242][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:243][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:243][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.13.58:250][907]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.05.05-21.13.58:252][907]LogEditorActor: Deleted 86 Actors (0.046 secs)
+[2023.05.05-21.14.04:438][293]Cmd: DELETE
+[2023.05.05-21.14.04:438][293]Cmd: ACTOR DELETE
+[2023.05.05-21.14.04:444][293]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.14.04:456][293]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.05.05-21.14.04:459][293]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2023.05.05-21.14.07:638][475]Cmd: DELETE
+[2023.05.05-21.14.07:638][475]Cmd: ACTOR DELETE
+[2023.05.05-21.14.07:641][475]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.14.07:649][475]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.05.05-21.14.07:650][475]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2023.05.05-21.14.20:333][140]Cmd: TRANSACTION UNDO
+[2023.05.05-21.14.20:333][140]LogEditorTransaction: Undo Move Elements
+[2023.05.05-21.14.26:428][443]Cmd: DELETE
+[2023.05.05-21.14.26:429][443]Cmd: ACTOR DELETE
+[2023.05.05-21.14.26:446][443]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.14.26:492][443]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.05.05-21.14.26:494][443]LogEditorActor: Deleted 1 Actors (0.066 secs)
+[2023.05.05-21.14.28:694][531]Cmd: DELETE
+[2023.05.05-21.14.28:694][531]Cmd: ACTOR DELETE
+[2023.05.05-21.14.28:698][531]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.14.28:706][531]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.05.05-21.14.28:707][531]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2023.05.05-21.14.29:994][596]Cmd: DELETE
+[2023.05.05-21.14.29:994][596]Cmd: ACTOR DELETE
+[2023.05.05-21.14.29:997][596]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.14.30:006][596]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.05.05-21.14.30:008][596]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2023.05.05-21.14.31:131][655]Cmd: DELETE
+[2023.05.05-21.14.31:131][655]Cmd: ACTOR DELETE
+[2023.05.05-21.14.31:136][655]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.14.31:143][655]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2023.05.05-21.14.31:144][655]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2023.05.05-21.14.33:016][763]Cmd: DELETE
+[2023.05.05-21.14.33:016][763]Cmd: ACTOR DELETE
+[2023.05.05-21.14.33:019][763]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.14.33:028][763]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.05.05-21.14.33:030][763]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2023.05.05-21.14.37:521][982]Cmd: DELETE
+[2023.05.05-21.14.37:521][982]Cmd: ACTOR DELETE
+[2023.05.05-21.14.37:527][982]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.14.37:535][982]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2023.05.05-21.14.37:537][982]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2023.05.05-21.14.38:153][  9]Cmd: DELETE
+[2023.05.05-21.14.38:153][  9]Cmd: ACTOR DELETE
+[2023.05.05-21.14.38:159][  9]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.14.38:171][  9]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.05.05-21.14.38:173][  9]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2023.05.05-21.14.38:695][ 33]Cmd: DELETE
+[2023.05.05-21.14.38:695][ 33]Cmd: ACTOR DELETE
+[2023.05.05-21.14.38:699][ 33]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.14.38:708][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2023.05.05-21.14.38:709][ 33]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2023.05.05-21.14.40:259][111]Cmd: DELETE
+[2023.05.05-21.14.40:259][111]Cmd: ACTOR DELETE
+[2023.05.05-21.14.40:263][111]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-21.14.40:271][111]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.05.05-21.14.40:272][111]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2023.05.05-21.15.47:038][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B87F01_1699592726 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/9/43/K2LFT9V4L1JM3KRF8UMD81.PackageMetaData in its package
+[2023.05.05-21.15.47:039][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B97F01_1265261932 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/8/YY/NJFVYN1L1AD0X1QD7BYSYZ.PackageMetaData in its package
+[2023.05.05-21.15.47:039][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B97F01_1489567940 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/8/TW/IGHBSJU921X36V4FZR24RL.PackageMetaData in its package
+[2023.05.05-21.15.47:039][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B97F01_1542656942 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/8/TV/CE7L7DAHB5RUM50IAVH3S3.PackageMetaData in its package
+[2023.05.05-21.15.47:039][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B87F01_1794344732 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/8/TO/UFCXEGOGYNO412RP0A9QOS.PackageMetaData in its package
+[2023.05.05-21.15.47:039][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B97F01_1839961954 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/8/T8/R9QAVLONON1T45KOIVWGWT.PackageMetaData in its package
+[2023.05.05-21.15.47:039][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B77F01_1744523522 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/8/SF/GWVY9WAT2L0TRAIUQHHA95.PackageMetaData in its package
+[2023.05.05-21.15.47:039][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B87F01_1770128731 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/8/LG/89CJ6QO2J18WPWCX1A3C4D.PackageMetaData in its package
+[2023.05.05-21.15.47:039][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B97F01_1861964955 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/8/CH/5ELI7IYWU1VBNGFNMRAGVE.PackageMetaData in its package
+[2023.05.05-21.15.47:039][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B87F01_1880538737 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/8/AZ/LFZZ0TKAMNA9YG9J0DY1YV.PackageMetaData in its package
+[2023.05.05-21.15.47:039][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B97F01_1942191958 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/8/65/XWJ5AQWHGHZMUL3VSCOA6Z.PackageMetaData in its package
+[2023.05.05-21.15.47:039][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B97F01_1460558939 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/7/TU/DCJSGFVE583574SFOP6MXC.PackageMetaData in its package
+[2023.05.05-21.15.47:039][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B87F01_1943321741 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/7/QO/PZC66IX3JHBB1Y8F1Y12EO.PackageMetaData in its package
+[2023.05.05-21.15.47:039][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3BA7F01_1230470146 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/7/DJ/11YUTLJNAYAWDN1MYKMDAR.PackageMetaData in its package
+[2023.05.05-21.15.47:039][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B97F01_1818880953 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/7/7R/EXECS9Y3H31QJIX365OC1D.PackageMetaData in its package
+[2023.05.05-21.15.47:039][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3837F01_1167265414 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/7/39/4AJY8BFWBITXA0YDFECWUP.PackageMetaData in its package
+[2023.05.05-21.15.47:039][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3BA7F01_1093342141 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/7/2V/Z726VRS434P7D1UTE8A0IP.PackageMetaData in its package
+[2023.05.05-21.15.47:039][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3C27F01_1821670004 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/7/00/AYML7EA9UCA8P71AVN35CN.PackageMetaData in its package
+[2023.05.05-21.15.47:039][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3847F01_1275260628 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/6/Z9/POPSTMLH3OEL9THHCSH4JW.PackageMetaData in its package
+[2023.05.05-21.15.47:039][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3837F01_1100144410 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/6/XY/O031IKS1FT9YME5H9T916E.PackageMetaData in its package
+[2023.05.05-21.15.47:039][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B87F01_1754931730 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/6/PS/DLX5XBFCUADZ76FZD8FR3V.PackageMetaData in its package
+[2023.05.05-21.15.47:039][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B97F01_1780244952 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/6/K3/15N1U2ZT6IJ0KBOQX91XFQ.PackageMetaData in its package
+[2023.05.05-21.15.47:039][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B87F01_1658705725 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/6/GP/4W4I6WTEQNK1LUO17FPY8I.PackageMetaData in its package
+[2023.05.05-21.15.47:039][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B97F01_1878187956 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/6/F2/C2FUN1BMEZA9C87IXMQIKI.PackageMetaData in its package
+[2023.05.05-21.15.47:039][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B97F01_2063896962 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/6/6T/UAJQ5ZZ8MS3WLNTL96CI1Q.PackageMetaData in its package
+[2023.05.05-21.15.47:039][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B97F01_1548900943 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/5/YA/5WSN5GHCN6GYJO6XJHBBE3.PackageMetaData in its package
+[2023.05.05-21.15.47:039][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B97F01_1325400934 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/5/GQ/JCS9YIW8W89UGK73B8XHEF.PackageMetaData in its package
+[2023.05.05-21.15.47:039][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3C27F01_1808347003 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/5/GI/XXBSL55YR0JFXNWRZ3RT4M.PackageMetaData in its package
+[2023.05.05-21.15.47:039][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3BA7F01_1125334142 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/5/C8/MEP6OOJVQ2YWS6J4PGJ0DG.PackageMetaData in its package
+[2023.05.05-21.15.47:039][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B87F01_1612734724 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/5/5S/SK1M27C7UVS1SLC9ZLBCPT.PackageMetaData in its package
+[2023.05.05-21.15.47:039][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3BA7F01_1181309144 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/5/01/G02F5D0I9L0AGCDNUVFMJ5.PackageMetaData in its package
+[2023.05.05-21.15.47:039][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B97F01_1356335935 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/4/Y9/8CYS619URHQY115TCI2LD5.PackageMetaData in its package
+[2023.05.05-21.15.47:039][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B97F01_1647395947 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/4/MA/736877UCLOJO1YUSZUY01L.PackageMetaData in its package
+[2023.05.05-21.15.47:039][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3837F01_1179140416 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/4/CB/9S8LBLBGXDNCQTZV709H9W.PackageMetaData in its package
+[2023.05.05-21.15.47:039][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B97F01_2082678963 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/3/ZG/NAUN3VS6AL41BFG9GCEZNC.PackageMetaData in its package
+[2023.05.05-21.15.47:039][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B87F01_1852323736 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/3/VG/OVV0XO1NT686P5YOBP1AP3.PackageMetaData in its package
+[2023.05.05-21.15.47:039][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3C27F01_1854215005 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/3/U2/8JAFEEB51RHJOXKLG0F49M.PackageMetaData in its package
+[2023.05.05-21.15.47:039][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B97F01_1153196929 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/3/SK/G1UURLQ0OCWX08HL9B1VW3.PackageMetaData in its package
+[2023.05.05-21.15.47:039][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B97F01_2034889960 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/3/RT/0QU5V2CQQCVBBQALM937Y3.PackageMetaData in its package
+[2023.05.05-21.15.47:039][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B97F01_1394448937 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/3/O9/JCZAZHD0C37M8575EWWFI2.PackageMetaData in its package
+[2023.05.05-21.15.47:039][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B97F01_1416670938 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/3/6M/B7BB1YRFKMJ2BVW5JT5Q41.PackageMetaData in its package
+[2023.05.05-21.15.47:039][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3837F01_1107129411 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/2/X4/GYBDJ6QTWU553625B4EMWO.PackageMetaData in its package
+[2023.05.05-21.15.47:039][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B77F01_1696064521 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/2/UN/1C7ORCQW9BJIODZRDJ0IYN.PackageMetaData in its package
+[2023.05.05-21.15.47:039][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E37F7F01_1927815625 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/2/K4/1D1D19PHEYX04HDYDZUGMC.PackageMetaData in its package
+[2023.05.05-21.15.47:039][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B87F01_2030086743 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/2/BW/O8K8SDK6A3A0OK2C3LLBVB.PackageMetaData in its package
+[2023.05.05-21.15.47:039][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B97F01_1714043949 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/2/AM/MTY3EFBXLNCTFL8B2CFFHR.PackageMetaData in its package
+[2023.05.05-21.15.47:039][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_2_0 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/1/IP/NMOYY4EMHPCE86P8CMW5TW.PackageMetaData in its package
+[2023.05.05-21.15.47:039][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3847F01_1248469625 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/1/HM/6BTBDCNW3RQJWSYDIFYK47.PackageMetaData in its package
+[2023.05.05-21.15.47:039][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3837F01_1170068415 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/1/BK/9PMIWUSNRMA17F9LIUGZH1.PackageMetaData in its package
+[2023.05.05-21.15.47:039][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B97F01_1911752957 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/1/62/NN6IGGIZI5OOE26ASMAU7M.PackageMetaData in its package
+[2023.05.05-21.15.47:039][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3837F01_1184094417 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/1/0J/ICS9ERDZZIDV1GFTNE5UTS.PackageMetaData in its package
+[2023.05.05-21.15.47:039][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_3_0 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/E/KC/RKJOWY85AK53N8D8PLFC32.PackageMetaData in its package
+[2023.05.05-21.15.47:039][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_3_0 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/D/M0/P7D6ZIC9KKR1GUP0H03FTY.PackageMetaData in its package
+[2023.05.05-21.15.47:039][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_4_0 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/2/UP/DYA620WV75MAXCT9O5EGLA.PackageMetaData in its package
+[2023.05.05-21.15.47:039][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_4_0 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/0/WT/DEOFQCBCBPT9Y3LCA0VPHZ.PackageMetaData in its package
+[2023.05.05-21.15.47:039][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_2_0 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/4/TK/61JTMXI1SV1OEAEQ7RKL3O.PackageMetaData in its package
+[2023.05.05-21.15.47:039][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_2_0 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/1/AM/1DTO2E7EL7HJDQ37KZYPMV.PackageMetaData in its package
+[2023.05.05-21.15.47:039][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_2_0 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/0/KF/H3OBXDXBNG17Z80EM16MMG.PackageMetaData in its package
+[2023.05.05-21.15.47:039][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_1_0 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/E/25/N3YCBAG3N5D2N80XM3IXNR.PackageMetaData in its package
+[2023.05.05-21.15.47:039][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_0_0 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/8/PR/0EAP7N1Z1NAB0KG0ER9GR0.PackageMetaData in its package
+[2023.05.05-21.15.47:039][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_0_0 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/E/24/HXWU8W306L70S6D4V3AZRJ.PackageMetaData in its package
+[2023.05.05-21.15.47:040][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_1_0 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/A/5J/3CPMVZYXUMT1ZRH65GR85V.PackageMetaData in its package
+[2023.05.05-21.15.47:040][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_0_0 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/9/FN/A3G7H1A438SLWMZSPOLSA3.PackageMetaData in its package
+[2023.05.05-21.15.47:040][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_1_0 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/0/13/6UB5IYE0HVDCELTQR0MP93.PackageMetaData in its package
+[2023.05.05-21.15.47:040][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.Landscape_UAID_A85E45CFE404FBD100_1221515703 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/7/AO/XEZXH3OK84VYB00UZNJA0J.PackageMetaData in its package
+[2023.05.05-21.15.47:040][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3BA7F01_1315857147 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/9/F1/Q58YBDRYWF4V3UMLBANLRA.PackageMetaData in its package
+[2023.05.05-21.15.47:040][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B87F01_1810038733 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/9/LE/85OGFYEMV7JR3BR5JX37LR.PackageMetaData in its package
+[2023.05.05-21.15.47:040][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B77F01_1929357529 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/9/LP/GWR46190A3LHEMM03D0UJ9.PackageMetaData in its package
+[2023.05.05-21.15.47:040][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3C27F01_1739493002 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/9/PB/KZ8VTKM5NJ5IFKD1PP4WAX.PackageMetaData in its package
+[2023.05.05-21.15.47:040][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B87F01_1817558734 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/9/QZ/06F15JCR6T9SZ9NH8SWZLM.PackageMetaData in its package
+[2023.05.05-21.15.47:040][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B87F01_2089371745 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/9/Z4/ZTJNBXPBRF7SS06NPHL9P0.PackageMetaData in its package
+[2023.05.05-21.15.47:040][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B87F01_1714046727 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/A/JN/FLWOU6OXEXDSE0JEEKZHF7.PackageMetaData in its package
+[2023.05.05-21.15.47:040][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B97F01_1574411945 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/A/QN/3OWJFNE68J9ZI77LHOSM42.PackageMetaData in its package
+[2023.05.05-21.15.47:040][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B77F01_1537988518 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/B/6M/TKFDA9AOUZNJM394EID3HW.PackageMetaData in its package
+[2023.05.05-21.15.47:040][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B97F01_1087053923 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/B/BV/VDI1VXTCX3V0YT4MB3WKPQ.PackageMetaData in its package
+[2023.05.05-21.15.47:040][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B97F01_1377524936 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/B/ES/AO1YYJCSN7BLY0YQZWDQFT.PackageMetaData in its package
+[2023.05.05-21.15.47:040][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B87F01_1746173729 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/B/HY/RQTVVOQ8OJA7A05TCN7DZY.PackageMetaData in its package
+[2023.05.05-21.15.47:040][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B97F01_2028485959 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/B/K7/BZ8Q2JD3407GEGU8MNXX9B.PackageMetaData in its package
+[2023.05.05-21.15.47:040][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3837F01_1076310409 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/B/N9/GAJFUWC6ZCJRIWQ551QDFL.PackageMetaData in its package
+[2023.05.05-21.15.47:040][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B97F01_1633447946 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/B/QW/SULY97BM5MQ3UHEBRDYPT0.PackageMetaData in its package
+[2023.05.05-21.15.47:040][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B87F01_2063362744 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/B/ZP/E47S06VP9L3TQFJRVXTPP1.PackageMetaData in its package
+[2023.05.05-21.15.47:040][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B97F01_2134669964 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/C/6P/E68TQO324XU2D4E8ZV2DC2.PackageMetaData in its package
+[2023.05.05-21.15.47:040][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E37F7F01_2060112630 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/C/F7/KY38YU3FFW95EX8UFY47EU.PackageMetaData in its package
+[2023.05.05-21.15.47:040][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3BA7F01_1219347145 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/C/H4/543TEEPH7Y0JOTPUS1K6LG.PackageMetaData in its package
+[2023.05.05-21.15.47:040][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B87F01_1890205738 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/C/JV/O7B4IJ5WFKAAEPEVH02G60.PackageMetaData in its package
+[2023.05.05-21.15.47:040][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B87F01_1837980735 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/C/PB/SQVCBBB8PYFXSPJU7D1O3X.PackageMetaData in its package
+[2023.05.05-21.15.47:040][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3827F01_2128024232 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/C/RF/PHH41FS7SZE3NRBSHHYHZZ.PackageMetaData in its package
+[2023.05.05-21.15.47:040][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B77F01_1193687511 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/C/Y2/NQ3R3CPVYR03V6599P8LHU.PackageMetaData in its package
+[2023.05.05-21.15.47:040][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B97F01_1177479930 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/D/57/JNK69DWLEIPARP73IOI2NW.PackageMetaData in its package
+[2023.05.05-21.15.47:040][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B87F01_1901274739 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/D/C7/9N7TG2J8FFJF9BUG0E60V3.PackageMetaData in its package
+[2023.05.05-21.15.47:040][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B87F01_2140369746 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/D/EI/SBHQUXQDBSWBT8MQQ8A7A6.PackageMetaData in its package
+[2023.05.05-21.15.47:040][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B67F01_1613812313 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/D/OH/4KKZPIIQ426E4FK65F11LT.PackageMetaData in its package
+[2023.05.05-21.15.47:040][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B97F01_1757049951 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/D/QT/SEI5CGGHLAAECAYO5PAQFY.PackageMetaData in its package
+[2023.05.05-21.15.47:040][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B97F01_1520747941 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/D/RP/446T09I0YVN5OMQG846X5J.PackageMetaData in its package
+[2023.05.05-21.15.47:040][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B77F01_1759837523 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/D/VK/SL1WV0V2HNFFMXSTYPAVBW.PackageMetaData in its package
+[2023.05.05-21.15.47:040][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3BA7F01_1165763143 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/D/XE/CWPJ413NH94R3TRZ16VZJT.PackageMetaData in its package
+[2023.05.05-21.15.47:040][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B97F01_1300734933 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/E/0P/NXV6WHNE7JZ6WAN4TVTYD8.PackageMetaData in its package
+[2023.05.05-21.15.47:040][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B87F01_1971191742 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/E/1A/Z8HYCNBPHG1065I0S8TINS.PackageMetaData in its package
+[2023.05.05-21.15.47:040][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B97F01_1111532924 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/E/5O/U09M7K8GRRL8TUSPLZJX5N.PackageMetaData in its package
+[2023.05.05-21.15.47:040][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B87F01_1569125723 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/E/FI/LBH63QO89QHLOEQKF45HZB.PackageMetaData in its package
+[2023.05.05-21.15.47:040][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B97F01_1677157948 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/E/FP/ZGBVKUSDQC10Z0MW4Z6A44.PackageMetaData in its package
+[2023.05.05-21.15.47:040][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3847F01_1290828629 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/E/H1/FL58VSY36RDMPBYFDG3MWB.PackageMetaData in its package
+[2023.05.05-21.15.47:040][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3837F01_1112612412 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/E/HP/M3H3Z2ZHGI5OB8T5F8RDHJ.PackageMetaData in its package
+[2023.05.05-21.15.47:040][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3847F01_1255381626 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/E/I5/34OOUWJQUDM75Q4FONI37X.PackageMetaData in its package
+[2023.05.05-21.15.47:040][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B97F01_1734093950 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/E/J7/5NJ0M71TQTJ0U4JJNWFB3N.PackageMetaData in its package
+[2023.05.05-21.15.47:040][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B97F01_2046580961 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/E/N1/AY23DQTRLELNYVQRM4ZQOF.PackageMetaData in its package
+[2023.05.05-21.15.47:040][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3847F01_1301363631 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/E/NQ/WKQL9CGPAV05YJAMTHXA3B.PackageMetaData in its package
+[2023.05.05-21.15.47:040][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3C27F01_1908318006 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/E/TZ/30R6IAT2OZYWHQF7RNXPYE.PackageMetaData in its package
+[2023.05.05-21.15.47:040][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B97F01_1221971931 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/E/W9/3OLMQ1150SAK3WVUUQBAA6.PackageMetaData in its package
+[2023.05.05-21.15.47:040][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3847F01_1328284632 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/F/5H/ZSW5DLAWH3KK8ZJE2IC0HZ.PackageMetaData in its package
+[2023.05.05-21.15.47:040][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_3_0 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/5/JD/NKJGVSRMP4IM44BJ16XFO2.PackageMetaData in its package
+[2023.05.05-21.15.47:040][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_3_0 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/3/MI/3OLD23ATDT36IGZ1XET6D7.PackageMetaData in its package
+[2023.05.05-21.15.47:040][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_4_0 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/0/PQ/6YH9WIKPLZ3R9LNN09H41N.PackageMetaData in its package
+[2023.05.05-21.15.47:040][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_4_0 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/3/NJ/LRHDYDB0PA74R6KZFJETK1.PackageMetaData in its package
+[2023.05.05-21.15.47:040][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_3_0 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/6/HL/9J1E2GENVXC225BJ6H6VPH.PackageMetaData in its package
+[2023.05.05-21.15.47:040][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_3_0 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/6/YG/6QF73SN6BKWO06VPORMOLU.PackageMetaData in its package
+[2023.05.05-21.15.47:040][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_5_0 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/0/TV/H2YRAXDS73QS84PS5GE6FC.PackageMetaData in its package
+[2023.05.05-21.15.47:040][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_5_0 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/9/PN/4PUE2YQLJURIQ8RJFHCAV1.PackageMetaData in its package
+[2023.05.05-21.15.47:040][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_5_0 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/0/QZ/L20U1EID3OVWFEJKUVJLWX.PackageMetaData in its package
+[2023.05.05-21.15.47:040][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_5_0 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/9/4F/XCEYD88P8K30AQTKLY4HDU.PackageMetaData in its package
+[2023.05.05-21.15.47:040][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/7/CK/3T9ICY7JDI1IRIR63RB7T9.PackageMetaData in its package
+[2023.05.05-21.15.47:040][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_5_0 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/D/OJ/3JTI5P7LOEUKNZ3KBXYIF0.PackageMetaData in its package
+[2023.05.05-21.15.47:040][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_6_0 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/4/6J/7KE9VOD2DON898K2FJ9DTK.PackageMetaData in its package
+[2023.05.05-21.15.47:041][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_6_0 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/D/X7/UQ2UM5O6D5C0T5ZGX43C1I.PackageMetaData in its package
+[2023.05.05-21.15.47:041][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_6_0 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/2/25/91Y08M1J9XU9RUZ5IMMW2O.PackageMetaData in its package
+[2023.05.05-21.15.47:041][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B67F01_2098538329 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/1/TP/64TT8OKLEYH8NENYPTEJ2S.PackageMetaData in its package
+[2023.05.05-21.15.47:041][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B67F01_1952873324 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/2/Q6/7JYZ5Q18N32ND8EZ28SG0L.PackageMetaData in its package
+[2023.05.05-21.15.47:041][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B87F01_1345259718 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/3/P4/QA98WUFN4B8OI684V10GHJ.PackageMetaData in its package
+[2023.05.05-21.15.47:041][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B67F01_1643098316 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/4/76/0VI06EKEKND2A9MRFWCIHP.PackageMetaData in its package
+[2023.05.05-21.15.47:041][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B87F01_1418972721 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/4/S3/ITS8GGTKMDOV3AZ9O56GZZ.PackageMetaData in its package
+[2023.05.05-21.15.47:041][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B87F01_1365753719 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/8/K6/F1M54S3ZWTRNA2A2J382LJ.PackageMetaData in its package
+[2023.05.05-21.15.47:041][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3B67F01_1639922315 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/9/S7/S09K1QTPMXDN9SSSSP87JA.PackageMetaData in its package
+[2023.05.05-21.15.47:041][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.StaticMeshActor_UAID_049226BDA7E3807F01_1716716833 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/D/49/Z3P3B0UVICPA6Y839A31CJ.PackageMetaData in its package
+[2023.05.05-21.15.47:041][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_6_0 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/4/16/X12EAGB1CK9BJ3L9PT27X3.PackageMetaData in its package
+[2023.05.05-21.15.47:041][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_6_0 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/F/28/OYZMG16YTLR9L51792VB35.PackageMetaData in its package
+[2023.05.05-21.15.47:041][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_4_0 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/6/NJ/ZXJUD8C936VCEZVJO53Y4N.PackageMetaData in its package
+[2023.05.05-21.15.47:041][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_3_0 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/B/U0/N027ANEG6XLYI2D1F9W6DU.PackageMetaData in its package
+[2023.05.05-21.15.47:041][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_5_0 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/5/JI/UQIL1HSBI0JDE2ZECU3KYA.PackageMetaData in its package
+[2023.05.05-21.15.47:041][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_1_0 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/D/SU/AN22NZGWOWZ3DSOVDIL7N2.PackageMetaData in its package
+[2023.05.05-21.15.47:041][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_1_0 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/1/QA/QPKSQDZZSBGV0KFY2UYRGE.PackageMetaData in its package
+[2023.05.05-21.15.47:041][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_2_0 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/A/DA/2TDSQCAR6N3ROB0Y5MPQZ2.PackageMetaData in its package
+[2023.05.05-21.15.47:041][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_7_0 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/1/N1/VUDC3XN0HB79APA2IJ3JRK.PackageMetaData in its package
+[2023.05.05-21.15.47:041][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_6_0 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/3/WK/1PI04KUROEEL8MUDYAIUF3.PackageMetaData in its package
+[2023.05.05-21.15.47:041][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_7_0 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/4/9T/485VT4RYNYZGETNMHWNEUL.PackageMetaData in its package
+[2023.05.05-21.15.47:041][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_6_0 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/B/X7/8OSEXZADKV5S5DXXZD9HRD.PackageMetaData in its package
+[2023.05.05-21.15.47:041][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_7_0 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/9/SJ/G0YG1VTRE6U5ZHV1BRU884.PackageMetaData in its package
+[2023.05.05-21.15.47:041][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_7_0 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/1/PA/4J18QD37RP93YVKFJCTPEZ.PackageMetaData in its package
+[2023.05.05-21.15.47:041][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_7_0 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/9/RF/2R6FU0N5FV6G287JS04ETQ.PackageMetaData in its package
+[2023.05.05-21.15.47:041][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_7_0 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/8/1L/2T6G86E1RN1ULQ1AOAER57.PackageMetaData in its package
+[2023.05.05-21.15.47:041][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_0_0 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/2/EN/S5XL0LNQ9WV0D1MNNI4BF0.PackageMetaData in its package
+[2023.05.05-21.15.47:041][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_0_0 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/9/QH/OTZUJL3CV8NLT9NUAEYFKP.PackageMetaData in its package
+[2023.05.05-21.15.47:041][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_1_0 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/6/9M/YHV167P1EHIXHWI46UUJAN.PackageMetaData in its package
+[2023.05.05-21.15.47:041][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_0_0 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/8/52/57FU068FGWY7UI779NS5MK.PackageMetaData in its package
+[2023.05.05-21.15.47:041][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_2_0 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/5/1G/DSCY5GHBC3J77Y7IQ8UAD5.PackageMetaData in its package
+[2023.05.05-21.15.47:041][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_7_0 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/9/9Z/QY6TVIJZ5JGGR9NOMWPRD6.PackageMetaData in its package
+[2023.05.05-21.15.47:041][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_5_0 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/2/O1/6HJABWXU7C9E35518ZWRZU.PackageMetaData in its package
+[2023.05.05-21.15.47:041][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_5_0 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/4/4F/ET2WA1ZQGS3TLIAGZ3RJG2.PackageMetaData in its package
+[2023.05.05-21.15.47:041][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_4_0 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/8/MX/PNGHX3XAS4AZCA1IJO9KD7.PackageMetaData in its package
+[2023.05.05-21.15.47:041][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_4_0 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/D/0W/G7WJCXNSPV7I1E2YGOXAA8.PackageMetaData in its package
+[2023.05.05-21.15.47:041][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_6_0 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/7/5F/WX0L4QVLYHG912IYLT3YKL.PackageMetaData in its package
+[2023.05.05-21.15.47:041][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_3_0 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/5/IW/MW8XECV0LJEGO7YM2AF5Q4.PackageMetaData in its package
+[2023.05.05-21.15.47:041][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_1_0 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/3/HP/5UEQNVFEK6OGH1375RMIAC.PackageMetaData in its package
+[2023.05.05-21.15.47:041][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_1_0 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/7/RE/XAHOINH0JB1I6PI3P8BCI4.PackageMetaData in its package
+[2023.05.05-21.15.47:041][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_0_0 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/C/QN/HC150BO5L977OERBTTS63R.PackageMetaData in its package
+[2023.05.05-21.15.47:041][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_0_0 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/D/KB/IFS5VR9SQNS60W1ICICMP9.PackageMetaData in its package
+[2023.05.05-21.15.47:041][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_2_0 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/4/NQ/7IEZTLFWNZ61YPYXNZ761W.PackageMetaData in its package
+[2023.05.05-21.15.47:041][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_2_0 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/6/9B/Z1SNQUXLZD813MS9IH1469.PackageMetaData in its package
+[2023.05.05-21.15.47:041][178]LogWorldPartition: Warning: Actor /Game/FloatingIsles.FloatingIsles:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_7_0 is unreachable without properly detaching object /Game/__ExternalActors__/FloatingIsles/D/VE/31Y1Z2T7MTYF1OPHT9UHWF.PackageMetaData in its package
+[2023.05.05-21.15.47:052][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.05.05-21.15.47:064][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.05.05-21.15.47:072][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.05.05-21.15.47:077][178]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.003726 seconds
+[2023.05.05-21.15.47:090][178]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FloatingIsles/9/4O/QZ22TTOBDUUZS1YVUFTJRR
+[2023.05.05-21.15.47:091][178]LogSavePackage: Moving 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Saved/QZ22TTOBDUUZS1YVUFTJRR2F7A176C4F5ABBA379F3B99E86B9101E.tmp' to 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Content/__ExternalActors__/FloatingIsles/9/4O/QZ22TTOBDUUZS1YVUFTJRR.uasset'
+[2023.05.05-21.15.47:109][178]LogSavePackage: Moving output files for package: /Game/Blueprints/Islands/Medium/MediumIsland_1
+[2023.05.05-21.15.47:110][178]LogSavePackage: Moving 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Saved/MediumIsland_1D18274414C020C7C1C5826AC697618A3.tmp' to 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Content/Blueprints/Islands/Medium/MediumIsland_1.uasset'
+[2023.05.05-21.15.47:124][178]LogSavePackage: Moving output files for package: /Game/Blueprints/Islands/Medium/MediumIsland_2
+[2023.05.05-21.15.47:125][178]LogSavePackage: Moving 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Saved/MediumIsland_266B21CB84F65BD2E67A2669D0522EBEA.tmp' to 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Content/Blueprints/Islands/Medium/MediumIsland_2.uasset'
+[2023.05.05-21.15.47:135][178]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FloatingIsles/7/BJ/NVT5FT84VR0FZFQ1WKPOXO
+[2023.05.05-21.15.47:136][178]LogSavePackage: Moving 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Saved/NVT5FT84VR0FZFQ1WKPOXO8A35A4054DCD87A34034E8A9E707B3DF.tmp' to 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Content/__ExternalActors__/FloatingIsles/7/BJ/NVT5FT84VR0FZFQ1WKPOXO.uasset'
+[2023.05.05-21.15.47:166][178]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MediumIsland_1_Plate" FILE="C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Content/Blueprints/MediumIsland_1_Plate.uasset" SILENT=true
+[2023.05.05-21.15.47:168][178]LogSavePackage: Moving output files for package: /Game/Blueprints/MediumIsland_1_Plate
+[2023.05.05-21.15.47:168][178]LogSavePackage: Moving 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Saved/MediumIsland_1_Plate5A6DE2F642AC80EA712C4E984F94A4B6.tmp' to 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Content/Blueprints/MediumIsland_1_Plate.uasset'
+[2023.05.05-21.15.47:183][178]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MediumIsland_2_Plate" FILE="C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Content/Blueprints/MediumIsland_2_Plate.uasset" SILENT=true
+[2023.05.05-21.15.47:186][178]LogSavePackage: Moving output files for package: /Game/Blueprints/MediumIsland_2_Plate
+[2023.05.05-21.15.47:186][178]LogSavePackage: Moving 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Saved/MediumIsland_2_Plate15BA02924990C85C8E04D390485AD5FC.tmp' to 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Content/Blueprints/MediumIsland_2_Plate.uasset'
+[2023.05.05-21.15.47:219][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.05.05-21.15.47:227][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.05.05-21.15.47:235][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.05.05-21.15.47:253][178]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.05-21.15.47:253][178]LogContentValidation: Display: Validating MediumIsland_1_C /Game/FloatingIsles.FloatingIsles:PersistentLevel.MediumIsland_1_C_UAID_049226BDA7E3C17F01_1626203814
+[2023.05.05-21.15.47:253][178]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Islands/Medium/MediumIsland_1.MediumIsland_1
+[2023.05.05-21.15.47:253][178]LogContentValidation: Display: Validating StaticMesh /Game/Blueprints/MediumIsland_1_Plate.MediumIsland_1_Plate
+[2023.05.05-21.15.47:253][178]LogContentValidation: Display: Validating MediumIsland_2_C /Game/FloatingIsles.FloatingIsles:PersistentLevel.MediumIsland_2_C_UAID_049226BDA7E3C37F01_1688292214
+[2023.05.05-21.15.47:253][178]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Islands/Medium/MediumIsland_2.MediumIsland_2
+[2023.05.05-21.15.47:253][178]LogContentValidation: Display: Validating StaticMesh /Game/Blueprints/MediumIsland_2_Plate.MediumIsland_2_Plate

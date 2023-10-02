@@ -1,0 +1,403 @@
+﻿Log file open, 10/02/23 21:21:22
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=32712)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Fletcher
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:\Users\pontu\OneDrive\Skrivbord\Fletcher\Fletcher.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (22H2) [10.0.19045.3448] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="b2e94ffa4874904ed2af9a91a3ef2d0d"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.248263
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-5766CCD04546E4D65AE083B5D28D7E63
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading HoloLens ini files took 0.03 seconds
+LogConfig: Display: Loading Android ini files took 0.04 seconds
+LogConfig: Display: Loading Mac ini files took 0.04 seconds
+LogConfig: Display: Loading IOS ini files took 0.04 seconds
+LogConfig: Display: Loading Unix ini files took 0.05 seconds
+LogConfig: Display: Loading TVOS ini files took 0.05 seconds
+LogConfig: Display: Loading Linux ini files took 0.05 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.05 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogConfig: Display: Loading Windows ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin GeometryScripting
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryScripting/Content/' mounted to '/GeometryScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+Launching UnrealBuildTool... [E:/Unreal Engine/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe -Mode=QueryTargets -Project="C:/Users/pontu/OneDrive/Skrivbord/Fletcher/Fletcher.uproject" -Output="C:/Users/pontu/OneDrive/Skrivbord/Fletcher/Intermediate/TargetInfo.json"]
+LogInit: Warning: Incompatible or missing module: Fletcher
+Running E:/Unreal Engine/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe Development Win64 -Project="C:/Users/pontu/OneDrive/Skrivbord/Fletcher/Fletcher.uproject" -TargetType=Editor -Progress -NoEngineChanges -NoHotReloadFromIDE
+Log file: C:\Users\pontu\AppData\Local\UnrealBuildTool\Log.txt
+Using 'git status' to determine working set for adaptive non-unity build (C:\Users\pontu\OneDrive\Skrivbord\Fletcher).
+Creating makefile for FletcherEditor (no existing makefile)
+@progress push 5%
+Parsing headers for FletcherEditor
+  Running UnrealHeaderTool "C:\Users\pontu\OneDrive\Skrivbord\Fletcher\Fletcher.uproject" "C:\Users\pontu\OneDrive\Skrivbord\Fletcher\Intermediate\Build\Win64\FletcherEditor\Development\FletcherEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\pontu\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+Reflection code generated for FletcherEditor in 2,036826 seconds
+@progress pop
+Building FletcherEditor...
+Using Visual Studio 2022 14.37.32822 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822) and Windows 10.0.22000.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+Determining max actions to execute in parallel (6 physical cores, 12 logical cores)
+  Executing up to 6 processes, one per physical core
+  Requested 1,5 GB free memory per action, 5,23 GB available: limiting max parallel actions to 3
+Building 31 actions with 3 processes...
+[1/31] Resource Default.rc2
+[2/31] Compile SharedPCH.Engine.ShadowErrors.cpp
+[3/31] Compile PlayerCharacter.gen.cpp
+[4/31] Compile Bow.gen.cpp
+[5/31] Compile ArcherCharacter.cpp
+C:\Users\pontu\OneDrive\Skrivbord\Fletcher\Source\Fletcher\ArcherCharacter.cpp(12): warning C5038: data member 'AArcherCharacter::DrawTime' will be initialized after data member 'AArcherCharacter::DetectionRange'
+[6/31] Compile FletcherGameModeBase.gen.cpp
+[7/31] Compile LightningBoltCharacter.gen.cpp
+[8/31] Compile RespawnPoint.gen.cpp
+[9/31] Compile Fletcher.cpp
+[10/31] Compile ArcherCharacter.gen.cpp
+[11/31] Compile Projectile.cpp
+[12/31] Compile Fletcher.init.gen.cpp
+[13/31] Compile Projectile.gen.cpp
+[14/31] Compile FletcherGameModeBase.cpp
+[15/31] Compile LightningBoltCharacter.cpp
+C:\Users\pontu\OneDrive\Skrivbord\Fletcher\Source\Fletcher\LightningBoltCharacter.cpp(15): warning C5038: data member 'ALightningBoltCharacter::CurrentDashPoint' will be initialized after data member 'ALightningBoltCharacter::Dashing'
+[16/31] Compile RespawnPoint.cpp
+[17/31] Compile Arrow_LightningBolt.cpp
+[18/31] Compile Arrow.gen.cpp
+[19/31] Compile Arrow_Player.gen.cpp
+[20/31] Compile Arrow_LightningBolt.gen.cpp
+[21/31] Compile ArcherAIController.cpp
+[22/31] Compile Arrow_Archer.gen.cpp
+[23/31] Compile Bow.cpp
+[24/31] Compile Arrow_Player.cpp
+[25/31] Compile PlayerCharacter.cpp
+[26/31] Compile Arrow.cpp
+C:\Users\pontu\OneDrive\Skrivbord\Fletcher\Source\Fletcher\Arrow.cpp(14): warning C5038: data member 'AArrow::CanMove' will be initialized after data member 'AArrow::CurveRotation'
+[27/31] Compile Arrow_Archer.cpp
+[28/31] Compile ArcherAIController.gen.cpp
+[29/31] Link UnrealEditor-Fletcher.lib
+   Creating library C:\Users\pontu\OneDrive\Skrivbord\Fletcher\Intermediate\Build\Win64\UnrealEditor\Development\Fletcher\UnrealEditor-Fletcher.lib and object C:\Users\pontu\OneDrive\Skrivbord\Fletcher\Intermediate\Build\Win64\UnrealEditor\Development\Fletcher\UnrealEditor-Fletcher.exp
+[30/31] Link UnrealEditor-Fletcher.dll
+   Creating library C:\Users\pontu\OneDrive\Skrivbord\Fletcher\Intermediate\Build\Win64\UnrealEditor\Development\Fletcher\UnrealEditor-Fletcher.suppressed.lib and object C:\Users\pontu\OneDrive\Skrivbord\Fletcher\Intermediate\Build\Win64\UnrealEditor\Development\Fletcher\UnrealEditor-Fletcher.suppressed.exp
+ArcherAIController.cpp.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: virtual class UObject * __cdecl AAIController::_getUObject(void)const " (__imp_?_getUObject@AAIController@@UEBAPEAVUObject@@XZ) referenced in function "[thunk]:public: virtual class UObject * __cdecl AAIController::_getUObject`adjustor{160}' (void)const " (?_getUObject@AAIController@@WKA@EBAPEAVUObject@@XZ)
+ArcherAIController.gen.cpp.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual class UObject * __cdecl AAIController::_getUObject(void)const " (__imp_?_getUObject@AAIController@@UEBAPEAVUObject@@XZ)
+  Hint on symbols that are defined and could potentially match:
+    "__declspec(dllimport) public: virtual class UObject * __cdecl APawn::_getUObject(void)const " (__imp_?_getUObject@APawn@@UEBAPEAVUObject@@XZ)
+ArcherAIController.cpp.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl AAIController::AAIController(class FObjectInitializer const &)" (__imp_??0AAIController@@QEAA@AEBVFObjectInitializer@@@Z) referenced in function "public: __cdecl AArcherAIController::AArcherAIController(class FObjectInitializer const &)" (??0AArcherAIController@@QEAA@AEBVFObjectInitializer@@@Z)
+ArcherAIController.gen.cpp.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl AAIController::AAIController(class FObjectInitializer const &)" (__imp_??0AAIController@@QEAA@AEBVFObjectInitializer@@@Z)
+ArcherAIController.cpp.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl AAIController::~AAIController(void)" (__imp_??1AAIController@@UEAA@XZ) referenced in function "public: virtual __cdecl AArcherAIController::~AArcherAIController(void)" (??1AArcherAIController@@UEAA@XZ)
+ArcherAIController.gen.cpp.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl AAIController::~AAIController(void)" (__imp_??1AAIController@@UEAA@XZ)
+ArcherAIController.cpp.obj : error LNK2001: unresolved external symbol "public: virtual enum ETeamAttitude::Type __cdecl IGenericTeamAgentInterface::GetTeamAttitudeTowards(class AActor const &)const " (?GetTeamAttitudeTowards@IGenericTeamAgentInterface@@UEBA?AW4Type@ETeamAttitude@@AEBVAActor@@@Z)
+ArcherAIController.gen.cpp.obj : error LNK2001: unresolved external symbol "public: virtual enum ETeamAttitude::Type __cdecl IGenericTeamAgentInterface::GetTeamAttitudeTowards(class AActor const &)const " (?GetTeamAttitudeTowards@IGenericTeamAgentInterface@@UEBA?AW4Type@ETeamAttitude@@AEBVAActor@@@Z)
+ArcherAIController.cpp.obj : error LNK2001: unresolved external symbol "public: virtual class UObject * __cdecl AAIController::_getUObject(void)const " (?_getUObject@AAIController@@UEBAPEAVUObject@@XZ)
+ArcherAIController.gen.cpp.obj : error LNK2001: unresolved external symbol "public: virtual class UObject * __cdecl AAIController::_getUObject(void)const " (?_getUObject@AAIController@@UEBAPEAVUObject@@XZ)
+ArcherAIController.cpp.obj : error LNK2001: unresolved external symbol "public: virtual class UAIPerceptionComponent * __cdecl AAIController::GetPerceptionComponent(void)" (?GetPerceptionComponent@AAIController@@UEAAPEAVUAIPerceptionComponent@@XZ)
+ArcherAIController.gen.cpp.obj : error LNK2001: unresolved external symbol "public: virtual class UAIPerceptionComponent * __cdecl AAIController::GetPerceptionComponent(void)" (?GetPerceptionComponent@AAIController@@UEAAPEAVUAIPerceptionComponent@@XZ)
+ArcherAIController.cpp.obj : error LNK2001: unresolved external symbol "public: virtual class IPathFollowingAgentInterface * __cdecl AAIController::GetPathFollowingAgent(void)const " (?GetPathFollowingAgent@AAIController@@UEBAPEAVIPathFollowingAgentInterface@@XZ)
+ArcherAIController.gen.cpp.obj : error LNK2001: unresolved external symbol "public: virtual class IPathFollowingAgentInterface * __cdecl AAIController::GetPathFollowingAgent(void)const " (?GetPathFollowingAgent@AAIController@@UEBAPEAVIPathFollowingAgentInterface@@XZ)
+ArcherAIController.cpp.obj : error LNK2001: unresolved external symbol "public: virtual struct FGenericTeamId __cdecl AAIController::GetGenericTeamId(void)const " (?GetGenericTeamId@AAIController@@UEBA?AUFGenericTeamId@@XZ)
+ArcherAIController.gen.cpp.obj : error LNK2001: unresolved external symbol "public: virtual struct FGenericTeamId __cdecl AAIController::GetGenericTeamId(void)const " (?GetGenericTeamId@AAIController@@UEBA?AUFGenericTeamId@@XZ)
+ArcherAIController.cpp.obj : error LNK2001: unresolved external symbol "public: virtual class UGameplayTasksComponent * __cdecl AAIController::GetGameplayTasksComponent(class UGameplayTask const &)const " (?GetGameplayTasksComponent@AAIController@@UEBAPEAVUGameplayTasksComponent@@AEBVUGameplayTask@@@Z)
+ArcherAIController.gen.cpp.obj : error LNK2001: unresolved external symbol "public: virtual class UGameplayTasksComponent * __cdecl AAIController::GetGameplayTasksComponent(class UGameplayTask const &)const " (?GetGameplayTasksComponent@AAIController@@UEBAPEAVUGameplayTasksComponent@@AEBVUGameplayTask@@@Z)
+ArcherAIController.cpp.obj : error LNK2001: unresolved external symbol "public: virtual class AActor * __cdecl AAIController::GetGameplayTaskOwner(class UGameplayTask const *)const " (?GetGameplayTaskOwner@AAIController@@UEBAPEAVAActor@@PEBVUGameplayTask@@@Z)
+ArcherAIController.gen.cpp.obj : error LNK2001: unresolved external symbol "public: virtual class AActor * __cdecl AAIController::GetGameplayTaskOwner(class UGameplayTask const *)const " (?GetGameplayTaskOwner@AAIController@@UEBAPEAVAActor@@PEBVUGameplayTask@@@Z)
+ArcherAIController.cpp.obj : error LNK2001: unresolved external symbol "public: virtual class AActor * __cdecl AAIController::GetGameplayTaskAvatar(class UGameplayTask const *)const " (?GetGameplayTaskAvatar@AAIController@@UEBAPEAVAActor@@PEBVUGameplayTask@@@Z)
+ArcherAIController.gen.cpp.obj : error LNK2001: unresolved external symbol "public: virtual class AActor * __cdecl AAIController::GetGameplayTaskAvatar(class UGameplayTask const *)const " (?GetGameplayTaskAvatar@AAIController@@UEBAPEAVAActor@@PEBVUGameplayTask@@@Z)
+ArcherAIController.cpp.obj : error LNK2001: unresolved external symbol "public: virtual unsigned char __cdecl AAIController::GetGameplayTaskDefaultPriority(void)const " (?GetGameplayTaskDefaultPriority@AAIController@@UEBAEXZ)
+ArcherAIController.gen.cpp.obj : error LNK2001: unresolved external symbol "public: virtual unsigned char __cdecl AAIController::GetGameplayTaskDefaultPriority(void)const " (?GetGameplayTaskDefaultPriority@AAIController@@UEBAEXZ)
+ArcherAIController.cpp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl AAIController::OnGameplayTaskInitialized(class UGameplayTask &)" (?OnGameplayTaskInitialized@AAIController@@UEAAXAEAVUGameplayTask@@@Z)
+ArcherAIController.gen.cpp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl AAIController::OnGameplayTaskInitialized(class UGameplayTask &)" (?OnGameplayTaskInitialized@AAIController@@UEAAXAEAVUGameplayTask@@@Z)
+ArcherAIController.cpp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl AAIController::OnGameplayTaskActivated(class UGameplayTask &)" (?OnGameplayTaskActivated@AAIController@@UEAAXAEAVUGameplayTask@@@Z)
+ArcherAIController.gen.cpp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl AAIController::OnGameplayTaskActivated(class UGameplayTask &)" (?OnGameplayTaskActivated@AAIController@@UEAAXAEAVUGameplayTask@@@Z)
+ArcherAIController.cpp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl AAIController::OnGameplayTaskDeactivated(class UGameplayTask &)" (?OnGameplayTaskDeactivated@AAIController@@UEAAXAEAVUGameplayTask@@@Z)
+ArcherAIController.gen.cpp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl AAIController::OnGameplayTaskDeactivated(class UGameplayTask &)" (?OnGameplayTaskDeactivated@AAIController@@UEAAXAEAVUGameplayTask@@@Z)
+ArcherAIController.cpp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl AAIController::GrabDebugSnapshot(struct FVisualLogEntry *)const " (?GrabDebugSnapshot@AAIController@@UEBAXPEAUFVisualLogEntry@@@Z)
+ArcherAIController.gen.cpp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl AAIController::GrabDebugSnapshot(struct FVisualLogEntry *)const " (?GrabDebugSnapshot@AAIController@@UEBAXPEAUFVisualLogEntry@@@Z)
+ArcherAIController.cpp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl AAIController::SetGenericTeamId(struct FGenericTeamId const &)" (?SetGenericTeamId@AAIController@@UEAAXAEBUFGenericTeamId@@@Z)
+ArcherAIController.gen.cpp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl AAIController::SetGenericTeamId(struct FGenericTeamId const &)" (?SetGenericTeamId@AAIController@@UEAAXAEBUFGenericTeamId@@@Z)
+ArcherAIController.cpp.obj : error LNK2001: unresolved external symbol "public: virtual bool __cdecl AAIController::IsFollowingAPath(void)const " (?IsFollowingAPath@AAIController@@UEBA_NXZ)
+ArcherAIController.gen.cpp.obj : error LNK2001: unresolved external symbol "public: virtual bool __cdecl AAIController::IsFollowingAPath(void)const " (?IsFollowingAPath@AAIController@@UEBA_NXZ)
+ArcherAIController.cpp.obj : error LNK2001: unresolved external symbol "public: virtual bool __cdecl AAIController::ShouldPostponePathUpdates(void)const " (?ShouldPostponePathUpdates@AAIController@@UEBA_NXZ)
+ArcherAIController.gen.cpp.obj : error LNK2001: unresolved external symbol "public: virtual bool __cdecl AAIController::ShouldPostponePathUpdates(void)const " (?ShouldPostponePathUpdates@AAIController@@UEBA_NXZ)
+ArcherAIController.cpp.obj : error LNK2001: unresolved external symbol "public: virtual class FString __cdecl AAIController::GetDebugIcon(void)const " (?GetDebugIcon@AAIController@@UEBA?AVFString@@XZ)
+ArcherAIController.gen.cpp.obj : error LNK2001: unresolved external symbol "public: virtual class FString __cdecl AAIController::GetDebugIcon(void)const " (?GetDebugIcon@AAIController@@UEBA?AVFString@@XZ)
+ArcherAIController.cpp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl AAIController::OnGameplayTaskResourcesClaimed(struct FGameplayResourceSet,struct FGameplayResourceSet)" (?OnGameplayTaskResourcesClaimed@AAIController@@UEAAXUFGameplayResourceSet@@0@Z)
+ArcherAIController.gen.cpp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl AAIController::OnGameplayTaskResourcesClaimed(struct FGameplayResourceSet,struct FGameplayResourceSet)" (?OnGameplayTaskResourcesClaimed@AAIController@@UEAAXUFGameplayResourceSet@@0@Z)
+ArcherAIController.cpp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl AAIController::ClearFocus(unsigned char)" (?ClearFocus@AAIController@@UEAAXE@Z)
+ArcherAIController.gen.cpp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl AAIController::ClearFocus(unsigned char)" (?ClearFocus@AAIController@@UEAAXE@Z)
+ArcherAIController.cpp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl AAIController::SetFocus(class AActor *,unsigned char)" (?SetFocus@AAIController@@UEAAXPEAVAActor@@E@Z)
+ArcherAIController.gen.cpp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl AAIController::SetFocus(class AActor *,unsigned char)" (?SetFocus@AAIController@@UEAAXPEAVAActor@@E@Z)
+ArcherAIController.cpp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl AAIController::SetFocalPoint(struct UE::Math::TVector<double>,unsigned char)" (?SetFocalPoint@AAIController@@UEAAXU?$TVector@N@Math@UE@@E@Z)
+ArcherAIController.gen.cpp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl AAIController::SetFocalPoint(struct UE::Math::TVector<double>,unsigned char)" (?SetFocalPoint@AAIController@@UEAAXU?$TVector@N@Math@UE@@E@Z)
+ArcherAIController.cpp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl AAIController::UpdateControlRotation(float,bool)" (?UpdateControlRotation@AAIController@@UEAAXM_N@Z)
+ArcherAIController.gen.cpp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl AAIController::UpdateControlRotation(float,bool)" (?UpdateControlRotation@AAIController@@UEAAXM_N@Z)
+ArcherAIController.cpp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl AAIController::ActorsPerceptionUpdated(class TArray<class AActor *,class TSizedDefaultAllocator<32> > const &)" (?ActorsPerceptionUpdated@AAIController@@UEAAXAEBV?$TArray@PEAVAActor@@V?$TSizedDefaultAllocator@$0CA@@@@@@Z)
+ArcherAIController.gen.cpp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl AAIController::ActorsPerceptionUpdated(class TArray<class AActor *,class TSizedDefaultAllocator<32> > const &)" (?ActorsPerceptionUpdated@AAIController@@UEAAXAEBV?$TArray@PEAVAActor@@V?$TSizedDefaultAllocator@$0CA@@@@@@Z)
+ArcherAIController.cpp.obj : error LNK2001: unresolved external symbol "public: virtual struct UE::Math::TVector<double> __cdecl AAIController::GetFocalPointOnActor(class AActor const *)const " (?GetFocalPointOnActor@AAIController@@UEBA?AU?$TVector@N@Math@UE@@PEBVAActor@@@Z)
+ArcherAIController.gen.cpp.obj : error LNK2001: unresolved external symbol "public: virtual struct UE::Math::TVector<double> __cdecl AAIController::GetFocalPointOnActor(class AActor const *)const " (?GetFocalPointOnActor@AAIController@@UEBA?AU?$TVector@N@Math@UE@@PEBVAActor@@@Z)
+ArcherAIController.cpp.obj : error LNK2001: unresolved external symbol "protected: virtual bool __cdecl AAIController::InitializeBlackboard(class UBlackboardComponent &,class UBlackboardData &)" (?InitializeBlackboard@AAIController@@MEAA_NAEAVUBlackboardComponent@@AEAVUBlackboardData@@@Z)
+ArcherAIController.gen.cpp.obj : error LNK2001: unresolved external symbol "protected: virtual bool __cdecl AAIController::InitializeBlackboard(class UBlackboardComponent &,class UBlackboardData &)" (?InitializeBlackboard@AAIController@@MEAA_NAEAVUBlackboardComponent@@AEAVUBlackboardData@@@Z)
+ArcherAIController.cpp.obj : error LNK2001: unresolved external symbol "public: virtual bool __cdecl AAIController::ShouldSyncBlackboardWith(class UBlackboardComponent const &)const " (?ShouldSyncBlackboardWith@AAIController@@UEBA_NAEBVUBlackboardComponent@@@Z)
+ArcherAIController.gen.cpp.obj : error LNK2001: unresolved external symbol "public: virtual bool __cdecl AAIController::ShouldSyncBlackboardWith(class UBlackboardComponent const &)const " (?ShouldSyncBlackboardWith@AAIController@@UEBA_NAEBVUBlackboardComponent@@@Z)
+ArcherAIController.cpp.obj : error LNK2001: unresolved external symbol "public: virtual bool __cdecl AAIController::RunBehaviorTree(class UBehaviorTree *)" (?RunBehaviorTree@AAIController@@UEAA_NPEAVUBehaviorTree@@@Z)
+ArcherAIController.gen.cpp.obj : error LNK2001: unresolved external symbol "public: virtual bool __cdecl AAIController::RunBehaviorTree(class UBehaviorTree *)" (?RunBehaviorTree@AAIController@@UEAA_NPEAVUBehaviorTree@@@Z)
+ArcherAIController.cpp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl AAIController::OnMoveCompleted(struct FAIRequestID,struct FPathFollowingResult const &)" (?OnMoveCompleted@AAIController@@UEAAXUFAIRequestID@@AEBUFPathFollowingResult@@@Z)
+ArcherAIController.gen.cpp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl AAIController::OnMoveCompleted(struct FAIRequestID,struct FPathFollowingResult const &)" (?OnMoveCompleted@AAIController@@UEAAXUFAIRequestID@@AEBUFPathFollowingResult@@@Z)
+ArcherAIController.cpp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl AAIController::OnMoveCompleted(struct FAIRequestID,enum EPathFollowingResult::Type)" (?OnMoveCompleted@AAIController@@UEAAXUFAIRequestID@@W4Type@EPathFollowingResult@@@Z)
+ArcherAIController.gen.cpp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl AAIController::OnMoveCompleted(struct FAIRequestID,enum EPathFollowingResult::Type)" (?OnMoveCompleted@AAIController@@UEAAXUFAIRequestID@@W4Type@EPathFollowingResult@@@Z)
+ArcherAIController.cpp.obj : error LNK2001: unresolved external symbol "public: virtual struct FAIRequestID __cdecl AAIController::RequestPathAndMove(struct FAIMoveRequest const &,struct FPathFindingQuery &)" (?RequestPathAndMove@AAIController@@UEAA?AUFAIRequestID@@AEBUFAIMoveRequest@@AEAUFPathFindingQuery@@@Z)
+ArcherAIController.gen.cpp.obj : error LNK2001: unresolved external symbol "public: virtual struct FAIRequestID __cdecl AAIController::RequestPathAndMove(struct FAIMoveRequest const &,struct FPathFindingQuery &)" (?RequestPathAndMove@AAIController@@UEAA?AUFAIRequestID@@AEBUFAIMoveRequest@@AEAUFPathFindingQuery@@@Z)
+ArcherAIController.cpp.obj : error LNK2001: unresolved external symbol "public: virtual bool __cdecl AAIController::PreparePathfinding(struct FAIMoveRequest const &,struct FPathFindingQuery &)" (?PreparePathfinding@AAIController@@UEAA_NAEBUFAIMoveRequest@@AEAUFPathFindingQuery@@@Z)
+ArcherAIController.gen.cpp.obj : error LNK2001: unresolved external symbol "public: virtual bool __cdecl AAIController::PreparePathfinding(struct FAIMoveRequest const &,struct FPathFindingQuery &)" (?PreparePathfinding@AAIController@@UEAA_NAEBUFAIMoveRequest@@AEAUFPathFindingQuery@@@Z)
+ArcherAIController.cpp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl AAIController::FindPathForMoveRequest(struct FAIMoveRequest const &,struct FPathFindingQuery &,class TSharedPtr<struct FNavigationPath,1> &)const " (?FindPathForMoveRequest@AAIController@@UEBAXAEBUFAIMoveRequest@@AEAUFPathFindingQuery@@AEAV?$TSharedPtr@UFNavigationPath@@$00@@@Z)
+ArcherAIController.gen.cpp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl AAIController::FindPathForMoveRequest(struct FAIMoveRequest const &,struct FPathFindingQuery &,class TSharedPtr<struct FNavigationPath,1> &)const " (?FindPathForMoveRequest@AAIController@@UEBAXAEBUFAIMoveRequest@@AEAUFPathFindingQuery@@AEAV?$TSharedPtr@UFNavigationPath@@$00@@@Z)
+ArcherAIController.cpp.obj : error LNK2001: unresolved external symbol "public: virtual struct FAIRequestID __cdecl AAIController::RequestMove(struct FAIMoveRequest const &,class TSharedPtr<struct FNavigationPath,1>)" (?RequestMove@AAIController@@UEAA?AUFAIRequestID@@AEBUFAIMoveRequest@@V?$TSharedPtr@UFNavigationPath@@$00@@@Z)
+ArcherAIController.gen.cpp.obj : error LNK2001: unresolved external symbol "public: virtual struct FAIRequestID __cdecl AAIController::RequestMove(struct FAIMoveRequest const &,class TSharedPtr<struct FNavigationPath,1>)" (?RequestMove@AAIController@@UEAA?AUFAIRequestID@@AEBUFAIMoveRequest@@V?$TSharedPtr@UFNavigationPath@@$00@@@Z)
+ArcherAIController.cpp.obj : error LNK2001: unresolved external symbol "public: virtual struct FPathFollowingRequestResult __cdecl AAIController::MoveTo(struct FAIMoveRequest const &,class TSharedPtr<struct FNavigationPath,1> *)" (?MoveTo@AAIController@@UEAA?AUFPathFollowingRequestResult@@AEBUFAIMoveRequest@@PEAV?$TSharedPtr@UFNavigationPath@@$00@@@Z)
+ArcherAIController.gen.cpp.obj : error LNK2001: unresolved external symbol "public: virtual struct FPathFollowingRequestResult __cdecl AAIController::MoveTo(struct FAIMoveRequest const &,class TSharedPtr<struct FNavigationPath,1> *)" (?MoveTo@AAIController@@UEAA?AUFPathFollowingRequestResult@@AEBUFAIMoveRequest@@PEAV?$TSharedPtr@UFNavigationPath@@$00@@@Z)
+ArcherAIController.cpp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl AAIController::StopMovement(void)" (?StopMovement@AAIController@@UEAAXXZ)
+ArcherAIController.gen.cpp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl AAIController::StopMovement(void)" (?StopMovement@AAIController@@UEAAXXZ)
+ArcherAIController.cpp.obj : error LNK2001: unresolved external symbol "protected: virtual void __cdecl AAIController::OnUnPossess(void)" (?OnUnPossess@AAIController@@MEAAXXZ)
+ArcherAIController.gen.cpp.obj : error LNK2001: unresolved external symbol "protected: virtual void __cdecl AAIController::OnUnPossess(void)" (?OnUnPossess@AAIController@@MEAAXXZ)
+ArcherAIController.cpp.obj : error LNK2001: unresolved external symbol "protected: virtual void __cdecl AAIController::OnPossess(class APawn *)" (?OnPossess@AAIController@@MEAAXPEAVAPawn@@@Z)
+ArcherAIController.gen.cpp.obj : error LNK2001: unresolved external symbol "protected: virtual void __cdecl AAIController::OnPossess(class APawn *)" (?OnPossess@AAIController@@MEAAXPEAVAPawn@@@Z)
+ArcherAIController.cpp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl AAIController::SetPawn(class APawn *)" (?SetPawn@AAIController@@UEAAXPEAVAPawn@@@Z)
+ArcherAIController.gen.cpp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl AAIController::SetPawn(class APawn *)" (?SetPawn@AAIController@@UEAAXPEAVAPawn@@@Z)
+ArcherAIController.cpp.obj : error LNK2001: unresolved external symbol "public: virtual bool __cdecl AAIController::LineOfSightTo(class AActor const *,struct UE::Math::TVector<double>,bool)const " (?LineOfSightTo@AAIController@@UEBA_NPEBVAActor@@U?$TVector@N@Math@UE@@_N@Z)
+ArcherAIController.gen.cpp.obj : error LNK2001: unresolved external symbol "public: virtual bool __cdecl AAIController::LineOfSightTo(class AActor const *,struct UE::Math::TVector<double>,bool)const " (?LineOfSightTo@AAIController@@UEBA_NPEBVAActor@@U?$TVector@N@Math@UE@@_N@Z)
+ArcherAIController.cpp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl AAIController::DisplayDebug(class UCanvas *,class FDebugDisplayInfo const &,float &,float &)" (?DisplayDebug@AAIController@@UEAAXPEAVUCanvas@@AEBVFDebugDisplayInfo@@AEAM2@Z)
+ArcherAIController.gen.cpp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl AAIController::DisplayDebug(class UCanvas *,class FDebugDisplayInfo const &,float &,float &)" (?DisplayDebug@AAIController@@UEAAXPEAVUCanvas@@AEBVFDebugDisplayInfo@@AEAM2@Z)
+ArcherAIController.cpp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl AAIController::Reset(void)" (?Reset@AAIController@@UEAAXXZ)
+ArcherAIController.gen.cpp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl AAIController::Reset(void)" (?Reset@AAIController@@UEAAXXZ)
+ArcherAIController.cpp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl AAIController::PostRegisterAllComponents(void)" (?PostRegisterAllComponents@AAIController@@UEAAXXZ)
+ArcherAIController.gen.cpp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl AAIController::PostRegisterAllComponents(void)" (?PostRegisterAllComponents@AAIController@@UEAAXXZ)
+ArcherAIController.cpp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl AAIController::PostInitializeComponents(void)" (?PostInitializeComponents@AAIController@@UEAAXXZ)
+ArcherAIController.gen.cpp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl AAIController::PostInitializeComponents(void)" (?PostInitializeComponents@AAIController@@UEAAXXZ)
+ArcherAIController.cpp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl AAIController::Tick(float)" (?Tick@AAIController@@UEAAXM@Z)
+ArcherAIController.gen.cpp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl AAIController::Tick(float)" (?Tick@AAIController@@UEAAXM@Z)
+ArcherAIController.gen.cpp.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: static class UClass * __cdecl AAIController::StaticClass(void)" (__imp_?StaticClass@AAIController@@SAPEAVUClass@@XZ) referenced in function "private: static class UClass * __cdecl AArcherAIController::GetPrivateStaticClass(void)" (?GetPrivateStaticClass@AArcherAIController@@CAPEAVUClass@@XZ)
+  Hint on symbols that are defined and could potentially match:
+    "__declspec(dllimport) public: static class UClass * __cdecl AActor::StaticClass(void)" (__imp_?StaticClass@AActor@@SAPEAVUClass@@XZ)
+    "__declspec(dllimport) public: static class UClass * __cdecl ACharacter::StaticClass(void)" (__imp_?StaticClass@ACharacter@@SAPEAVUClass@@XZ)
+    "__declspec(dllimport) public: static class UClass * __cdecl AGameModeBase::StaticClass(void)" (__imp_?StaticClass@AGameModeBase@@SAPEAVUClass@@XZ)
+    "__declspec(dllimport) public: static class FFieldClass * __cdecl FBoolProperty::StaticClass(void)" (__imp_?StaticClass@FBoolProperty@@SAPEAVFFieldClass@@XZ)
+    "__declspec(dllimport) public: static class FFieldClass * __cdecl FIntProperty::StaticClass(void)" (__imp_?StaticClass@FIntProperty@@SAPEAVFFieldClass@@XZ)
+    "__declspec(dllimport) public: static class FFieldClass * __cdecl FObjectPropertyBase::StaticClass(void)" (__imp_?StaticClass@FObjectPropertyBase@@SAPEAVFFieldClass@@XZ)
+    "__declspec(dllimport) public: static class UClass * __cdecl UObject::StaticClass(void)" (__imp_?StaticClass@UObject@@SAPEAVUClass@@XZ)
+ArcherAIController.gen.cpp.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl AAIController::AAIController(class FVTableHelper &)" (__imp_??0AAIController@@QEAA@AEAVFVTableHelper@@@Z) referenced in function "public: __cdecl AArcherAIController::AArcherAIController(class FVTableHelper &)" (??0AArcherAIController@@QEAA@AEAVFVTableHelper@@@Z)
+ArcherAIController.gen.cpp.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) class UClass * __cdecl Z_Construct_UClass_AAIController(void)" (__imp_?Z_Construct_UClass_AAIController@@YAPEAVUClass@@XZ) referenced in function "void __cdecl `dynamic initializer for 'public: static class UObject * (__cdecl*const * const Z_Construct_UClass_AArcherAIController_Statics::DependentSingletons)(void)''(void)" (??__E?DependentSingletons@Z_Construct_UClass_AArcherAIController_Statics@@2QBQ6APEAVUObject@@XZB@@YAXXZ)
+C:\Users\pontu\OneDrive\Skrivbord\Fletcher\Binaries\Win64\UnrealEditor-Fletcher.dll : fatal error LNK1120: 50 unresolved externals
+LogInit: Warning: Still incompatible or missing module: Fletcher
+LogCore: Engine exit requested (reason: EngineExit() was called)
+LogExit: Preparing to exit.
+LogModuleManager: Shutting down and abandoning module DesktopPlatform (56)
+LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (54)
+LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (52)
+LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (50)
+LogModuleManager: Shutting down and abandoning module PlatformCrypto (48)
+LogModuleManager: Shutting down and abandoning module PerforceSourceControl (46)
+LogModuleManager: Shutting down and abandoning module SourceControl (45)
+LogModuleManager: Shutting down and abandoning module XGEController (42)
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogXGEController: Cleaning working directory: C:/Users/pontu/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogModuleManager: Shutting down and abandoning module FastBuildController (40)
+LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+LogModuleManager: Shutting down and abandoning module Virtualization (32)
+LogModuleManager: Shutting down and abandoning module MessageLog (31)
+LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+LogModuleManager: Shutting down and abandoning module RenderCore (26)
+LogModuleManager: Shutting down and abandoning module Landscape (24)
+LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+LogModuleManager: Shutting down and abandoning module Renderer (18)
+LogModuleManager: Shutting down and abandoning module Engine (16)
+LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+LogModuleManager: Shutting down and abandoning module SandboxFile (12)
+LogModuleManager: Shutting down and abandoning module PakFile (10)
+LogModuleManager: Shutting down and abandoning module RSA (9)
+LogModuleManager: Shutting down and abandoning module NetworkFile (6)
+LogModuleManager: Shutting down and abandoning module StreamingFile (4)
+LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+LogExit: Exiting.
+Log file closed, 10/02/23 21:22:23

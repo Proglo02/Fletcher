@@ -1,0 +1,1264 @@
+﻿Log file open, 06/04/23 23:47:28
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=14316)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Fletcher
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "C:\Users\Pontus\OneDrive\Dokument\Unreal Projects\Fletcher\Fletcher.uproject"""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (22H2) [10.0.19045.2965] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="1f35a9a346c4b8c8e6a440a0d813990c"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 10.426521
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-38D0FA014F9F5952DB6F009F850BBB0D
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Unix ini files took 0.03 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.05 seconds
+LogConfig: Display: Loading Android ini files took 0.04 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.04 seconds
+LogConfig: Display: Loading Linux ini files took 0.11 seconds
+LogConfig: Display: Loading Mac ini files took 0.12 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogConfig: Display: Loading IOS ini files took 0.14 seconds
+LogConfig: Display: Loading TVOS ini files took 0.14 seconds
+LogConfig: Display: Loading Windows ini files took 0.02 seconds
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin GeometryScripting
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryScripting/Content/' mounted to '/GeometryScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (22H2) [10.0.19045.2965] (), CPU: Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz, GPU: NVIDIA GeForce RTX 2070
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: E:/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.06.04-21.47.33:127][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.06.04-21.47.33:127][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.06.04-21.47.33:127][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.06.04-21.47.33:127][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.06.04-21.47.33:165][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.06.04-21.47.33:165][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.06.04-21.47.33:165][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.06.04-21.47.33:165][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.06.04-21.47.33:165][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.06.04-21.47.33:165][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.06.04-21.47.33:165][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.06.04-21.47.33:165][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.06.04-21.47.33:165][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.06.04-21.47.33:165][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.06.04-21.47.33:165][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.06.04-21.47.33:165][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.06.04-21.47.33:165][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.06.04-21.47.33:165][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.06.04-21.47.33:165][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.06.04-21.47.33:165][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.06.04-21.47.33:165][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.06.04-21.47.33:165][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.06.04-21.47.33:165][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.06.04-21.47.33:165][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.06.04-21.47.33:165][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.06.04-21.47.33:166][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.06.04-21.47.33:166][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.06.04-21.47.33:166][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.06.04-21.47.33:166][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.06.04-21.47.33:166][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.06.04-21.47.33:166][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.06.04-21.47.33:166][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.06.04-21.47.33:166][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.06.04-21.47.33:166][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.06.04-21.47.33:166][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.06.04-21.47.33:166][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.06.04-21.47.33:166][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.06.04-21.47.33:166][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.06.04-21.47.33:166][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.06.04-21.47.33:166][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.06.04-21.47.33:166][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.06.04-21.47.33:166][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.06.04-21.47.33:166][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.06.04-21.47.33:166][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.06.04-21.47.33:166][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.06.04-21.47.33:166][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.06.04-21.47.33:166][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.06.04-21.47.33:166][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.06.04-21.47.33:166][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.06.04-21.47.33:166][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.06.04-21.47.33:166][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.06.04-21.47.33:166][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.06.04-21.47.33:166][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.06.04-21.47.33:166][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.06.04-21.47.33:166][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.06.04-21.47.33:166][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.06.04-21.47.33:166][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.06.04-21.47.33:274][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.06.04-21.47.33:274][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.06.04-21.47.33:274][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.06.04-21.47.33:274][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.06.04-21.47.33:274][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.06.04-21.47.33:274][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.06.04-21.47.33:274][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.06.04-21.47.33:274][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.06.04-21.47.33:300][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.06.04-21.47.33:300][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.06.04-21.47.33:300][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.06.04-21.47.33:596][  0]LogD3D12RHI: Aftermath initialized
+[2023.06.04-21.47.33:596][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2023.06.04-21.47.34:033][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 2070 (Max supported Feature Level 12_1, shader model 6.6)
+[2023.06.04-21.47.34:033][  0]LogD3D12RHI: Adapter has 8019MB of dedicated video memory, 0MB of dedicated system memory, and 8150MB of shared system memory, 2 output[s]
+[2023.06.04-21.47.34:053][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2023.06.04-21.47.34:053][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8150MB of shared system memory, 0 output[s]
+[2023.06.04-21.47.34:054][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2023.06.04-21.47.34:054][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.06.04-21.47.34:055][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.06.04-21.47.34:128][  0]LogHAL: Display: Platform has ~ 16 GB [17092608000 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.06.04-21.47.34:129][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.06.04-21.47.34:129][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.06.04-21.47.34:129][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.06.04-21.47.34:189][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.06.04-21.47.34:189][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Saved/Config/WindowsEditor/Editor.ini]
+[2023.06.04-21.47.34:227][  0]LogInit: Computer: DESKTOP-F7OBPQ0
+[2023.06.04-21.47.34:227][  0]LogInit: User: Pontus
+[2023.06.04-21.47.34:227][  0]LogInit: CPU Page size=4096, Cores=6
+[2023.06.04-21.47.34:227][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.06.04-21.47.34:227][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2023.06.04-21.47.34:227][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.06.04-21.47.34:227][  0]LogMemory: Process Physical Memory: 277.20 MB used, 287.29 MB peak
+[2023.06.04-21.47.34:227][  0]LogMemory: Process Virtual Memory: 236.55 MB used, 236.55 MB peak
+[2023.06.04-21.47.34:227][  0]LogMemory: Physical Memory: 10483.46 MB used,  5817.32 MB free, 16300.78 MB total
+[2023.06.04-21.47.34:227][  0]LogMemory: Virtual Memory: 30127.39 MB used,  23037.39 MB free, 53164.78 MB total
+[2023.06.04-21.47.34:227][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.06.04-21.47.34:234][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.06.04-21.47.34:639][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.06.04-21.47.34:671][  0]LogInit: Using OS detected language (sv-SE).
+[2023.06.04-21.47.34:671][  0]LogInit: Using OS detected locale (sv-SE).
+[2023.06.04-21.47.34:807][  0]LogTextLocalizationManager: No localization for 'sv-SE' exists, so 'en' will be used for the language.
+[2023.06.04-21.47.35:532][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.06.04-21.47.35:532][  0]LogWindowsTextInputMethodSystem:   - Svenska (Sverige) - (Keyboard).
+[2023.06.04-21.47.35:532][  0]LogWindowsTextInputMethodSystem:   - Engelska (Storbritannien) - (Keyboard).
+[2023.06.04-21.47.35:532][  0]LogWindowsTextInputMethodSystem:   - Engelska (USA) - (Keyboard).
+[2023.06.04-21.47.35:532][  0]LogWindowsTextInputMethodSystem: Activated input method: Svenska (Sverige) - (Keyboard).
+[2023.06.04-21.47.35:914][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.06.04-21.47.35:914][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.06.04-21.47.39:655][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2023.06.04-21.47.39:697][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2023.06.04-21.47.39:697][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2023.06.04-21.47.39:819][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2023.06.04-21.47.39:819][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2023.06.04-21.47.39:819][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2023.06.04-21.47.39:819][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2023.06.04-21.47.39:819][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2023.06.04-21.47.39:819][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2023.06.04-21.47.39:819][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2023.06.04-21.47.39:819][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2023.06.04-21.47.39:819][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2023.06.04-21.47.39:819][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2023.06.04-21.47.39:819][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2023.06.04-21.47.39:819][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2023.06.04-21.47.39:819][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2023.06.04-21.47.39:819][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2023.06.04-21.47.39:819][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2023.06.04-21.47.39:819][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2023.06.04-21.47.39:893][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2023.06.04-21.47.39:903][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2023.06.04-21.47.39:916][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2023.06.04-21.47.40:002][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2023.06.04-21.47.40:002][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2023.06.04-21.47.40:175][  0]LogD3D12RHI:     GPU DeviceId: 0x1f02 (for the marketing name, search the web for "GPU Device Id")
+[2023.06.04-21.47.40:176][  0]LogWindows: Attached monitors:
+[2023.06.04-21.47.40:176][  0]LogWindows:     resolution: 2560x1440, work area: (0, 0) -> (2560, 1400), device: '\\.\DISPLAY1' [PRIMARY]
+[2023.06.04-21.47.40:176][  0]LogWindows:     resolution: 1920x1080, work area: (2560, 174) -> (4480, 1214), device: '\\.\DISPLAY2'
+[2023.06.04-21.47.40:176][  0]LogWindows: Found 2 attached monitors.
+[2023.06.04-21.47.40:176][  0]LogWindows: EnumDisplayDevices:
+[2023.06.04-21.47.40:176][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2070' (P:1 D:1), name: '\\.\DISPLAY1'
+[2023.06.04-21.47.40:176][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2070' (P:0 D:1), name: '\\.\DISPLAY2'
+[2023.06.04-21.47.40:176][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2070' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.06.04-21.47.40:176][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.06.04-21.47.40:177][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.06.04-21.47.40:177][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 2070
+[2023.06.04-21.47.40:177][  0]LogD3D12RHI:   Driver Version: 527.56 (internal:31.0.15.2756, unified:527.56)
+[2023.06.04-21.47.40:177][  0]LogD3D12RHI:      Driver Date: 12-5-2022
+[2023.06.04-21.47.40:177][  0]LogRHI: Texture pool is 4568 MB (70% of 6525 MB)
+[2023.06.04-21.47.40:177][  0]LogD3D12RHI: Async texture creation enabled
+[2023.06.04-21.47.40:177][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2023.06.04-21.47.40:937][  0]LogRHI: GeForceNow SDK initialized: 0
+[2023.06.04-21.47.41:063][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Fletcher.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Intermediate/TurnkeyReport_0.log" -log="C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Intermediate/TurnkeyLog_0.log" -project="C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Fletcher.uproject"  -platform=all'
+[2023.06.04-21.47.41:064][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""E:/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Fletcher.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Intermediate/TurnkeyReport_0.log" -log="C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Intermediate/TurnkeyLog_0.log" -project="C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Fletcher.uproject"  -platform=all" ]
+[2023.06.04-21.47.41:371][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.06.04-21.47.41:616][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = -2147450730
+[2023.06.04-21.47.41:616][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.06.04-21.47.41:616][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.06.04-21.47.41:760][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.06.04-21.47.41:760][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.06.04-21.47.41:760][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.06.04-21.47.41:760][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.06.04-21.47.41:760][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.06.04-21.47.41:760][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.06.04-21.47.41:760][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.06.04-21.47.41:760][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.06.04-21.47.41:760][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.06.04-21.47.41:760][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.06.04-21.47.41:995][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.06.04-21.47.41:995][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.06.04-21.47.42:029][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.06.04-21.47.42:029][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.06.04-21.47.42:071][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.06.04-21.47.42:071][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.06.04-21.47.42:071][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.06.04-21.47.42:071][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.06.04-21.47.42:107][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.06.04-21.47.42:107][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.06.04-21.47.42:107][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.06.04-21.47.42:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.06.04-21.47.42:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.06.04-21.47.42:199][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.06.04-21.47.42:199][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.06.04-21.47.42:199][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.06.04-21.47.42:199][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.06.04-21.47.42:199][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.06.04-21.47.42:409][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.06.04-21.47.42:453][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.06.04-21.47.42:453][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.06.04-21.47.42:453][  0]LogTargetPlatformManager:   ADPCM
+[2023.06.04-21.47.42:453][  0]LogTargetPlatformManager:   PCM
+[2023.06.04-21.47.42:479][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.06.04-21.47.42:479][  0]LogTargetPlatformManager:   BINKA
+[2023.06.04-21.47.42:479][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.06.04-21.47.42:479][  0]LogTargetPlatformManager:   OGG
+[2023.06.04-21.47.42:479][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.06.04-21.47.42:479][  0]LogTargetPlatformManager:   OPUS
+[2023.06.04-21.47.43:330][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.06.04-21.47.43:405][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.06.04-21.47.43:405][  0]LogTargetPlatformManager:   SF_METAL
+[2023.06.04-21.47.43:405][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.06.04-21.47.43:405][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.06.04-21.47.43:405][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.06.04-21.47.43:405][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.06.04-21.47.43:405][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.06.04-21.47.43:405][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.06.04-21.47.43:405][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.06.04-21.47.43:405][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.06.04-21.47.43:405][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.06.04-21.47.43:405][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.06.04-21.47.43:405][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.06.04-21.47.43:405][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.06.04-21.47.43:405][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.06.04-21.47.43:405][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.06.04-21.47.43:501][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.06.04-21.47.43:501][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.06.04-21.47.43:501][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.06.04-21.47.43:501][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.06.04-21.47.43:501][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.06.04-21.47.43:501][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.06.04-21.47.43:501][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.06.04-21.47.43:502][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.06.04-21.47.43:563][  0]LogShaderCompilers: Display: Compiling shader autogen file: C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.06.04-21.47.43:568][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.06.04-21.47.43:568][  0]LogShaderCompilers: Display: Compiling shader autogen file: C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.06.04-21.47.43:573][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.06.04-21.47.43:625][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.06.04-21.47.43:626][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.06.04-21.47.43:626][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.06.04-21.47.43:626][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.06.04-21.47.43:753][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.06.04-21.47.43:754][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.06.04-21.47.43:754][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.06.04-21.47.43:804][  0]LogDerivedDataCache: Speed tests for C:/Users/Pontus/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.05 seconds
+[2023.06.04-21.47.43:805][  0]LogDerivedDataCache: Display: Performance to C:/Users/Pontus/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.19ms. RandomReadSpeed=22.19MBs, RandomWriteSpeed=165.27MBs. Assigned SpeedClass 'Local'
+[2023.06.04-21.47.43:829][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Pontus/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.06.04-21.47.43:829][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.06.04-21.47.43:829][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.06.04-21.47.43:885][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.06.04-21.47.43:885][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.06.04-21.47.44:047][  0]LogShaderCompilers: Guid format shader working directory is -12 characters bigger than the processId version (C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Intermediate/Shaders/WorkingDirectory/24276/).
+[2023.06.04-21.47.44:047][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Pontus/AppData/Local/Temp/UnrealShaderWorkingDir/6D0D12B544DB076501F576A406C8A414/'.
+[2023.06.04-21.47.44:076][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.06.04-21.47.44:076][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 9 workers.
+[2023.06.04-21.47.55:998][  0]LogSlate: Using FreeType 2.10.0
+[2023.06.04-21.47.56:094][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.06.04-21.47.57:633][  0]LogAssetRegistry: FAssetRegistry took 0.0395 seconds to start up
+[2023.06.04-21.47.57:713][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.06.04-21.48.06:342][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.06.04-21.48.06:567][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.06.04-21.48.06:934][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.06.04-21.48.06:934][  0]LogDeviceProfileManager: Active device profile: [00000B98E52E9680][00000B98DD810000 50] WindowsEditor
+[2023.06.04-21.48.06:934][  0]LogDeviceProfileManager: Profiles: [00000B98E52E9840][00000B98DD812800 50] Windows, [00000B98E52E9680][00000B98DD810000 50] WindowsEditor, [00000B98E52E9300][00000B98DD81A000 50] WindowsServer, [00000B98E52E9140][00000B98CE257800 50] WindowsClient, [00000B98E52E6E40][00000B98DB7D7800 50] IOS, [00000B98E52E8C00][00000B98DD815000 50] iPadAir2, [00000B98E52EA100][00000B98E56D0000 50] IPadPro, [00000B98E52EA480][00000B98E56D2800 50] iPadAir3, [00000B98E52E6740][00000B98E56D7800 50] iPadAir4, [00000B98E52E7C40][00000B98E56DA000 50] iPadMini4, [00000B98E52E7380][00000B98E56DC800 50] iPadMini5, [00000B98E52EA640][00000B98DB7D5000 50] iPadMini6, [00000B98E52ED3C0][00000B98E56E2800 50] iPhone6S, [00000B98E52ED740][00000B98E56E0000 50] iPhone7, [00000B98E52EDAC0][00000B98E56E5000 50] iPodTouch7, [00000B98E52EB600][00000B98E56EA000 50] iPhone6SPlus, [00000B98E52E7A80][00000B98E56EC800 50] iPhone7Plus, [00000B98E52E7E00][00000B98E56D5000 50] iPhoneSE, [00000B98E52E6040][00000B98E56E7800 50] iPhone8, [00000B98E52ED200][00000B98E5640000 50] iPhone8Plus, [00000B98E52E86C0][00000B98E5645000 50] iPhoneX, [00000B98E52E5940][00000B98E5647800 50] iPhoneXS, [00000B98E52ECB00][00000B98E564A000 50] iPhoneXSMax, [00000B98E52E5080][00000B98E564C800 50] iPhoneXR, [00000B98E52ECE80][00000B98DE91C800 50] iPhone11, [00000B98E52EC940][00000B98E5650000 50] iPhone11Pro, [00000B98E52E5B00][00000B98E5655000 50] iPhone11ProMax, [00000B98E52ED580][00000B98E5657800 50] iPhoneSE2, [00000B98E52E9D80][00000B98E565A000 50] iPhone12Mini, [00000B98E52E9F40][00000B98E565C800 50] iPhone12, [00000B98E52E7000][00000B98E5642800 50] iPhone12Pro, [00000B98E52E8F80][00000B98E56A0000 50] iPhone12ProMax, [00000B98E52EA800][00000B98E56A5000 50] iPhone13Mini, [00000B98E52EAF00][00000B98E56A7800 50] iPhone13, [00000B98E52E78C0][00000B98E56AA000 50] iPhone13Pro, [00000B98E52E5780][00000B98E56AC800 50] iPhone13ProMax, [00000B98E52E7700][00000B98E5652800 50] iPadPro105, [00000B98E52ED040][00000B98E56B0000 50] iPadPro129, [00000B98E52E9BC0][00000B98E56B5000 50] iPadPro97, [00000B98E52E94C0][00000B98E56B7800 50] iPadPro2_129, [00000B98E52E6200][00000B98E56BA000 50] iPad5, [00000B98E52E6900][00000B98E56BC800 50] iPad6, [00000B98E52EB440][00000B98E56A2800 50] iPad7, [00000B98E52E8DC0][00000B98E56C0000 50] iPad8, [00000B98E52EB280][00000B98E56C5000 50] iPad9, [00000B98E52E8A40][00000B98E56C7800 50] iPadPro11, [00000B98E52EB7C0][00000B98E56CA000 50] iPadPro2_11, [00000B98E52E8340][00000B98E56CC800 50] iPadPro3_11, [00000B98E52E63C0][00000B98E56B2800 50] iPadPro3_129, [00000B98E52ED900][00000B98E56F0000 50] iPadPro4_129, [00000B98E52EAD40][00000B98E56F5000 50] iPadPro5_129, [00000B98E52EBD00][00000B98E56F7800 50] AppleTV, [00000B98E52ECCC0][00000B98E56FA000 50] AppleTV4K, [00000B98E52E7540][00000B98E56FC800 50] TVOS, [00000B98E52EF500][00000B98E5750000 50] Mac, [00000B98E52EF880][00000B98E5752800 50] MacEditor, [00000B98E52E8180][00000B98E5757800 50] MacClient, [00000B98E52EC780][00000B98E575A000 50] MacServer, [00000B98E52EFC00][00000B98E56C2800 50] Linux, [00000B98E52EB0C0][00000B98E56F2800 50] LinuxEditor, [00000B98E52EFA40][00000B98E575C800 50] LinuxArm64Editor, [00000B98E52EE8C0][00000B98E5700000 50] LinuxArm64, [00000B98E52EF340][00000B98E5705000 50] LinuxClient, [00000B98E52EA2C0][00000B98E5707800 50] LinuxArm64Client, [00000B98E52EEE00][00000B98E570A000 50] LinuxServer, [00000B98E52EE1C0][00000B98E570C800 50] LinuxArm64Server, [00000B98E52EA9C0][00000B98E5755000 50] Android, [00000B98E52EDE40][00000B98E5740000 50] Android_Preview_OpenGL, [00000B98E52E47C0][00000B98E5745000 50] Android_Preview_Vulkan, [00000B98E52E5E80][00000B98E5747800 50] Android_Low, [00000B98E52EF180][00000B98E574A000 50] Android_Mid, [00000B98E52EFDC0][00000B98E574C800 50] Android_High, [00000B98E52EE000][00000B98E5702800 50] Android_Default, [00000B98E52EDC80][00000B98E5710000 50] Android_Adreno4xx, [00000B98E52EBB40][00000B98E5715000 50] Android_Adreno5xx_Low, [00000B98E52EC5C0][00000B98E5717800 50] Android_Adreno5xx, [00000B98E52EBEC0][00000B98E571A000 50] Android_Adreno6xx, [00000B98E52E7FC0][00000B98E571C800 50] Android_Adreno6xx_Vulkan, [00000B98E52E6580][00000B98E5742800 50] Android_Adreno7xx, [00000B98E52EC080][00000B98E5720000 50] Android_Adreno7xx_Vulkan, [00000B98E5770000][00000B98E5725000 50] Android_Mali_T6xx, [00000B98E5772300][00000B98E5727800 50] Android_Mali_T7xx, [00000B98E5772140][00000B98E572A000 50] Android_Mali_T8xx, [00000B98E5771F80][00000B98E572C800 50] Android_Mali_G71, [00000B98E5771DC0][00000B98E5712800 50] Android_Mali_G72, [00000B98E57724C0][00000B98E5730000 50] Android_Mali_G72_Vulkan, [00000B98E5770380][00000B98E5735000 50] Android_Mali_G76, [00000B98E5770E00][00000B98E5737800 50] Android_Mali_G76_Vulkan, [00000B98E57708C0][00000B98E573A000 50] Android_Mali_G77, [00000B98E5771500][00000B98E573C800 50] Android_Mali_G77_Vulkan, [00000B98E5772D80][00000B98E5722800 50] Android_Mali_G78, [00000B98E57701C0][00000B98E5760000 50] Android_Mali_G78_Vulkan, [00000B98E5772840][00000B98E5765000 50] Android_Mali_G710, [00000B98E57716C0][00000B98E5767800 50] Android_Mali_G710_Vulkan, [00000B98E5772BC0][00000B98E576A000 50] Android_Xclipse_920, [00000B98E5771A40][00000B98E576C800 50] Android_Xclipse_920_Vulkan, [00000B98E5770540][00000B98E5732800 50] Android_Vulkan_SM5, [00000B98E5773640][00000B98E5780000 50] Android_PowerVR_G6xxx, [00000B98E5771880][00000B98E5785000 50] Android_PowerVR_GT7xxx, [00000B98E5772680][00000B98E5787800 50] Android_PowerVR_GE8xxx, [00000B98E5772F40][00000B98E578A000 50] Android_PowerVR_GM9xxx, [00000B98E5771C00][00000B98E578C800 50] Android_PowerVR_GM9xxx_Vulkan, [00000B98E5770C40][00000B98E5762800 50] Android_TegraK1, [00000B98E5770FC0][00000B98E5790000 50] Android_Unknown_Vulkan, [00000B98E5774440][00000B98E5795000 50] Oculus_Quest, [00000B98E5771180][00000B98E5797800 50] Oculus_Quest2, [00000B98E5774B40][00000B98E579A000 50] HoloLens, 
+[2023.06.04-21.48.06:934][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.06.04-21.48.09:066][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.06.04-21.48.10:629][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.06.04-21.48.10:629][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.06.04-21.48.10:629][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.06.04-21.48.10:629][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.06.04-21.48.10:629][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.06.04-21.48.11:409][  0]LogNetVersion: Fletcher 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 1340048131)
+[2023.06.04-21.48.14:703][  0]LogSlate: Border
+[2023.06.04-21.48.14:703][  0]LogSlate: BreadcrumbButton
+[2023.06.04-21.48.14:703][  0]LogSlate: Default
+[2023.06.04-21.48.14:703][  0]LogSlate: Icons.Save
+[2023.06.04-21.48.14:703][  0]LogSlate: Icons.Toolbar.Settings
+[2023.06.04-21.48.14:703][  0]LogSlate: ListView
+[2023.06.04-21.48.14:703][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.06.04-21.48.14:703][  0]LogSlate: SoftwareCursor_Grab
+[2023.06.04-21.48.14:703][  0]LogSlate: TableView.DarkRow
+[2023.06.04-21.48.14:703][  0]LogSlate: TableView.Row
+[2023.06.04-21.48.14:703][  0]LogSlate: TreeView
+[2023.06.04-21.48.27:458][  0]SourceControl: Source control is disabled
+[2023.06.04-21.48.28:183][  0]SourceControl: Source control is disabled
+[2023.06.04-21.48.28:183][  0]SourceControl: Source control is disabled
+[2023.06.04-21.48.29:835][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2023.06.04-21.48.29:839][  0]LogUObjectAllocator: 5584264 out of 0 bytes used by permanent object pool.
+[2023.06.04-21.48.29:840][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.06.04-21.48.32:766][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: E926FB72493A6D1AE4742DB5AE9C47DF | Instance: 7865259342C383E8342DC5940EF277AF (DESKTOP-F7OBPQ0-24276).
+[2023.06.04-21.48.35:426][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.06.04-21.48.35:473][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.06.04-21.48.38:740][  0]LogPython: Using Python 3.9.7
+[2023.06.04-21.48.46:124][  0]SourceControl: Source control is disabled
+[2023.06.04-21.48.46:169][  0]SourceControl: Source control is disabled
+[2023.06.04-21.48.46:260][  0]SourceControl: Source control is disabled
+[2023.06.04-21.48.46:351][  0]LogUProjectInfo: Found projects:
+[2023.06.04-21.48.47:894][  0]LogOpenImageDenoise: OIDN starting up
+[2023.06.04-21.48.48:246][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.06.04-21.48.48:453][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.06.04-21.48.48:453][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.06.04-21.48.49:490][  0]LogCollectionManager: Loaded 0 collections in 0.000747 seconds
+[2023.06.04-21.48.50:442][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Saved/Collections/' took 0.00s
+[2023.06.04-21.48.50:442][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Content/Developers/Pontus/Collections/' took 0.00s
+[2023.06.04-21.48.50:442][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Content/Collections/' took 0.00s
+[2023.06.04-21.48.54:788][  0]LogAutomationTest: Warning: Smoke tests took >2s to run (2.86s). 'FAutomationTestAttemptToFindUninitializedScriptStructMembers' took 2507ms. SmokeFilter tier tests should take less than 1ms. Please optimize or move 'FAutomationTestAttemptToFindUninitializedScriptStructMembers' to a slower tier than SmokeFilter.
+[2023.06.04-21.48.54:977][  0]LogEngine: Initializing Engine...
+[2023.06.04-21.48.55:291][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.06.04-21.48.55:341][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.002 s
+[2023.06.04-21.48.58:282][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.06.04-21.48.58:451][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.06.04-21.48.58:892][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.04-21.48.59:650][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.06.04-21.49.00:043][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.06.04-21.49.00:184][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.06.04-21.49.00:260][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.06.04-21.49.00:261][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.06.04-21.49.00:361][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.06.04-21.49.00:361][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.06.04-21.49.00:399][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.04-21.49.00:399][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.04-21.49.00:399][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.04-21.49.00:399][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.04-21.49.00:399][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.04-21.49.00:399][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.04-21.49.00:399][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.04-21.49.00:400][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.04-21.49.00:421][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.04-21.49.00:421][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.04-21.49.00:421][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.04-21.49.00:519][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.04-21.49.00:596][  0]LogAudioMixer: Display: Using Audio Hardware Device Hörlurar (Razer Nari Ultimate - Game)
+[2023.06.04-21.49.00:624][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.04-21.49.00:659][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.04-21.49.00:659][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.04-21.49.00:689][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.06.04-21.49.00:689][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.06.04-21.49.00:691][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.06.04-21.49.00:691][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.06.04-21.49.00:691][  0]LogInit: FAudioDevice initialized.
+[2023.06.04-21.49.00:692][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.06.04-21.49.00:702][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.06.04-21.49.00:730][  0]LogInit: Texture streaming: Enabled
+[2023.06.04-21.49.00:993][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.06.04-21.49.01:035][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.06.04-21.49.01:197][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.06.04-21.49.01:243][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.06.04-21.49.01:243][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: FletcherEditor Win64 Development
+[2023.06.04-21.49.36:146][  0]LogLiveCoding: Display: First instance in process group "UE_Fletcher_0x236f5f17", spawning console
+[2023.06.04-21.49.36:146][  0]LogLiveCoding: Display: Waiting for server
+[2023.06.04-21.49.36:146][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.06.04-21.49.36:342][  0]LogInit: Transaction tracking system initialized
+[2023.06.04-21.49.37:182][  0]BlueprintLog: New page: Editor Load
+[2023.06.04-21.49.38:766][  0]LocalizationService: Localization service is disabled
+[2023.06.04-21.49.39:151][  0]TimingProfiler: Initialize
+[2023.06.04-21.49.39:152][  0]TimingProfiler: OnSessionChanged
+[2023.06.04-21.49.39:158][  0]LoadingProfiler: Initialize
+[2023.06.04-21.49.39:159][  0]LoadingProfiler: OnSessionChanged
+[2023.06.04-21.49.39:168][  0]NetworkingProfiler: Initialize
+[2023.06.04-21.49.39:183][  0]NetworkingProfiler: OnSessionChanged
+[2023.06.04-21.49.39:183][  0]MemoryProfiler: Initialize
+[2023.06.04-21.49.39:183][  0]MemoryProfiler: OnSessionChanged
+[2023.06.04-21.49.41:076][  0]LogSlate: Took 0.018586 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.06.04-21.49.54:813][  0]LogDerivedDataCache: C:/Users/Pontus/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:10.993 and deleted 0 file(s) with total size 0 MiB.
+[2023.06.04-21.55.38:163][  0]LogSlate: Window 'Low drive space warning' being destroyed
+[2023.06.04-21.55.38:214][  0]Message dialog closed, result: Ok, title: Low drive space warning, text: The following drive locations have limited free space.
+It is recommended that you free some space to avoid issues such as crashed and data loss due to files not being able to be written and saved.
+
+  3 382 MB Free 		 C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/
+ 				 The project directory. 
+
+[2023.06.04-21.55.44:871][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Content/' took 0.11s
+[2023.06.04-21.55.44:871][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.06.04-21.55.45:378][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.06.04-21.55.45:553][  0]SourceControl: Source control is disabled
+[2023.06.04-21.55.45:565][  0]LogUnrealEdMisc: Loading editor; pre map load, took 543.963
+[2023.06.04-21.55.45:680][  0]Cmd: MAP LOAD FILE="C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Content/Maps/FloatingIsles.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.06.04-21.55.45:686][  0]LightingResults: New page: Lighting Build
+[2023.06.04-21.55.46:163][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.06.04-21.55.46:449][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.04-21.55.46:675][  0]MapCheck: New page: Map Check
+[2023.06.04-21.55.46:675][  0]LightingResults: New page: Lighting Build
+[2023.06.04-21.55.47:771][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.04-21.55.48:216][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.06.04-21.55.48:652][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'FloatingIsles'.
+[2023.06.04-21.55.48:677][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.04-21.55.48:677][  0]LogAIModule: Creating AISystem for world FloatingIsles
+[2023.06.04-21.55.48:721][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.06.04-21.55.48:724][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2023.06.04-21.55.53:276][  0]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/CartoonWaterShader/Meshes/Waterfalls/SM_Waterfall_Bottom_Foam) ...
+[2023.06.04-21.55.54:180][  0]LogLinker: Warning: [AssetLog] C:\Users\Pontus\OneDrive\Dokument\Unreal Projects\Fletcher\Content\__ExternalActors__\Maps\FloatingIsles\E\0N\NCKIPV9KMU4PDP9TF9GSC3.uasset: Failed to load '/Game/Blueprints/Islands/Entrences/BP_Entrance_11': Can't find file.
+[2023.06.04-21.55.54:188][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Blueprints/Islands/Entrences/BP_Entrance_11'
+[2023.06.04-21.55.54:211][  0]LogWorldPartition: Warning: Can't load actor guid `3552F1FE40215777685DCE8450674987` ('BP_Entrance_11_C_UAID_049226BDA7E3508701_1958702211') from package '/Game/__ExternalActors__/Maps/FloatingIsles/E/0N/NCKIPV9KMU4PDP9TF9GSC3'
+[2023.06.04-21.55.54:486][  0]LogWorldPartition: Display: WorldPartition initialize took 5.76 sec
+[2023.06.04-21.55.54:997][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.06.04-21.55.55:034][  0]LogWorldPartition: Warning: Actor /Game/Maps/FloatingIsles.FloatingIsles:PersistentLevel.BP_Entrance_1_C_UAID_049226BDA7E34F8701_1402134127_GEN_VARIABLE_BP_Entrance_1_C_CAT_UAID_049226BDA7E3508701_1958703212 is unreachable without properly detaching object /Game/__ExternalActors__/Maps/FloatingIsles/E/0N/NCKIPV9KMU4PDP9TF9GSC3.PackageMetaData in its package
+[2023.06.04-21.55.55:060][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.06.04-21.55.55:080][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.06.04-21.55.55:084][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 3,506ms to complete.
+[2023.06.04-21.55.55:085][  0]LogFileHelpers: Loading map 'FloatingIsles' took 9.433
+[2023.06.04-21.55.57:296][  0]LogUnrealEdMisc: Total Editor Startup Time, took 555.691
+[2023.06.04-21.55.57:322][  0]LogShaderCompilers: Display: ================================================
+[2023.06.04-21.55.57:322][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.06.04-21.55.57:323][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.06.04-21.55.57:323][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.06.04-21.55.57:323][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.06.04-21.55.57:323][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.06.04-21.55.57:323][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.06.04-21.55.57:323][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.06.04-21.55.57:323][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.06.04-21.55.57:337][  0]LogShaderCompilers: Display: ================================================
+[2023.06.04-21.55.58:024][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.06.04-21.55.58:024][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.06.04-21.55.58:024][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.06.04-21.55.58:024][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.06.04-21.55.58:024][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.06.04-21.55.58:553][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.04-21.55.58:562][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.04-21.55.58:567][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.04-21.55.58:573][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.04-21.55.59:990][  0]LogSlate: Took 0.017750 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.06.04-21.56.00:006][  0]LogSlate: Took 0.014921 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.06.04-21.56.00:046][  0]LogViewport: Scene viewport resized to 2058x1262, mode Windowed.
+[2023.06.04-21.56.02:299][  0]LogStall: Startup...
+[2023.06.04-21.56.02:300][  0]LogStall: Startup complete.
+[2023.06.04-21.56.02:400][  0]LogLoad: (Engine Initialization) Total time: 560.80 seconds
+[2023.06.04-21.56.02:400][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.06.04-21.56.02:604][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'BP_Entrance_1_C_UAID_049226BDA7E34F8701_1402134127': BP_Entrance_11_C /Game/Maps/FloatingIsles.FloatingIsles:PersistentLevel.BP_Entrance_11_C_UAID_049226BDA7E3508701_1958702211
+[2023.06.04-21.56.02:604][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMeshActor_UAID_049226BDA7E34F8701_1775114296': BP_Entrance_11_C /Game/Maps/FloatingIsles.FloatingIsles:PersistentLevel.BP_Entrance_11_C_UAID_049226BDA7E3508701_1958702211
+[2023.06.04-21.56.02:604][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMeshActor_UAID_049226BDA7E3508701_1185122620': BP_Entrance_11_C /Game/Maps/FloatingIsles.FloatingIsles:PersistentLevel.BP_Entrance_11_C_UAID_049226BDA7E3508701_1958702211
+[2023.06.04-21.56.02:604][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMeshActor_UAID_049226BDA7E3508701_1207371621': BP_Entrance_11_C /Game/Maps/FloatingIsles.FloatingIsles:PersistentLevel.BP_Entrance_11_C_UAID_049226BDA7E3508701_1958702211
+[2023.06.04-21.56.02:604][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMeshActor_UAID_049226BDA7E3508701_1231645622': BP_Entrance_11_C /Game/Maps/FloatingIsles.FloatingIsles:PersistentLevel.BP_Entrance_11_C_UAID_049226BDA7E3508701_1958702211
+[2023.06.04-21.56.02:604][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMeshActor_UAID_049226BDA7E3508701_1304104623': BP_Entrance_11_C /Game/Maps/FloatingIsles.FloatingIsles:PersistentLevel.BP_Entrance_11_C_UAID_049226BDA7E3508701_1958702211
+[2023.06.04-21.56.02:604][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMeshActor_UAID_049226BDA7E3508701_1345253624': BP_Entrance_11_C /Game/Maps/FloatingIsles.FloatingIsles:PersistentLevel.BP_Entrance_11_C_UAID_049226BDA7E3508701_1958702211
+[2023.06.04-21.56.02:604][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMeshActor_UAID_049226BDA7E3508701_1387585625': BP_Entrance_11_C /Game/Maps/FloatingIsles.FloatingIsles:PersistentLevel.BP_Entrance_11_C_UAID_049226BDA7E3508701_1958702211
+[2023.06.04-21.56.02:604][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMeshActor_UAID_049226BDA7E3508701_1426714626': BP_Entrance_11_C /Game/Maps/FloatingIsles.FloatingIsles:PersistentLevel.BP_Entrance_11_C_UAID_049226BDA7E3508701_1958702211
+[2023.06.04-21.56.02:604][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMeshActor_UAID_049226BDA7E3508701_1459028627': BP_Entrance_11_C /Game/Maps/FloatingIsles.FloatingIsles:PersistentLevel.BP_Entrance_11_C_UAID_049226BDA7E3508701_1958702211
+[2023.06.04-21.56.02:604][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMeshActor_UAID_049226BDA7E3508701_1483898628': BP_Entrance_11_C /Game/Maps/FloatingIsles.FloatingIsles:PersistentLevel.BP_Entrance_11_C_UAID_049226BDA7E3508701_1958702211
+[2023.06.04-21.56.02:604][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMeshActor_UAID_049226BDA7E3508701_1529133629': BP_Entrance_11_C /Game/Maps/FloatingIsles.FloatingIsles:PersistentLevel.BP_Entrance_11_C_UAID_049226BDA7E3508701_1958702211
+[2023.06.04-21.56.02:604][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMeshActor_UAID_049226BDA7E3508701_1560007630': BP_Entrance_11_C /Game/Maps/FloatingIsles.FloatingIsles:PersistentLevel.BP_Entrance_11_C_UAID_049226BDA7E3508701_1958702211
+[2023.06.04-21.56.02:604][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMeshActor_UAID_049226BDA7E3508701_1584915631': BP_Entrance_11_C /Game/Maps/FloatingIsles.FloatingIsles:PersistentLevel.BP_Entrance_11_C_UAID_049226BDA7E3508701_1958702211
+[2023.06.04-21.56.02:604][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMeshActor_UAID_049226BDA7E3508701_1596258632': BP_Entrance_11_C /Game/Maps/FloatingIsles.FloatingIsles:PersistentLevel.BP_Entrance_11_C_UAID_049226BDA7E3508701_1958702211
+[2023.06.04-21.56.02:604][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMeshActor_UAID_049226BDA7E3508701_1623266633': BP_Entrance_11_C /Game/Maps/FloatingIsles.FloatingIsles:PersistentLevel.BP_Entrance_11_C_UAID_049226BDA7E3508701_1958702211
+[2023.06.04-21.56.02:604][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMeshActor_UAID_049226BDA7E3508701_1682005634': BP_Entrance_11_C /Game/Maps/FloatingIsles.FloatingIsles:PersistentLevel.BP_Entrance_11_C_UAID_049226BDA7E3508701_1958702211
+[2023.06.04-21.56.02:604][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMeshActor_UAID_049226BDA7E3508701_1691613635': BP_Entrance_11_C /Game/Maps/FloatingIsles.FloatingIsles:PersistentLevel.BP_Entrance_11_C_UAID_049226BDA7E3508701_1958702211
+[2023.06.04-21.56.02:604][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SharedRoot': BP_Entrance_11_C /Game/Maps/FloatingIsles.FloatingIsles:PersistentLevel.BP_Entrance_11_C_UAID_049226BDA7E3508701_1958702211
+[2023.06.04-21.56.02:915][  0]LogAssetRegistry: Asset discovery search completed in 485.2846 seconds
+[2023.06.04-21.56.03:155][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2023.06.04-21.56.03:532][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.06.04-21.56.03:622][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.06.04-21.56.06:893][  2]LogSlate: Took 0.014642 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.06.04-21.57.08:729][540]LogSlate: Window 'Message Log' being destroyed
+[2023.06.04-21.57.08:736][540]LogSlate: Window 'Message Log' being destroyed
+[2023.06.04-21.57.16:762][858]LogEditorViewport: Clicking Background
+[2023.06.04-21.57.39:190][339]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.06.04-21.57.39:575][339]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2023.06.04-22.21.40:672][ 11]LogSlate: Window 'Project Settings' being destroyed
+[2023.06.04-22.21.40:712][ 11]LogSlate: Window 'Project Settings' being destroyed
+[2023.06.04-22.21.51:788][538]Running E:/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe  -projectfiles -project="C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Fletcher.uproject" -game -rocket -progress
+[2023.06.04-22.21.53:587][538]Log file: C:\Users\Pontus\AppData\Local\UnrealBuildTool\Log_GPF.txt
+[2023.06.04-22.21.53:587][538]Discovering modules, targets and source code for project...
+[2023.06.04-22.21.56:205][538]Binding IntelliSense data...
+[2023.06.04-22.22.11:609][538]Binding IntelliSense data... 50%
+[2023.06.04-22.22.11:610][538]Binding IntelliSense data... 100%
+[2023.06.04-22.22.11:610][538]Writing project files...
+[2023.06.04-22.22.12:617][538]Writing project files... 100%
+[2023.06.04-22.46.59:432][416]LogSlate: Took 0.040245 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.06.04-22.47.04:201][416]LogSlate: Took 0.056419 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.06.04-22.49.48:147][704]LogDerivedDataCache: C:/Users/Pontus/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.179 and deleted 0 file(s) with total size 0 MiB.
+[2023.06.04-22.50.58:646][460]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Bow/Short_Bow" FILE="C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Content/Models/Bow/Short_Bow.uasset" SILENT=true
+[2023.06.04-22.50.58:896][460]LogPackageLocalizationCache: Processed 31 localized package path(s) for 1 prioritized culture(s) in 0.140388 seconds
+[2023.06.04-22.50.59:047][460]LogSavePackage: Moving output files for package: /Game/Models/Bow/Short_Bow
+[2023.06.04-22.50.59:048][460]LogSavePackage: Moving 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Saved/Short_Bow7422C8934CB640A57220319C99C3EE60.tmp' to 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Content/Models/Bow/Short_Bow.uasset'
+[2023.06.04-22.50.59:203][460]LogSavePackage: Moving output files for package: /Game/Materials/Textures/Short_Bow_Roughness
+[2023.06.04-22.50.59:203][460]LogSavePackage: Moving 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Saved/Short_Bow_Roughness3E603CEA43DB8899B8EB2C9E880F8567.tmp' to 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Content/Materials/Textures/Short_Bow_Roughness.uasset'
+[2023.06.04-22.51.00:559][460]LogSavePackage: Moving output files for package: /Game/Materials/Textures/Short_Bow_Normal_OpenGL
+[2023.06.04-22.51.00:559][460]LogSavePackage: Moving 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Saved/Short_Bow_Normal_OpenGL2877B4D24C8800AE13F2DD9F4CB2AF2E.tmp' to 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Content/Materials/Textures/Short_Bow_Normal_OpenGL.uasset'
+[2023.06.04-22.51.00:722][460]LogSavePackage: Moving output files for package: /Game/Materials/Textures/Short_Bow_Mixed_AO
+[2023.06.04-22.51.00:722][460]LogSavePackage: Moving 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Saved/Short_Bow_Mixed_AO2EE541504501E28DA0535B9C273B2239.tmp' to 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Content/Materials/Textures/Short_Bow_Mixed_AO.uasset'
+[2023.06.04-22.51.01:561][460]LogSavePackage: Moving output files for package: /Game/Materials/Textures/Short_Bow_Base_color
+[2023.06.04-22.51.01:561][460]LogSavePackage: Moving 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Saved/Short_Bow_Base_colorB87DDC9C4B1E7622B41909BC9640DF7D.tmp' to 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Content/Materials/Textures/Short_Bow_Base_color.uasset'
+[2023.06.04-22.51.02:756][460]LogUObjectHash: Compacting FUObjectHashTables data took  29.96ms
+[2023.06.04-22.51.02:867][460]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.06.04-22.51.02:913][460]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.06.04-22.51.02:946][460]LogPackageName: Error: FromPackageNameChecked: Invalid LongPackageName "/Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready__Short Bow_Skeleton"
+[2023.06.04-22.51.02:947][460]LogUObjectGlobals: Warning: Attempted to LoadPackage from empty PackagePath.
+[2023.06.04-22.51.02:947][460]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready__Short Bow_Skeleton'
+[2023.06.04-22.51.02:947][460]LogPackageName: Error: FromPackageNameChecked: Invalid LongPackageName "/Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready__Short Bow_Skeleton"
+[2023.06.04-22.51.02:947][460]LogUObjectGlobals: Warning: Attempted to LoadPackage from empty PackagePath.
+[2023.06.04-22.51.03:010][460]LogPackageName: Error: FromPackageNameChecked: Invalid LongPackageName "/Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready__Short Bow_Skeleton"
+[2023.06.04-22.51.03:010][460]LogUObjectGlobals: Warning: Attempted to LoadPackage from empty PackagePath.
+[2023.06.04-22.51.03:100][460]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (Bows_and_CrossBows_SketchFab_Ready__Short Bow) ...
+[2023.06.04-22.51.03:445][460]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.51.03:641][460]LogSavePackage: Moving output files for package: /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_
+[2023.06.04-22.51.03:642][460]LogSavePackage: Moving 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Saved/Bows_and_CrossBows_SketchFab_ReaDA6B95F441A1560DCD4AE5A7DF10611C.tmp' to 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Content/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.uasset'
+[2023.06.04-22.51.03:644][460]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Short_Bow" FILE="C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Content/Materials/Short_Bow.uasset" SILENT=true
+[2023.06.04-22.51.03:645][460]LogSavePackage: Moving output files for package: /Game/Materials/Short_Bow
+[2023.06.04-22.51.03:645][460]LogSavePackage: Moving 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Saved/Short_Bow64058C8448A145E51529AF9D7A83BBBE.tmp' to 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Content/Materials/Short_Bow.uasset'
+[2023.06.04-22.51.03:711][460]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.06.04-22.51.03:721][460]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.06.04-22.51.03:729][460]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.06.04-22.51.03:798][460]LogAssetRegistry: Warning: C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Content/Models\Bow\Short_Bow.uasset: package was marked as deleted in editor, but has been modified on disk. It will once again be returned from AssetRegistry queries.
+[2023.06.04-22.51.03:862][460]AssetCheck: New page: Asset Save: multiple assets
+[2023.06.04-22.51.03:863][460]LogContentValidation: Display: Validating Material /Game/Materials/Short_Bow.Short_Bow
+[2023.06.04-22.51.03:864][460]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Short_Bow_Roughness.Short_Bow_Roughness
+[2023.06.04-22.51.03:864][460]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Short_Bow_Normal_OpenGL.Short_Bow_Normal_OpenGL
+[2023.06.04-22.51.03:864][460]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Short_Bow_Mixed_AO.Short_Bow_Mixed_AO
+[2023.06.04-22.51.03:864][460]LogContentValidation: Display: Validating SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow
+[2023.06.04-22.51.03:864][460]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/Short_Bow_Base_color.Short_Bow_Base_color
+[2023.06.04-22.51.03:865][460]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.51.03:865][460]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.51.03:973][462]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.51.09:512][859]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.06.04-22.51.09:588][859]LogContentBrowser: Creating deferred item: NewFolder
+[2023.06.04-22.51.09:596][860]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.06.04-22.51.14:807][122]LogContentBrowser: Attempting asset rename: NewFolder -> Weaponry
+[2023.06.04-22.51.14:808][122]LogContentBrowser: End creating deferred item NewFolder
+[2023.06.04-22.51.22:622][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Short_Bow" FILE="C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Content/Materials/Short_Bow.uasset" SILENT=true
+[2023.06.04-22.51.22:624][587]LogSavePackage: Moving output files for package: /Game/Materials/Short_Bow
+[2023.06.04-22.51.22:625][587]LogSavePackage: Moving 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Saved/Short_Bow219C010544665621C96A8FAB2C94F732.tmp' to 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Content/Materials/Short_Bow.uasset'
+[2023.06.04-22.51.22:757][587]LogSavePackage: Moving output files for package: /Game/Materials/Weaponry/Textures/Short_Bow_Roughness
+[2023.06.04-22.51.22:757][587]LogSavePackage: Moving 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Saved/Short_Bow_Roughness3D860B1046A5753D40821AAA618F5F93.tmp' to 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Content/Materials/Weaponry/Textures/Short_Bow_Roughness.uasset'
+[2023.06.04-22.51.24:162][587]LogSavePackage: Moving output files for package: /Game/Materials/Weaponry/Textures/Short_Bow_Normal_OpenGL
+[2023.06.04-22.51.24:162][587]LogSavePackage: Moving 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Saved/Short_Bow_Normal_OpenGL4A01DC224AF040CF2806CFACCF930A33.tmp' to 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Content/Materials/Weaponry/Textures/Short_Bow_Normal_OpenGL.uasset'
+[2023.06.04-22.51.24:426][587]LogSavePackage: Moving output files for package: /Game/Materials/Weaponry/Textures/Short_Bow_Mixed_AO
+[2023.06.04-22.51.24:426][587]LogSavePackage: Moving 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Saved/Short_Bow_Mixed_AO947D4BCB43282C184C8D00A8E7960F44.tmp' to 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Content/Materials/Weaponry/Textures/Short_Bow_Mixed_AO.uasset'
+[2023.06.04-22.51.25:246][587]LogSavePackage: Moving output files for package: /Game/Materials/Weaponry/Textures/Short_Bow_Base_color
+[2023.06.04-22.51.25:246][587]LogSavePackage: Moving 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Saved/Short_Bow_Base_color2DDBCBB9486081723EE1718FF3FA69DA.tmp' to 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Content/Materials/Weaponry/Textures/Short_Bow_Base_color.uasset'
+[2023.06.04-22.51.25:294][587]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.06.04-22.51.25:330][587]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2023.06.04-22.51.25:339][587]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.06.04-22.51.25:419][587]LogSavePackage: Moving output files for package: /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_
+[2023.06.04-22.51.25:420][587]LogSavePackage: Moving 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Saved/Bows_and_CrossBows_SketchFab_Rea82EACA61485E9394B4CBD4B1E8A84B9D.tmp' to 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Content/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.uasset'
+[2023.06.04-22.51.25:422][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Weaponry/Short_Bow" FILE="C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Content/Materials/Weaponry/Short_Bow.uasset" SILENT=true
+[2023.06.04-22.51.25:424][587]LogSavePackage: Moving output files for package: /Game/Materials/Weaponry/Short_Bow
+[2023.06.04-22.51.25:424][587]LogSavePackage: Moving 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Saved/Short_BowF296DF41483C45398B619B81FE495285.tmp' to 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Content/Materials/Weaponry/Short_Bow.uasset'
+[2023.06.04-22.51.25:448][587]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.06.04-22.51.25:458][587]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.06.04-22.51.25:466][587]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.06.04-22.51.25:483][587]LogAssetRegistry: Warning: C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Content/Materials\Short_Bow.uasset: package was marked as deleted in editor, but has been modified on disk. It will once again be returned from AssetRegistry queries.
+[2023.06.04-22.51.25:491][587]AssetCheck: New page: Asset Save: multiple assets
+[2023.06.04-22.51.25:491][587]LogContentValidation: Display: Validating Material /Game/Materials/Weaponry/Short_Bow.Short_Bow
+[2023.06.04-22.51.25:491][587]LogContentValidation: Display: Validating Texture2D /Game/Materials/Weaponry/Textures/Short_Bow_Roughness.Short_Bow_Roughness
+[2023.06.04-22.51.25:491][587]LogContentValidation: Display: Validating Texture2D /Game/Materials/Weaponry/Textures/Short_Bow_Normal_OpenGL.Short_Bow_Normal_OpenGL
+[2023.06.04-22.51.25:491][587]LogContentValidation: Display: Validating Texture2D /Game/Materials/Weaponry/Textures/Short_Bow_Mixed_AO.Short_Bow_Mixed_AO
+[2023.06.04-22.51.25:491][587]LogContentValidation: Display: Validating SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow
+[2023.06.04-22.51.25:491][587]LogContentValidation: Display: Validating Texture2D /Game/Materials/Weaponry/Textures/Short_Bow_Base_color.Short_Bow_Base_color
+[2023.06.04-22.51.28:300][834]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.06.04-22.51.28:381][834]LogContentBrowser: Creating deferred item: NewFolder
+[2023.06.04-22.51.28:390][835]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.06.04-22.51.29:978][922]LogContentBrowser: Attempting asset rename: NewFolder -> Bow
+[2023.06.04-22.51.29:979][922]LogContentBrowser: End creating deferred item NewFolder
+[2023.06.04-22.51.31:908][ 38]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.06.04-22.51.31:920][ 38]LogContentBrowser: Creating deferred item: NewFolder
+[2023.06.04-22.51.31:930][ 39]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.06.04-22.51.33:489][122]LogContentBrowser: Attempting asset rename: NewFolder -> Arrow
+[2023.06.04-22.51.33:489][122]LogContentBrowser: End creating deferred item NewFolder
+[2023.06.04-22.51.36:912][357]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Weaponry/Short_Bow" FILE="C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Content/Materials/Weaponry/Short_Bow.uasset" SILENT=true
+[2023.06.04-22.51.36:915][357]LogSavePackage: Moving output files for package: /Game/Materials/Weaponry/Short_Bow
+[2023.06.04-22.51.36:916][357]LogSavePackage: Moving 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Saved/Short_Bow2F2D53AC47A5E88CEDBEDBBF85F5210F.tmp' to 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Content/Materials/Weaponry/Short_Bow.uasset'
+[2023.06.04-22.51.37:024][357]LogSavePackage: Moving output files for package: /Game/Materials/Weaponry/Bow/Textures/Short_Bow_Roughness
+[2023.06.04-22.51.37:024][357]LogSavePackage: Moving 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Saved/Short_Bow_Roughness834644D5432D1725C7EE459C0E453386.tmp' to 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Content/Materials/Weaponry/Bow/Textures/Short_Bow_Roughness.uasset'
+[2023.06.04-22.51.38:378][357]LogSavePackage: Moving output files for package: /Game/Materials/Weaponry/Bow/Textures/Short_Bow_Normal_OpenGL
+[2023.06.04-22.51.38:378][357]LogSavePackage: Moving 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Saved/Short_Bow_Normal_OpenGL1D1266484E9FCA12AA0808B8E1E9A188.tmp' to 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Content/Materials/Weaponry/Bow/Textures/Short_Bow_Normal_OpenGL.uasset'
+[2023.06.04-22.51.38:540][357]LogSavePackage: Moving output files for package: /Game/Materials/Weaponry/Bow/Textures/Short_Bow_Mixed_AO
+[2023.06.04-22.51.38:540][357]LogSavePackage: Moving 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Saved/Short_Bow_Mixed_AO4D9D43DF450562FD5575058091809B28.tmp' to 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Content/Materials/Weaponry/Bow/Textures/Short_Bow_Mixed_AO.uasset'
+[2023.06.04-22.51.39:312][357]LogSavePackage: Moving output files for package: /Game/Materials/Weaponry/Bow/Textures/Short_Bow_Base_color
+[2023.06.04-22.51.39:312][357]LogSavePackage: Moving 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Saved/Short_Bow_Base_color298BD1944C52F8A9CCB10884527A0F23.tmp' to 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Content/Materials/Weaponry/Bow/Textures/Short_Bow_Base_color.uasset'
+[2023.06.04-22.51.39:353][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.04-22.51.39:363][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.06.04-22.51.39:372][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.06.04-22.51.39:460][357]LogSavePackage: Moving output files for package: /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_
+[2023.06.04-22.51.39:461][357]LogSavePackage: Moving 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Saved/Bows_and_CrossBows_SketchFab_ReaCF40CB5A403B0CD157546F82407C97C1.tmp' to 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Content/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.uasset'
+[2023.06.04-22.51.39:463][357]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Weaponry/Bow/Short_Bow" FILE="C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Content/Materials/Weaponry/Bow/Short_Bow.uasset" SILENT=true
+[2023.06.04-22.51.39:464][357]LogSavePackage: Moving output files for package: /Game/Materials/Weaponry/Bow/Short_Bow
+[2023.06.04-22.51.39:465][357]LogSavePackage: Moving 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Saved/Short_Bow144740864A65AC23518FB89D29B16AE1.tmp' to 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Content/Materials/Weaponry/Bow/Short_Bow.uasset'
+[2023.06.04-22.51.39:505][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.06.04-22.51.39:514][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.06.04-22.51.39:523][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.06.04-22.51.39:539][357]LogAssetRegistry: Warning: C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Content/Materials\Weaponry\Short_Bow.uasset: package was marked as deleted in editor, but has been modified on disk. It will once again be returned from AssetRegistry queries.
+[2023.06.04-22.51.39:560][357]AssetCheck: New page: Asset Save: multiple assets
+[2023.06.04-22.51.39:560][357]LogContentValidation: Display: Validating Material /Game/Materials/Weaponry/Bow/Short_Bow.Short_Bow
+[2023.06.04-22.51.39:560][357]LogContentValidation: Display: Validating Texture2D /Game/Materials/Weaponry/Bow/Textures/Short_Bow_Roughness.Short_Bow_Roughness
+[2023.06.04-22.51.39:560][357]LogContentValidation: Display: Validating Texture2D /Game/Materials/Weaponry/Bow/Textures/Short_Bow_Normal_OpenGL.Short_Bow_Normal_OpenGL
+[2023.06.04-22.51.39:560][357]LogContentValidation: Display: Validating Texture2D /Game/Materials/Weaponry/Bow/Textures/Short_Bow_Mixed_AO.Short_Bow_Mixed_AO
+[2023.06.04-22.51.39:560][357]LogContentValidation: Display: Validating SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow
+[2023.06.04-22.51.39:560][357]LogContentValidation: Display: Validating Texture2D /Game/Materials/Weaponry/Bow/Textures/Short_Bow_Base_color.Short_Bow_Base_color
+[2023.06.04-22.52.10:785][104]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Models/Arrow/arrow) ...
+[2023.06.04-22.52.11:443][104]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Arrow/arrow" FILE="C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Content/Models/Arrow/arrow.uasset" SILENT=true
+[2023.06.04-22.52.11:473][104]LogSavePackage: Moving output files for package: /Game/Models/Arrow/arrow
+[2023.06.04-22.52.11:474][104]LogSavePackage: Moving 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Saved/arrow5AE2F749473DC88B384419866913CF79.tmp' to 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Content/Models/Arrow/arrow.uasset'
+[2023.06.04-22.52.11:476][104]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Weaponry/Arrow/arrow1" FILE="C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Content/Materials/Weaponry/Arrow/arrow1.uasset" SILENT=true
+[2023.06.04-22.52.11:477][104]LogSavePackage: Moving output files for package: /Game/Materials/Weaponry/Arrow/arrow1
+[2023.06.04-22.52.11:477][104]LogSavePackage: Moving 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Saved/arrow1FF3C3FEF4C8620998B2F178CF49D886A.tmp' to 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Content/Materials/Weaponry/Arrow/arrow1.uasset'
+[2023.06.04-22.52.11:568][104]LogSavePackage: Moving output files for package: /Game/Materials/Weaponry/Arrow/arrow_texture_tga
+[2023.06.04-22.52.11:568][104]LogSavePackage: Moving 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Saved/arrow_texture_tga4AA2BCDD46643595B48275B0D36F19CB.tmp' to 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Content/Materials/Weaponry/Arrow/arrow_texture_tga.uasset'
+[2023.06.04-22.52.12:436][104]LogSavePackage: Moving output files for package: /Game/Materials/Weaponry/Arrow/Arrows_Base_color
+[2023.06.04-22.52.12:436][104]LogSavePackage: Moving 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Saved/Arrows_Base_color0A0310064FD027E440AC9F99AC9B7BF7.tmp' to 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Content/Materials/Weaponry/Arrow/Arrows_Base_color.uasset'
+[2023.06.04-22.52.12:480][104]LogSavePackage: Moving output files for package: /Game/Materials/Weaponry/Arrow/Arrows_Metallic
+[2023.06.04-22.52.12:480][104]LogSavePackage: Moving 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Saved/Arrows_MetallicE7EEFF6544887B5ECF281598E37F0DD6.tmp' to 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Content/Materials/Weaponry/Arrow/Arrows_Metallic.uasset'
+[2023.06.04-22.52.12:711][104]LogSavePackage: Moving output files for package: /Game/Materials/Weaponry/Arrow/Arrows_Mixed_AO
+[2023.06.04-22.52.12:711][104]LogSavePackage: Moving 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Saved/Arrows_Mixed_AOE91CCF244098B197913AD8A04B53FF35.tmp' to 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Content/Materials/Weaponry/Arrow/Arrows_Mixed_AO.uasset'
+[2023.06.04-22.52.14:255][104]LogMeshUtilities: Finished distance field build in 2.1s - 7x21x7 sparse distance field, 0.0Mb total, 0.0Mb always loaded, 100% occupied, 366 triangles, arrow
+[2023.06.04-22.52.14:324][104]LogSavePackage: Moving output files for package: /Game/Materials/Weaponry/Arrow/Arrows_Normal_OpenGL
+[2023.06.04-22.52.14:325][104]LogSavePackage: Moving 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Saved/Arrows_Normal_OpenGLB7B9B8654CCE82154CCE90AB8CCDA8BE.tmp' to 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Content/Materials/Weaponry/Arrow/Arrows_Normal_OpenGL.uasset'
+[2023.06.04-22.52.14:389][104]LogSavePackage: Moving output files for package: /Game/Materials/Weaponry/Arrow/Arrows_Roughness
+[2023.06.04-22.52.14:389][104]LogSavePackage: Moving 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Saved/Arrows_Roughness041CBF86412E4311C96C1DB45265ED09.tmp' to 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Content/Materials/Weaponry/Arrow/Arrows_Roughness.uasset'
+[2023.06.04-22.52.14:450][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.06.04-22.52.14:460][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.06.04-22.52.14:471][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.06.04-22.52.14:511][104]AssetCheck: New page: Asset Save: multiple assets
+[2023.06.04-22.52.14:511][104]LogContentValidation: Display: Validating Material /Game/Materials/Weaponry/Arrow/arrow1.arrow1
+[2023.06.04-22.52.14:511][104]LogContentValidation: Display: Validating Texture2D /Game/Materials/Weaponry/Arrow/arrow_texture_tga.arrow_texture_tga
+[2023.06.04-22.52.14:511][104]LogContentValidation: Display: Validating Texture2D /Game/Materials/Weaponry/Arrow/Arrows_Roughness.Arrows_Roughness
+[2023.06.04-22.52.14:511][104]LogContentValidation: Display: Validating Texture2D /Game/Materials/Weaponry/Arrow/Arrows_Normal_OpenGL.Arrows_Normal_OpenGL
+[2023.06.04-22.52.14:511][104]LogContentValidation: Display: Validating Texture2D /Game/Materials/Weaponry/Arrow/Arrows_Mixed_AO.Arrows_Mixed_AO
+[2023.06.04-22.52.14:511][104]LogContentValidation: Display: Validating Texture2D /Game/Materials/Weaponry/Arrow/Arrows_Metallic.Arrows_Metallic
+[2023.06.04-22.52.14:511][104]LogContentValidation: Display: Validating Texture2D /Game/Materials/Weaponry/Arrow/Arrows_Base_color.Arrows_Base_color
+[2023.06.04-22.52.14:511][104]LogContentValidation: Display: Validating StaticMesh /Game/Models/Arrow/arrow.arrow
+[2023.06.04-22.52.20:006][483]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.06.04-22.52.20:102][483]LogContentBrowser: Creating deferred item: NewFolder
+[2023.06.04-22.52.20:112][484]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.06.04-22.52.24:813][732]LogContentBrowser: Attempting asset rename: NewFolder -> Textures
+[2023.06.04-22.52.24:814][732]LogContentBrowser: End creating deferred item NewFolder
+[2023.06.04-22.52.33:034][177]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.06.04-22.52.34:212][177]LogSlate: Window 'Delete Assets' being destroyed
+[2023.06.04-22.52.34:276][177]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.06.04-22.52.34:286][177]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.06.04-22.52.34:296][177]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.06.04-22.52.35:910][305]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Weaponry/Arrow/arrow1" FILE="C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Content/Materials/Weaponry/Arrow/arrow1.uasset" SILENT=true
+[2023.06.04-22.52.35:912][305]LogSavePackage: Moving output files for package: /Game/Materials/Weaponry/Arrow/arrow1
+[2023.06.04-22.52.35:913][305]LogSavePackage: Moving 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Saved/arrow15B8173CC470666033CFE8CA4BA4D3383.tmp' to 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Content/Materials/Weaponry/Arrow/arrow1.uasset'
+[2023.06.04-22.52.35:954][305]LogSavePackage: Moving output files for package: /Game/Materials/Weaponry/Arrow/Textures/arrow_texture_tga
+[2023.06.04-22.52.35:955][305]LogSavePackage: Moving 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Saved/arrow_texture_tgaFFAE2D334A7FCD94CB5CDFAF54A84338.tmp' to 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Content/Materials/Weaponry/Arrow/Textures/arrow_texture_tga.uasset'
+[2023.06.04-22.52.35:980][305]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.06.04-22.52.35:989][305]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.06.04-22.52.35:998][305]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.06.04-22.52.36:029][305]AssetCheck: New page: Asset Save: multiple assets
+[2023.06.04-22.52.36:029][305]LogContentValidation: Display: Validating Material /Game/Materials/Weaponry/Arrow/arrow1.arrow1
+[2023.06.04-22.52.36:029][305]LogContentValidation: Display: Validating Texture2D /Game/Materials/Weaponry/Arrow/Textures/arrow_texture_tga.arrow_texture_tga
+[2023.06.04-22.52.43:334][742]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.52.43:733][762]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.52.43:787][763]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.52.43:794][764]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.52.43:806][765]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.52.43:825][766]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.52.43:845][767]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.52.48:100][ 21]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.06.04-22.52.48:112][ 21]LogContentBrowser: Creating deferred item: NewFolder
+[2023.06.04-22.52.48:120][ 22]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.06.04-22.52.51:005][171]LogContentBrowser: Attempting asset rename: NewFolder -> Weaponry
+[2023.06.04-22.52.51:005][171]LogContentBrowser: End creating deferred item NewFolder
+[2023.06.04-22.52.53:071][287]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2023.06.04-22.52.53:071][287]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2023.06.04-22.52.54:310][410]LogPackageName: Error: FromPackageNameChecked: Invalid LongPackageName "/Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready__Short Bow_Skeleton"
+[2023.06.04-22.52.54:311][410]LogUObjectGlobals: Warning: Attempted to LoadPackage from empty PackagePath.
+[2023.06.04-22.52.54:311][410]LogPackageName: Error: FromPackageNameChecked: Invalid LongPackageName "/Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready__Short Bow_Skeleton"
+[2023.06.04-22.52.54:311][410]LogUObjectGlobals: Warning: Attempted to LoadPackage from empty PackagePath.
+[2023.06.04-22.52.54:479][410]LogPackageName: Error: FromPackageNameChecked: Invalid LongPackageName "/Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready__Short Bow_Skeleton"
+[2023.06.04-22.52.54:479][410]LogUObjectGlobals: Warning: Attempted to LoadPackage from empty PackagePath.
+[2023.06.04-22.52.54:668][410]LogScript: Error: Script Msg: /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready__Short_Bow_Anim : Invalid USkeleton supplied
+[2023.06.04-22.52.54:895][410]LogMetaData: Removing '/Game/Models/Weaponry/Arrow/arrow.arrow' ref from Metadata '/Game/Models/Arrow/arrow.PackageMetaData'
+[2023.06.04-22.52.54:948][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Weaponry/Arrow/arrow" FILE="C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Content/Models/Weaponry/Arrow/arrow.uasset" SILENT=true
+[2023.06.04-22.52.54:954][410]LogSavePackage: Moving output files for package: /Game/Models/Weaponry/Arrow/arrow
+[2023.06.04-22.52.54:954][410]LogSavePackage: Moving 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Saved/arrow15818A03464E6D52E3BA82A154A2A57B.tmp' to 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Content/Models/Weaponry/Arrow/arrow.uasset'
+[2023.06.04-22.52.54:984][410]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.06.04-22.52.54:995][410]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.06.04-22.52.55:004][410]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.06.04-22.52.55:080][410]LogSavePackage: Moving output files for package: /Game/Models/Weaponry/Bow/Bows_and_CrossBows_SketchFab_Ready__Short_Bow_Anim
+[2023.06.04-22.52.55:081][410]LogSavePackage: Moving 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Saved/Bows_and_CrossBows_SketchFab_ReaAE7AEB954ED3359904A7CDB280F2C65D.tmp' to 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Content/Models/Weaponry/Bow/Bows_and_CrossBows_SketchFab_Ready__Short_Bow_Anim.uasset'
+[2023.06.04-22.52.55:106][410]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.06.04-22.52.55:117][410]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.06.04-22.52.55:126][410]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.06.04-22.52.55:202][410]AssetCheck: New page: Asset Save: multiple assets
+[2023.06.04-22.52.55:202][410]LogContentValidation: Display: Validating AnimSequence /Game/Models/Weaponry/Bow/Bows_and_CrossBows_SketchFab_Ready__Short_Bow_Anim.Bows_and_CrossBows_SketchFab_Ready__Short_Bow_Anim
+[2023.06.04-22.52.55:202][410]LogContentValidation: Display: Validating StaticMesh /Game/Models/Weaponry/Arrow/arrow.arrow
+[2023.06.04-22.52.57:229][631]LogSlate: Window 'Failed Renames' being destroyed
+[2023.06.04-22.53.01:042][837]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.01:061][838]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.01:081][839]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.01:102][840]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.01:121][841]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.01:138][842]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.01:157][843]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.01:177][844]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.01:198][845]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.01:220][846]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.01:294][847]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.01:304][848]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.01:314][849]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.01:331][850]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.01:350][851]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.01:385][852]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.01:407][853]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.01:426][854]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.01:444][855]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.01:463][856]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.01:482][857]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.01:503][858]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.01:523][859]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.01:549][860]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.01:568][861]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.01:586][862]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.01:609][863]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.05:578][230]LogSlate: Window 'Failed Renames' being destroyed
+[2023.06.04-22.53.11:106][538]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.11:148][540]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.11:161][541]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.11:178][542]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.11:199][543]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.11:219][544]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.11:245][545]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.11:318][546]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.11:327][547]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.11:337][548]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.11:355][549]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.11:375][550]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.11:416][552]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.11:434][553]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.11:455][554]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.11:476][555]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.11:499][556]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.11:517][557]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.11:537][558]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.11:561][559]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.11:579][560]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.11:601][561]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.11:622][562]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.11:641][563]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.11:664][564]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.11:684][565]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.11:705][566]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.11:726][567]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.11:749][568]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.11:769][569]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.11:791][570]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.11:813][571]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.11:834][572]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.11:854][573]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.11:876][574]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.11:896][575]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.11:920][576]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.11:939][577]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.11:962][578]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.11:982][579]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.12:002][580]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.12:024][581]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.12:045][582]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.12:066][583]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.12:087][584]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.12:108][585]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.12:129][586]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.12:252][592]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.20:184][515]LogSlate: Window 'Failed Renames' being destroyed
+[2023.06.04-22.53.22:218][625]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.22:284][626]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.22:292][627]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.22:305][628]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.22:325][629]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.22:347][630]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.22:362][631]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.22:384][632]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.22:405][633]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.22:429][634]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.22:449][635]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.22:470][636]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.22:488][637]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.22:509][638]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.22:530][639]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.22:551][640]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.22:570][641]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.22:589][642]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.22:610][643]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.22:630][644]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.22:651][645]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.22:674][646]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.22:694][647]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.22:715][648]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.22:735][649]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.22:755][650]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.22:776][651]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.22:797][652]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.22:819][653]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.22:838][654]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.22:860][655]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.22:883][656]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.22:907][657]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.22:929][658]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.22:951][659]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.22:974][660]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.22:996][661]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.23:014][662]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.23:033][663]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.23:054][664]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.23:079][665]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.23:101][666]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.23:125][667]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.23:149][668]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.23:168][669]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.23:189][670]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.23:210][671]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.23:231][672]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.23:251][673]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.23:273][674]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.23:296][675]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.23:318][676]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.23:343][677]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.23:363][678]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.23:384][679]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.23:404][680]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.23:429][681]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.23:454][682]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.23:475][683]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.23:494][684]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.23:514][685]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.23:535][686]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.23:560][687]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.23:583][688]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.23:604][689]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.23:627][690]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.23:647][691]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.23:674][692]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.23:698][693]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.24:292][726]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.24:304][727]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.24:337][728]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.24:357][729]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.24:376][730]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.24:403][731]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.24:425][732]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.24:444][733]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.24:466][734]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.24:488][735]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.24:508][736]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.24:531][737]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.24:551][738]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.24:707][739]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/Bows_and_CrossBows_SketchFab_Ready_.Bows_and_CrossBows_SketchFab_Ready__Short Bow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.35:164][482]LogContentBrowser: Attempting asset rename: Bows_and_CrossBows_SketchFab_Ready__Short Bow -> ShortBow
+[2023.06.04-22.53.35:233][482]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Bow/ShortBow" FILE="C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Content/Models/Bow/ShortBow.uasset" SILENT=true
+[2023.06.04-22.53.35:251][482]LogSavePackage: Moving output files for package: /Game/Models/Bow/ShortBow
+[2023.06.04-22.53.35:251][482]LogSavePackage: Moving 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Saved/ShortBow03A0987A45E539381A928BBD8ECA5492.tmp' to 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Content/Models/Bow/ShortBow.uasset'
+[2023.06.04-22.53.35:277][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.06.04-22.53.35:287][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.06.04-22.53.35:296][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.06.04-22.53.35:300][482]AssetCheck: New page: Asset Save: ShortBow
+[2023.06.04-22.53.35:300][482]LogContentValidation: Display: Validating SkeletalMesh /Game/Models/Bow/ShortBow.ShortBow
+[2023.06.04-22.53.35:327][482]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.35:351][484]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.36:553][553]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.36:617][554]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.36:626][555]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.36:636][556]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.36:655][557]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.36:675][558]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.36:693][559]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.36:714][560]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.36:733][561]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.36:753][562]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.36:775][563]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.36:876][566]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.40:655][990]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Weaponry/ShortBow" FILE="C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Content/Models/Weaponry/ShortBow.uasset" SILENT=true
+[2023.06.04-22.53.40:674][990]LogSavePackage: Moving output files for package: /Game/Models/Weaponry/ShortBow
+[2023.06.04-22.53.40:674][990]LogSavePackage: Moving 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Saved/ShortBow03D640694D4DC14C65EEFFBFA7F13A24.tmp' to 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Content/Models/Weaponry/ShortBow.uasset'
+[2023.06.04-22.53.40:700][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.06.04-22.53.40:710][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.06.04-22.53.40:720][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.06.04-22.53.40:740][990]AssetCheck: New page: Asset Save: ShortBow
+[2023.06.04-22.53.40:740][990]LogContentValidation: Display: Validating SkeletalMesh /Game/Models/Weaponry/ShortBow.ShortBow
+[2023.06.04-22.53.45:859][516]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.46:319][536]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.46:444][537]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.46:453][538]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.46:472][539]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.46:493][540]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.46:513][541]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.46:533][542]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.46:553][543]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.46:574][544]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.46:594][545]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.46:614][546]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.46:633][547]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.46:653][548]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.46:672][549]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.46:692][550]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.46:789][553]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.47:634][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Weaponry/Bow/ShortBow" FILE="C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Content/Models/Weaponry/Bow/ShortBow.uasset" SILENT=true
+[2023.06.04-22.53.47:652][637]LogSavePackage: Moving output files for package: /Game/Models/Weaponry/Bow/ShortBow
+[2023.06.04-22.53.47:652][637]LogSavePackage: Moving 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Saved/ShortBowC48796674D365EB4E7DD8DB3C93F862E.tmp' to 'C:/Users/Pontus/OneDrive/Dokument/Unreal Projects/Fletcher/Content/Models/Weaponry/Bow/ShortBow.uasset'
+[2023.06.04-22.53.47:688][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.06.04-22.53.47:698][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.06.04-22.53.47:707][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.06.04-22.53.47:729][637]AssetCheck: New page: Asset Save: ShortBow
+[2023.06.04-22.53.47:729][637]LogContentValidation: Display: Validating SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow
+[2023.06.04-22.53.50:896][849]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.51:002][851]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.51:012][852]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.51:047][853]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.51:065][854]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.51:082][855]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.51:099][856]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.51:120][857]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.51:139][858]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.51:161][859]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.51:182][860]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.51:203][861]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.51:224][862]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.51:243][863]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.51:264][864]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.51:285][865]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.51:305][866]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.51:326][867]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.51:345][868]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.51:366][869]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.51:386][870]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.51:408][871]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.51:439][872]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.51:505][873]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.51:513][874]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.51:525][875]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.51:545][876]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.51:564][877]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.55:753][108]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.55:762][109]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.55:786][110]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.55:804][111]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.55:822][112]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.55:842][113]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.55:863][114]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.55:884][115]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.55:905][116]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.55:925][117]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.55:946][118]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.55:968][119]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.55:996][120]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.56:063][121]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.56:071][122]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.56:085][123]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.56:104][124]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.56:123][125]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.56:143][126]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.53.56:951][172]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Models/Weaponry/Bow/Bows_and_CrossBows_SketchFab_Ready__Short_Bow_Anim.Bows_and_CrossBows_SketchFab_Ready__Short_Bow_Anim
+[2023.06.04-22.54.05:330][172]LogSlate: Window 'Message' being destroyed
+[2023.06.04-22.54.05:371][172]Message dialog closed, result: Yes, title: Message, text: Could not find the skeleton for Anim 'Bows_and_CrossBows_SketchFab_Ready__Short_Bow_Anim' Would you like to choose a new one?
+[2023.06.04-22.54.05:452][172]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.06.04-22.54.07:347][172]LogSlate: Window 'Pick Replacement Skeleton' being destroyed
+[2023.06.04-22.54.07:866][192]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.54.07:931][193]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.54.07:939][194]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.54.07:951][195]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.54.07:969][196]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.54.07:987][197]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.54.08:010][198]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.54.08:028][199]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.54.08:052][200]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.54.08:072][201]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.54.08:093][202]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.54.08:112][203]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.54.08:133][204]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.54.08:156][205]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.54.08:177][206]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.54.08:198][207]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.54.08:217][208]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.54.08:237][209]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.54.08:257][210]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.54.08:277][211]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.54.08:297][212]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.54.08:318][213]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.54.08:346][214]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.54.08:367][215]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.54.08:389][216]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.54.08:409][217]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.54.08:431][218]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.54.08:450][219]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.54.08:476][220]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.54.08:497][221]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.54.08:517][222]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.54.08:536][223]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.54.08:557][224]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.54.08:579][225]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.54.08:598][226]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.54.08:619][227]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.54.08:640][228]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.54.08:659][229]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.54.08:679][230]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.54.08:700][231]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.54.08:719][232]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.54.08:742][233]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.54.08:762][234]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.54.08:861][240]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.54.08:878][241]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow has no skeleton. This needs to fixed before an animation can be set
+[2023.06.04-22.54.08:906][242]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Models/Weaponry/Bow/ShortBow.ShortBow
+[2023.06.04-22.54.11:034][242]LogSlate: Window 'Message' being destroyed
+[2023.06.04-22.54.11:042][242]Message dialog closed, result: Yes, title: Message, text: This mesh currently has no valid Skeleton. Would you like to create a new Skeleton?
